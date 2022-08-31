@@ -1,0 +1,51 @@
+- [[Gratitude List]]
+    -  I have all my limbs and motor skills
+- [[Quick Capture]]
+    - [[Dequeue Accessibility Course]]
+    - The Simple Path to Wealth
+        - Source:: [Youtube](https://www.youtube.com/watch?v=T71ibcZAX3I)
+        - The 4% rule
+            - Do you have enough assets that 4% of their value can cover your annual expenses
+                - The Trinity study
+            - 1 mil at 4% is 40K.
+                - If you can keep your costs below 40k, you are considered financially free
+        - Simple is what gives you the best resultsindex stocks
+            - broad based bonds and stocks
+            - It is the most powerful way to financial independence
+            - Simplicity allows you to do so in a way that allows you to focus on what you are actually interested in
+            - Picking stocks is not as effective and has a larger time commitment than indexing
+        - It's in the interest of wall street, they bang the drum of being able to time and to outperform the indexes, and you can too if you pay them
+        - Index investment gives you average results
+            - it outperforms active stock managers 95% of the time in a 15 year timespan, and 99% of the stock managers in a 30 year timespan.
+            - It is way too easy to guess wrong
+                - You have to pick the underdogs, which have no visibility and you have to avoid the safe ones that are at the top now but will crash later
+        - Investing in the market outperforms playing the market. 
+            - Market crashes are to be expected. What happened in 2008 was not something unheard.  It has happened before and it will happen again.  And again.  I’ve been investing for almost 40 years.  In that time we’ve had:
+                - The great recession of 1974-75.
+                - The massive inflation of the late 1970s & early 1980.  Raise your hand if you remember WIN buttons (Whip Inflation Now).  Mortgage rates were pushing 20%.  You could buy 10-year Treasuries paying 15%+.
+                - The now infamous 1979 Business Week cover:  “The Death of Equities,” which, as it turned out, marked the coming of the greatest bull market of all time.
+                - The Crash of 1987.  Biggest one day drop in history.  Brokers were, literally, on the window ledges and more than a couple took the leap.
+                - The recession of the  early ’90s.
+                - The  Tech Crash of the late ’90s.
+                - 9/11.
+                - And that little dust-up in 2008.
+            - The market always, always goes up
+                - If there is a normal distribution of how the assets are performin (and there is a bell curve) that means that the least performing go to 0, while the best performing have (unlimited?) returns.
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[MetaBook]]
+        - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

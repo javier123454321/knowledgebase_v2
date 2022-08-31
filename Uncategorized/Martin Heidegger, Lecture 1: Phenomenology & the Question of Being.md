@@ -1,0 +1,28 @@
+- Type:: [[Lecture]]
+- Author:: [[Erick Dodson]]
+- Subject:: [[Heidegger]] [[Phenomenology]] [[Being and Time]]
+- Source:: [Youtube](https://www.youtube.com/watch?v=EJpFJUe6be0)
+- Heidegger is doing the study of the nature of being in the most fundamental way possible. Husserl, his mentor, would focus on a regional ontology, asking the question in relation to the field which is being studied. 
+    - A fundamental study of being is a universalist study of being. Asking the question of being in a phenomenological way. Hasn't been done since the presocratics.
+        - All foundations of science, history, or philosophy are unfounded in this notion of being. We have been estranged from this question of being.
+- To let that which shows itself be seen from itself in the very way in which it shows itself from itself
+    - It is impossible to translate Heidegger into German.
+        - He makes up words partly because the European language families have the distinction of being separated into subjects and objects as part of their language. 
+            - Language pressuposes an ontology by its very structure. 
+                - The question arises on how to prevent this bias regarding the presupposition of your understanding. 
+                - Recognizing the structure of your understanding is part of the process of doing a Hermeneutic. 
+                - Biases are a necessary product of producing an observation of the world. 
+- Phenomenology itself is irreducibly preceded by existence in the world. 
+    - [[Alethia]]
+        - An uncovering (literally un-covering) or (dis-covering)
+            - [[Alethia]] According to Heidegger
+                - Truth is not the actual, fake gold is not "true" gold, but is real anyway.
+                    - Genuine gold is true gold. True gold is a being that conforms to an idea of what gold should be. 
+                        - Truth is the correspondence of the matter to knowledge
+                            - correspondence of a thing to our understanding of that thing
+                            - correspondence of that thing to a proposition of that thing
+        - The truth of existence is an uncovering, not the correspondence theory of truth
+            - Correspondence theory of truth - (Adequation)
+                - Something is true if it matches reality
+                - Requires something more fundamental according to Heidegger
+            - [[Alethia]] looks at the concealing notion of revealing a truth, which takes the focus away from another truth, misdirection

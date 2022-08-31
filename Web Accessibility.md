@@ -1,0 +1,5 @@
+- The web is beggining to mature into an industry with well established standards since its 25 years of common practice. While the Hypoccratic oath has been around 100 times longer.
+    - Accessibility should not feel like a hacky afterthought, but an inherent feature where the 'correct' approach is not laborious but feels more embedded.
+- Is the market inherently ableist, with little incentives to create an accessible web interface
+    - Litigation definitely sped up the pace of innovation in the field of web accessibility, 
+- 

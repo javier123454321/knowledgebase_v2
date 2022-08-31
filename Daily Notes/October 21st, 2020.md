@@ -1,0 +1,15 @@
+- 
+    - 
+    - [[Memory Captures]]
+    - [[home]]
+    - [[Personal]]
+- [[DONE]]
+    - [x] make draggable and stick to target locations
+- [[Quick Capture]]
+    - [[PHP - Build an MVC Framework from Scratch]]
+        - The index.php file serves 
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

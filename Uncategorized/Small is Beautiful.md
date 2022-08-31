@@ -1,0 +1,6 @@
+- Type:: [[Book]]
+- Author:: [[Ernst Friedrich Schumacher]]
+- Subject:: [[appropriate technology]] [[economics]]
+- Status:: [[finished]]
+- Abstract::
+    - 

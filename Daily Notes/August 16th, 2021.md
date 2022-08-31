@@ -1,0 +1,38 @@
+- [[Gratitude List]]
+    - Being passionately curious about a topic, whatever it is that day. 
+- [[What am I doing today towards my future]]
+- [[Quick Capture]]
+    - [[Valorize]]
+        - optimize your content strategy
+            - maybe topics are too broad, how many crypto influencers are there explaining crypto 101
+            - make content for content creators
+                - Why content creators should have your own token
+                - Having your own token and patreon which is better
+        - Optimize landing page, make every word count
+            - Talk about benefits, rethink the story of what people see, what they do on the website. 
+            - contact form might be too much on the frontpage.
+        - Talk about the action you want from people in your video
+            - Create awareness
+        - Talk to a few more users
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

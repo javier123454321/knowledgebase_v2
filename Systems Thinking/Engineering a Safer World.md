@@ -1,0 +1,9 @@
+- Type:: [[Book]] 
+- Source:: http://sunnyday.mit.edu/safer-world.pdf
+- Author:: Nancy Leveson
+- Subject:: [[Systems Thinking]] [[Complexity]]
+- Status:: [[In Progress]]
+- Abstract::
+- Summary::
+    - 
+- Grokked::

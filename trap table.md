@@ -1,0 +1,1 @@
+- A Trap Table is set up at boot time when the machine is in kernel mode and has full access to the machine hardware. It tells the machine which code to run when a specific event takes place (in the form of a trap-handler)

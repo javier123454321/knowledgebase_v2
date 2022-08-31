@@ -1,0 +1,14 @@
+- Type:: [[Article]]
+- Source:: https://www.econlib.org/library/Essays/hykKnw.html
+- Author:: [[Friedrich Hayek]] [[Hayek]]
+- Subject:: [[Economics]]
+- Status:: [[finished]]
+- Abstract::
+    - Society is in a constant state of attempting to allocate resources in the most efficient way. Even without central planning, resources get allocated, and the market mechanism that we have to do so is effective in condensing all that information to a single question as it pertains to an individual or firm, can I afford it?
+- Summary::
+    - Can experts be more effective at planning out the allocation of resources than markets? Each individual has the most relevant knowledge about their particular situation. Even beyond scientific knowledge, people know their embodied conditions of time and place more accurately than do experts.
+        - An individual, knowing the particular conditions of their environment often use that information to get some benefit in the economic sense. The amazing thing is that them taking advantage of this disparity in the market actually serves as an input to correct the market. It is information about the local conditions which you have, and the overall society can now factor that in.
+    - When something changes, that is when economic opportunities arise due to asymmetry of information. That asymetry is balanced by economic actors using that information for a profit. They get paid, and the market now has new inputs.
+        - > If we can agree that the economic problem of society is mainly one of rapid adaptation to changes in the particular circumstances of time and place, it would seem to follow that the ultimate decisions must be left to the people who are familiar with these circumstances, who know directly of the relevant changes and of the resources immediately available to meet them. We cannot expect that this problem will be solved by first communicating all this knowledge to a central board which, after integrating __all__ knowledge, issues its orders.
+    - 
+- Grokked::

@@ -1,0 +1,20 @@
+- [[Gratitude List]]
+    - Freedom and space, friends everywhere. I am the top .0000001% of luck in the world.
+- [[Quick Capture]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[MetaBook]]
+        - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What could be better?]]

@@ -1,0 +1,19 @@
+- Type:: [[Article]]
+- Source:: https://multicoin.capital/2018/02/13/new-models-utility-tokens/
+- Author:: [KYLE SAMANI](https://multicoin.capital/about#225b2112-7be1-5fc9-8755-db7e245ba5a5)
+- Subject:: [[Token Economics]] [[Tokenomics]] [[Token Engineering]]
+- Status:: [[In Progress]]
+- Abstract::
+    - 
+- Summary::
+    - There are three types of cryptoassets: stores of value, security tokens, and utility tokens
+		## [[Equation of Exchange]]
+        - [Equation of Exchange](https://www.investopedia.com/terms/e/equation_of_exchange.asp) is a method for valuing tokens ^84c552
+            - $$MV = PQ $$ therefore $$ M = PQ/V.$$
+            - proprietary payment currencies (Have to pay for services in the token) exerts continuous downward pressure. Due to the [Token Velocity Problem](https://multicoin.capital/2017/12/08/understanding-token-velocity/)
+                - [[Understanding Token Velocity]]
+        - Work Tokens
+            - Pay to be considered for earning. 
+                - [[Filecoin]] requires that you stake your token in order to perform work for the network, giving it back if you meet the requirements of uptime, etc.
+        - 
+- Grokked::

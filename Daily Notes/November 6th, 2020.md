@@ -1,0 +1,35 @@
+- [[Gratitude List]] 
+    - 
+- [[Spheres]] 
+    - [[Keypath]]
+        - [x] Talk to reinhardt about the red letters, the side labels and the responsiveness
+        - [x] Make sure I have emerson access [[November 9th, 2020]]
+        - [x] dd letter colors
+        - [x] remove incorrect answers on show all button
+        - [x] Left title bar
+        - Responsive carousel
+            - [x] next and previous button
+            - [x] Show dots at the bottom
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+- [[Quick Capture]]
+    - Conversation with Reinhardt
+        - no one is really doing anything by knowing
+        - Can you guide an experience
+            - podcast that guides the process of observation
+        - education focuses on simulations
+            - Cannot be self enclosed
+                - Has to connect with the real world, that cannot be simulated
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]
+- 

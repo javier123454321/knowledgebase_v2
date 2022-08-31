@@ -1,0 +1,41 @@
+- [[Gratitude List]]
+    - Honestly to live furthest into the future as possible. The technology today is 
+- [[What am I doing today towards my future]]
+- [[Quick Capture]]
+    - We Burned $140,000,000 Learning What NOT to Do in a [[Startup]] [[Justin Kan]]
+        - Source: [Youtube](https://www.youtube.com/watch?v=ou-68B1Teus)
+        - [[Cofounders]]
+            - Be super picky about who you bring into your startup.
+            - An easy trap to fall in is saying who can validate that this idea is worth working on. It should be someone that you can trust.
+        - [[employees]]
+            - Go through the process of asking for the reference
+            - Focus on getting the process right, otherwise it can lead to succumbing to the pressure of hiring just to fill that role.
+            - Never try to make it work with an employee. Cut the tie as soon as possible. Better to give a large enough severance to make it guilt free.
+                - If there is any doubt with a person, there is no doubt.
+                - I can't imagine not having this person. That's the aim of a new hire.
+        - Stay small as far as you can. 
+            - Money exacerbates what you have. If you have a problem, you''ll have more. If you have a solution, it exacerbates the solutions
+            - Startups are not milestone based as a lot of things you do before you start working on them
+        - 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

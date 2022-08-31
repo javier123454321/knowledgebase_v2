@@ -1,0 +1,10 @@
+- {{[[video]]: https://www.youtube.com/watch?v=wf6qfxJZpno}}
+    - Freedom as a priority emerges when the basic security of the population has been met. As safety and security disaspears, the larger the appeal of an authoritarian.
+- Type:: [[Video]]
+- Source:: [[All In]] 
+- Author:: 
+- Subject::
+- Status:: [[finished]] [[In Progress]] [[want to read]]
+- Abstract::
+- Summary::
+- Grokked::

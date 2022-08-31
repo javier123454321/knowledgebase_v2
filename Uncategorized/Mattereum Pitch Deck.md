@@ -1,0 +1,114 @@
+- P1 Climate Macro Strategy
+    - Proposition 1
+        - Earth Soaks up 16 Gigatons of CO2 per year
+            - 16 gigatons divided by 8bil people is 2 tons
+                - 2 tons per year per person in safe
+        - americans release 17 tons of Co2 per year
+    - Poverty vs Climate
+        - Proposition 2
+            - If the trend continues and the rural poor become the the urban rich we would have  3 billion people releasing around 10 tons each per year. 5 times the sustainable average
+            - Problem
+                - Development today means that they go towards this direction of higher consumption per person
+                - EVERY PATH WE HAVE OUT OF POVERTY == Higher Resource consumption
+            - Solution
+                - [[Bright green urbanism]]
+                    - Current process
+                        - Movement to cities
+                        - less co2 per dollar of gdp
+                        - improved solar
+                        - plunging birth rates
+                    - Problems
+                        - Comes with it an ever expanding middle class (with associated co2 consumption)
+                            - 2 tons per year per person in safe
+                                - Most cities are above this metric we need a 10x improvement in co2 consumption 
+                - Cheap solar
+                - Self driving fleets 
+                - [[circular economies]]
+                - pipe dreams
+                - [[Doughnut Economics]]
+                    - Lester Brown's Plan B
+                    - Most cities are above this metric we need a 10x improvement in co2 consumption 
+        - Possible models for the future 
+            - Kerala 
+                - GDP $10 a day 
+                - Human Development Index (not gdp) is .78 equal to Mexico and Georgia
+                - **Carbon Negative**
+            - Soft Development path
+                - High tech low impact
+                - Soft Energy Paths
+            - Lean Green vs Bright Green
+                - Reduce our consumption rather than increase our production
+                - Resource rich vs cash poor
+    - Cheap Durable ecological housing
+        - Hexayurt - efficient housing for refugees, the poor solution
+        - Climate refugees are coming, build cheap and affordable self housing
+- Solution
+    - Current Model
+        - investment->production -> consumption-> waste
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FwB9XM3xXxQ.png?alt=media&token=6994cf0f-89c8-4325-b722-5218f856a352)
+            - Waste produces capital depletion
+        - Investment and production have been revolutionized and optimized
+            - Proposal
+                - Direct waste streams into revenue streams (needs data)
+                - Current model : 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FlOKS0TvFlx.png?alt=media&token=e9fd7285-ae88-416b-99b5-72d92b8dcdd9) [source](http://library.uniteddiversity.coop/Transition_Relocalisation_Resilience/A%20Whole%20Systems%20Framework%20for%20Sustainable%20Production%20and%20Consumption.pdf)
+                    - Built on coal, not designed to be efficient. Massive waste, inneficiency, reduced profits and pollution
+                    - Completely optimized for the financial metric, extremely difficult to measure natural costs [[Ask Vinay]]
+                        - Propsal: Measure the costs
+                            - Blockchain is very much in its infancy
+                            - Using unreal and purely digital assets
+                            - How do we get material assets in there??
+                                - Domain names for physical objects
+                                - **Make every step profitable!**
+    - pt 3 Engineering Epistemology
+        - Eliminating online fraud by putting all the consumer goods on the blockchain
+            - Proves authenticity on both sides $$$ to be made$$
+            - 2 trillion market of fake goods sold to buyers
+            - 10s of trillions in discounts because sellers cannot prove authenticity [[Ask Vinay]]
+                - Second hand markets are completely necessary for [[circular economies]]
+        - Value is accessed through relationships and stories [[Ask Vinay]]
+            - Advertising is a story
+            - Brands are relationships
+            - A fair deal is when the story is true
+                - trade is impacted when the story is not
+        - Mattereum is a domain name for all things in the internet
+            - Make all physical matter accessible searchable, sorteable
+            - How do you look it up? Is this an open google [[Ask Vinay]]
+        - Blockchain provides https certificates to matter instead of webpages
+            - Mattereum allows for stories Advertising is a story to be done by experts
+            - How do you solve the oracle problem [[Ask Vinay]]
+                - Experts are the only ones allowed to certify a thing.
+                    - How do you relate the thing to the cryptographic signature? [[Ask Vinay]]
+                    - A community of experts can help identify the goods. Ecology, utility, identity, compliance, buyer, seller
+                        - How are these rewarded [[Ask Vinay]]
+                            - experts don't own the stuff
+        - 20% trust discount
+            - Where does this number get validated [[Ask Vinay]]
+            - Are these inneficiencies something that sellers are actually aware of [[Ask Vinay]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2Fn8Jkxtbp_R.png?alt=media&token=6846f916-3db1-4c64-85c3-f16f5ed3fdb4)
+        - Ecology experts asses the effect of an asset on the blockchain
+            - Does this mean that the price of something will be so high that people won't want to pay for it [[Ask Vinay]]
+    - Demand reduction (and less production)
+        - If assets can be succesfully verified, they can go around much more
+        - The market incentivises durable objects if they can be traded in the future (and there is a guarantee and little friction to do the trade)
+    - **Asset inventory works like video game inventory for a person**
+        - [[Ask Vinay]]
+            - Do you have to be registered
+            - Can anyone see everything that you own
+            - Do you have to track all your purchases, there is significant friction here
+            - Can others see your personal inventory
+            - How do you protect yourself from malicious attacks
+- Grokked::
+    - An attempt to reqrite the incentives of a wasteful economy with lots of externalities to a more closed loop econmy
+        - There seems to be a lot of wishful thinking, do people want this, what kind of validation has occured with real people?
+    - The problem statement is definitely well thought out, and attempting to look at the entire cycle of resource production and consumption in our economies.
+        - The problem is boiled down to this: so much of our definition of progress is predicated on the idea that we can produce more things for people as they join the global economy, and this will kill us unless we reframe it.
+            - The system was designed as a linear model, where waste and natural externalities are still afterthoughts in a system that produces too much waste and pollution.
+        - The question is how to take this problem and device a system that allows for that waste to be reintegrated (and the externalities measured)
+    - Is it a matter of measuring and closing the loop on inefficient waste, if so, a cryptographically validated and accessible asset passport network can help
+    - It is a matter of integrating the parts of the system that are neglected into the picture of the whole system
+- Thoughts on communication of it
+    - Precedents
+        - https://cleanet.org/clean/literacy/tools/UGC/infographic.html
+        - https://popchart.co/products/grand-taxonomy-of-rap-names
+    - Getting a 

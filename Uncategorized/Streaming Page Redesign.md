@@ -1,0 +1,22 @@
+- Type:: [[Project]]
+- Meeting Notes:
+    - The Waveform there is no future how to determine if there is a valid connection
+        - Interrupted connection vs muted audio
+    - The users are going to get a state that displays the connection status
+        - Minimize 
+    - States of errors - Phillip change 
+        - The status of the offline/online marker
+            - Connection from the source
+                - Is playing a static image - move to video?
+            - Connection from client
+            - Connection from server
+            - **Error state**
+    - RTMP vs MP3 audio stream
+        - Moving everything to the player
+        - Add audio sources
+    - ## copy the current stream to link button next to Player Mode goes to clipboard
+    - Keep chat status to the right 
+    - Angular jw video player is not good
+        - JW is not up to date
+    - Will set up a boilerplate with Phil, start consuming the information as a json encoded api. 
+        - Only have to worry about the contract between the front and backend.

@@ -1,0 +1,46 @@
+- [[Gratitude List]]
+    - Having built my situation, cultivated good habits, and worked to learn useful information
+- [[Quick Capture]]
+    - Think Fast, Talk Smart: Communication Techniques
+        - Type::  [[Video]]
+        - Source:: https://www.youtube.com/watch?v=HAnw168huqA
+        - Author:: Stanford Graduate School of Business 
+        - Subject::
+        - Status:: [[In Progress]]
+        - Abstract::
+            - 
+        - Summary::
+            - How many Fs in this sentence
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FVa0unO2Pza.png?alt=media&token=195c3b05-7fe7-44da-a849-c181c00ffa0c)
+                    - Most people see 3 but there are 6(think of the word of)
+            - Spontaneous speaking is more prevalent than planned speech
+                - To be an effective communicator, you need your anxiety under control. 
+            - Anxiety Management
+                - 85% of people are nervous while speaking to a group
+                    - top 5 fear in people today
+                    - Manage is the key, overcoming overrides the benefit of anxiety
+                - When people see a nervous speaker, they disengage
+                    - Comfort makes people engage
+                    - Get your audience to a place where they can receive your message.
+                - When anxiety comes, you can acknowledge it as normal to stop it from spiraling out of control
+                - The more you can focus on the present, the less concern about future states, and you become less nervous
+                    - Physical exertion helps
+                    - Tongue Twisters
+                    - Counting backwards at arbitrarily complex numbers.
+                - Dare to be dull
+                    - Instead of striving for greatness, just do what is in front.
+                    - It is ok to loose sometimes
+                    - Let go of ambitions, they force you to 
+        - Grokked::
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]

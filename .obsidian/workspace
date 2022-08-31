@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "4c61682ed78f9675",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ffa902a8864a35e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Uncategorized/Hungarian Lessons.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67a451d5e54f4a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc669ecdb03e5a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2800b8f438d5537",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76a9f357ff0a4298",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d40b026aa517048",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3f612cc652d84f6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffd4782b9fc37245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be96cf421113ccd2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Uncategorized/Hungarian Lessons.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.21760887742553325,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "00e80c854c4ac99f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38cb1f4e6697afa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Uncategorized/Hungarian Lessons.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "07b6a9a23d65615c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4c4f8b8e047694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Uncategorized/Hungarian Lessons.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244
+  },
+  "active": "1ffa902a8864a35e",
+  "lastOpenFiles": [
+    "Uncategorized/Only the Strong Survive.md",
+    "Uncategorized/Proof of Work.md",
+    "Proof of Stake.md",
+    "Uncategorized/A Proof Of Stake Design Philosophy.md",
+    "Uncategorized/The Alchemy of Hashpower, Part I..md",
+    "Uncategorized/Solving The Byzantine Generals Problem With Proof of Stake POS.md",
+    "Messari Cypto Report.md",
+    "Token Economy: How the Web3 reinvents the Internet.md",
+    "Daily Notes/August 2nd, 2021.md",
+    "Uncategorized/Hungarian Lessons.md"
+  ]
+}

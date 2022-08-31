@@ -1,0 +1,42 @@
+- An interdisciplinary newsletter curated by Javier Gonzalez
+- Fighting society's pressure to think small
+- 
+    - To curate content focused on outside the box solutions to the worlds biggest problems.
+    - To connect interesting people in disparate domains with each other
+    - To establish an audience and community interested in thinking outside the box
+    - To break down silos and get experts to understand what is relevant to them outside their field.
+    - To provide a platform for myself to launch an educational product in the future+
+    - To encourage me to produce more content and synthesize what I have tended to passively consume.
+- Thoughts on the project in the graph
+    - 
+- Intro
+    - Who is my audience
+        - I want to find my tribe of people that don't want to stay in their lanes
+    - On Specialization
+        - Specialization is great, it has moved us forward incredibly far. It has also led to amazing incremental discoveries and tools. The problem is when you get hyper specialized, and narrow more and more your domain to the point where it no longer is useful. 
+            - "Academia is the place where you become an expert in something so narrow that there are only 3 others who know what you are talking about and you will argue with until you die."
+        - I have a firm belief that specialization is best applied in collaboration between disciplines. My hope is to connect specialists and maybe even give a new perspective to someone who has developed a tunnel vision.
+    - Taglines::
+        - Looking for connections in what we usually think of as separate.
+        - Resisting society's pressure to think small.
+- Format
+    - {{[[diagram]]}}
+        - Possible formats, a roundup of links on different topics.
+            - too broad, I doubt that people will open it.
+        - Questions around a topic, find different thinkers that are looking at something from different angles
+            -  I like this
+        - Inerviews with people about their focus, and with the theme of how they got inspired to pursue what they do 
+            - I really like this.
+        - Per Newletter
+1 interesting interdisciplinary approach to a problem
+1 interesting fact about a specialized field and how it depends on another industry to exist
+1 interview or [[Article]]
+        - An interview with a leader in a field
+            - ** Questions for each ** [[interviewee]] 
+                - Who is the most influential thinker today
+                - Who are your contemporaries
+                    - Who would you wish to collaborate with outside your field?
+                - How did you get the idea or calling to this
+- [[Project]]
+    - **Write[[A Generalist Manifesto]]**
+        - [ ] Research specialization and generalization

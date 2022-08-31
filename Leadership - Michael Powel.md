@@ -1,0 +1,44 @@
+- Summary::
+    - leadership has many different shapes but it does involve at least two concepts which is a specific goal and motivating people towards that goal 
+        - influence us the tool used to achieve that
+            - misconceptions
+                - leadership comes in a title Dash this is a misconception because leadership cannot be appointed it can only be an influencer is correlated with a fancy title because people that rise have had a history of good leadership but you don't need the title to be a good leader
+                    -  employees teachers students
+                    - if leadership with correlated to position then they would be no just sent in the world just like there can be an ocular boss president or CEO, there can be a person in the team that does not have the title that is taking charge elevating the team
+                -  misconception leaders must be extroverts
+                    -  actually leadership does not only take managing people it requires the deep thought requires listening
+                - misconception there can only be one leader this is false because a good leader created other leaders doesn't create followers
+                - misconception that leaders do better if they are rewarded more than others. even if leaders can get paid more, seeking that put exclusively is seen as a weakness in leadership
+                    - leaders are motivated by the impact and the idea,  not the reward
+                - good leadership is good management
+                    - yes but being a good manager is not necessarily being a good leader
+                    - managers deal with planning, delegating, coaching, and making things happen.
+                    - leaders ask themselves why
+                        - dont deal with the oracticalities so exvlusively
+                    - Warren Bennes from USC - managers do things right, leaders do the right thing
+        - Kevin Cruz
+            - Leadership is the exertion of social influence to achieve collective goals
+            - A leader understands the goals and motivations of the individuals in a group and motivates them towards a goal that seems to the individuals as working towards their own goals.
+                - working to the achievment of the influencers vision is seen as working towards their own
+                - Social Influence is the ability to get a group of people 
+                - to have a general acceptance of a viewpoint
+                    - the different between getting others to do something something vs  doing their very best at something.
+    - a leader isn't just someone that can give a good speech and get people energized towards our goal. people lose motivation quickly after a short burst of energy like that. then they might continue to work towards that goal just because they don't want to hurt their relationship with the leader.
+        - that usually entails them not giving their best. a good leader is able to reshape the goal to align with their own vision of what they want.
+        - a good leader makes sure that the people that are following him are maximizing their effort by ensuring that the goal remains relevant to them.
+        - the question about whether anyone can exert social influence and Inspire others towards their goal by making them align their own goals with the vision of the leader
+    - chapter 2 characteristics
+        -  characteristic one. vision good leaders do not look at how things are but how things could be
+        - passionate,- good leaders are focused and sometimes consumed by a ppassion
+        - wise - they have made decisions and floundered them, have lived experience that makes them wose
+        - compassionate - while they understand a goal, they look after the people that
+        -  good leaders have charisma which only means that they have a personality personality that others are attracted to they also have public speaking skills which means that they can Inspire and convince people also 
+        - they have persistence to pursue their goals persistence is knowing that a destination to get to it requires to go through a multiple setbacks so when a setback does occur you are not surprised but you were expecting this
+        -  leaders have integrity which means that they do what they say and say what they do good leaders are courageous which means that they don't only go after lost your vision Ambitions they actually do the work to reach those lofty Ambitions they don't just stay in these ideas with that are comfortable to dream up but risk failing by executing them
+        - a good leader is also disciplined in their pursuit of their goals they control cravings and they don't get distracted by things that move them away from where they want to be with her they are goals 
+    - chapter 3 know about the playing field
+        - being the leader requires you knowing about the organization that you're leading. The team and their vision and their mission
+        -  types of towers that exist inside of organizations
+            - sometimes positions hold some degree of authority good by virtue of the title is associated to them for example the CEO or command some degree of power over people in the organization just by virtue of saying that he is the CEO
+            - this type of power and influence is the only effective it's combined with other types of power and influence because people will only respect power dynamic as long as they respect both the title and the person holding the title people also tend to respect the position if the last person that held that position was respectable or the set a previous people that held a position where respectable
+            -  if people don't believe that the person in that position earned the title to get to that position then they are more inclined to lose respect quote for the person with the title and for the position

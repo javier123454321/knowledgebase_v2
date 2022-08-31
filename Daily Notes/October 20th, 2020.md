@@ -1,0 +1,70 @@
+- 
+    - 
+        - [ ] Fix timetracking issues.
+        - **BUECS-1676**
+            - [x] check for right answers
+                - Start-Time:: 15:34
+                    - {{[[POMO]]: 25}}
+                    - {{[[POMO]]: 25}}
+            - [x] reset wrong answers
+            - Accessibility check
+                - [ ] Select target from a list
+                - [ ] Menu items list possible targets
+                - [ ] make menu appear on enter
+    - [[Memory Captures]]
+        - [x] Pitch Deck
+        - [x]  Post Flyer
+        - Design Revamp marketing page [[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
+                - [x] Footer
+                    - [x] Ensure that mailgun works
+            - Claim Page [[Memory Captures]]
+                - [x] figma prototype
+                - [x] above the fold
+            - [x] Blog Landing [[Memory Captures]]
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - [[home]]
+        - 
+    - [[Personal]]
+- [[DONE]]
+    - [x] make draggable and stick to target locations
+        - Start-Time:: 09:24
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+        - End-Time:: 15:18
+    - [x] Setup Project 
+        - Start-Time:: 13:38
+            - {{[[POMO]]: 25}}
+    - [x] Place elements in page
+        - Start-Time:: 14:12
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+    - **Dolly Caching**
+        - [x] Apply hotfix dolly
+            - [x] Investigate second call to css
+        - [x] Create PR, tag dave
+- [[Quick Capture]]
+    - [[Garry Tan]]
+        - The Stockdale Paradox [YouTube](https://www.youtube.com/watch?v=dLicgt04hHY)
+            - You must never confuse faith that you will prevail at the end-- which you can never afford to lose -- with the discipline to confront the most brutal facts of your current reality, whatever they may be.
+                - The optimists end up dying
+            - You need to know you will prevail in the end - a goal that is so ambitious that it will motivate you to be a 10 year overnight success
+                - Startups are callings
+                - The 10 year overnight success
+                - Knowing you will prevail but having a plan that is reevaluated as the data comes in. 
+            - Just because the full consequences havent hit yet, doesn't mean that there is no problem - Charlie Munger
+                - You need to acknowledge the problems - don't lie to yourself, then the problems become unknown unknowns.
+                - You need an extreme devotion to the truth, if you can't have that conversation with your management, then ypu have no management
+            - To start a company you need to study reality carefully, then you need to bend it.
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

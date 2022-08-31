@@ -1,0 +1,1 @@
+- [[brightness]] or lightness {{[[r/moved]]}}[*](((0nX9VGp62)))

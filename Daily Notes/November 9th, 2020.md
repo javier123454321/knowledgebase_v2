@@ -1,0 +1,28 @@
+- [[HSV value]] {{[[∆]]:7+2}}
+- [[Gratitude List]] 
+- [[Spheres]] 
+    - [[Keypath]]
+        - [x] submit all on show correct answers
+        - [x] disable submit button after submission
+        - [x] make sure that submit only enables once everything has been resubmitted
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+- [[Quick Capture]]
+    - Game of Trust
+        - Game theory explained in a [[videogame]]
+        - https://ncase.me/trust/
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]
+- [[Quick Capture]]
+    - the slip box is designed to be indeterminate
+completeness arlbd outlines emerge later

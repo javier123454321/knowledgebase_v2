@@ -1,0 +1,12 @@
+- Type:: [[Article]]
+- Source:: [WHAT IS COMPLEXITY?](http://complexity.martinsewell.com/Gell95.pdf)
+- Author:: [[Murray Gell-Mann]]
+- Subject:: [[Complexity]] [[Chaos]] [[Systems Thinking]]
+- Status:: [[In Progress]]
+- Abstract::
+- Summary::
+    - In computer science we define complexity in space and time to calculate a given algorithm.
+        - In applying this to a real world problem, computational approach to complexity is the measure which an algorithm can increase the variables of the system and grow in an efficient way.
+            - The search for regularities within a complex system defines the measure, a completely random system has no regularities and is therefore not complex, as is a completely regular system.
+                - You find complexity in a region intermediate between total order and complete disorder - [[Murray Gell-Mann]]
+- Grokked::

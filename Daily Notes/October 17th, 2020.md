@@ -1,0 +1,116 @@
+- [[Spheres]] 
+    - [[Keypath]]
+        - **Flowchart1**
+            - [x] click handler close modal
+        - **Dolly Caching**
+            - [x] Apply hotfix dolly
+            - [x] Create PR, tag dave
+        - **Flowchart2**
+            - [x] Create graphics in Illustrator 
+            - [x] Toggle modal windows
+            - [x] Record modal anwers
+    - [[Memory Captures]]
+        - Design Revamp marketing page [[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
+                - [x] Footer
+                    - [x] Ensure that mailgun works
+            - Claim Page [[Memory Captures]]
+                - [x] figma prototype
+                - [x] above the fold
+            - [x] Blog Landing [[Memory Captures]]
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - [[Other]]
+    - [[Personal]]
+        - [ ] Investigate persisting login  site]]
+- 
+    - [x] Numbers section
+        - [x] Background
+        - [x] Dynamic Counter
+        - [x] Animate Photo Share
+    - [x] How it works section
+        - [x] Layout page
+            - Start-Time:: 10:35
+                - {{[[POMO]]: 25}}
+                    - {{[[POMO]]: 5}}
+                - {{[[POMO]]: 25}}
+        - [x] Lazy load
+            - {{[[POMO]]: 25}}
+        - [x] appear on scroll
+            - {{[[POMO]]: 25}}
+        - [x] zoom in
+        - [x] animate total
+    - [x] Above the fold
+    - [x] login form close on click away
+        - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 5}}
+        - {{[[POMO]]: 25}}
+- [[Quick Capture]]
+    - [See Your Career as a Product](https://eriktorenberg.substack.com/p/see-your-career-as-a-product?utm_medium=email&utm_campaign=cta) [[Article]]
+        - Quotes::
+            - __"
+When building a product, you want something that is 10x better than the competition. Only after you have that do you begin doubling down on marketing, PR, and other growth tactics — the common advice is to nail retention before focusing on growth.
+"__
+            - __"Other product tropes also apply to careers: Capitalize on unfair advantages, insights, or relationships. Disrupt orthogonally, often from below—try not to compete head on. When you’re younger, take more market risk; when you’re more experienced, take execution risk."__
+            - __“What are the things you can do today which make it easier to obtain your desired resources  and career opportunities tomorrow, in a way that’s defensible and compounds overtime?”__
+            - __"IMO the biggest career mistake young people make is that they’re afraid to look dumb, so they follow safe paths to cap their downside, not realizing that they cap their upside too as a result."__
+            - __"Specialized knowledge and skills makes brand legibility much easier too. Just give a talk, write a post, or go on a podcast and boom — your expertise is widely known, cemented on the internet and disseminated widely."__
+                - On the usefulness of [[specialization]] when starting out - it gives you access to platforms that you might not get otherwise. Also networks. [[specialization]] is a tool in this context.
+            - --"In 99% of cases, people don’t need to grow your network as much as they need to elevate how highly their existing network thinks about them — by developing rare & valuable knowledge & skills."__
+                - Being strategic about how you leverage the small group that you have influence or pull with. 
+            - __"People feel they don’t have a network because they aren’t actively networking. But, remember, networks are heat-seeking missiles for value. __Provide the value, and the network is there."__
+        - In the context of a career, many product analogies do make sense. 
+            - Iterate fast.== Change jobs quickly if one is not working
+            - don't listen to people that are not your direct consumers == Taking advice from people that pursued a safe path unrelated to yours
+            - Building another bland "me-too" product == Not taking enough career risk
+        - On Building networks:
+            - The problem with a lot of people is that they are not strategic about the value they are providing their network, It is much more valuable to integrate people in the value generating process early, so people want to have a coffee with you, and if they do it is worth their time.
+                - Refine your knowledge to make their time with you valuable.
+            - Building networks that are too wide is like focusing on growth before finding product market fit. It takes too much time to maintain, and does not allow you to take as many risks for because ding the wrong thing can have an adverse effect on your risk.
+                - Building a wide network increases the risk of doing something that otherwise might still be risky but not as bad
+    - Tiago Forte on P.A.R.A. Resource:: [[productivity]]
+        - Project - A series of tasts linked to a goal with a deadling
+        - Area of Responsibility - A sphere of activity with a standard to be maintained over time
+        - Resource -  A topic of ongoing interest
+        - Archive - Inactive items from the other 3 categories
+        - A project and an area of responsibility are two distinct things
+            - Confusion is a cause of many productivity problems
+            - Project is a goal to be achieved **With a deadline** ex: [[MC landing page]]
+                -  A discrete event that will happen and it has a moment in time where it will be finished
+            - An Area has a standard to be maintained. It is fluid, with no set outcomes. **It continues indefinitely**
+            - Projects will always nest inside areas
+                - {{[[diagram]]}}
+                    - Areas
+                        - Health
+                    - Projects - Binary Complete | Incomplete
+                        - Running a marathon
+    - leadership has many different shapes but it does involve at least two concepts which is a specific goal and motivating people towards that goal
+        - influence us the tool used to achieve that
+            - misconceptions
+                - leadership comes in a title Dash this is a misconception because leadership cannot be appointed it can only be an influencer is correlated with a fancy title because people that rise have had a history of good leadership but you don't need the title to be a good leader
+                    -  employees teachers students
+                    - if leadership with correlated to position then they would be no just sent in the world just like there can be an ocular boss president or CEO, there can be a person in the team that does not have the title that is taking charge elevating the team
+                -  misconception leaders must be extroverts
+                    -  actually leadership does not only take managing people it requires the deep thought requires listening
+                - misconception there can only be one leader this is false because a good leader created other leaders doesn't create followers
+                - misconception that leaders do better if they are rewarded more than others. even if leaders can get paid more, seeking that put exclusively is seen as a weakness in leadership
+                    - leaders are motivated by the impact and the idea,  not the reward
+                - good leadership is good management
+                    - yes but being a good manager is not necessarily being a good leader
+                    - managers deal with planning, delegating, coaching, and making things happen.
+                    - leaders ask themselves why
+                        - dont deal with the oracticalities so exvlusively
+                    - Warren Bennes from USC - managers do things right, leaders do the right thing
+        - Kevin Cruz
+            - Leadership is the exertion of social influence to achieve collective goals
+            - A leader understands the goals and motivations of the individuals in a group and motivates them towards a goal that seems to the individuals as working towards their own goals.
+                - working to the achievment of the influencers vision is seen as working towards their own
+                - Social Influence is the ability to get a group of people 
+                - to have a general acceptance of a viewpoint
+                    - the different between getting others to do something something vs  doing their very best at something.
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

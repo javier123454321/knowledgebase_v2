@@ -1,0 +1,18 @@
+- 
+    - 
+    - [[Memory Captures]]
+        - 
+    - [[home]]
+        - 
+    - [[Personal]]
+        - 
+- [[DONE]]
+    - [x] Answers stopped working
+- [[Quick Capture]]
+    - I have a feeling that I have given myself another job, and I don't really want to continue doing this. I woke up at 6:30 am to have a meeting at 7 to 9. Then from 9 to 5 I worked, ran for a bit then went to Deuces to stock at 6:30, Mariachi at 7 and got back at 10. All the MC work is giving me $35, + 50 dollard a week. I barely am making minimum wage for administration stuff, and it seems that the current rate of growth won't allow for a supervisor until 8 months for now.
+        - I don't really want to weather the 8 months to maybe get some relief then.
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

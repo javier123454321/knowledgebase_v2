@@ -1,0 +1,33 @@
+- Source:: [Anarchitecture](https://anarchitecturepodcast.com/ana030/)
+- Type:: [[Podcast]]
+- Author:: Scott Beyer
+- Summary::
+    - Cities of granular entities that are creating transactions between nodes and units as opposed to a top-down organized entity
+    - How would cities grow without an interference by a government?
+        - The concept of a private city is basically non existent in the real world.
+        - How can cities grow in the search for mutually beneficial developments between people and their environment
+    - Problems that define our cities
+        - Why do downtowns empty at 5 p.m.
+        - Homelessness
+        - Sprawl
+        - Automobile Focus
+        - Difficulty for economic development plans to be approved.
+    - [[Jane Jacobs]], [[Edward Glaeser]]
+    - City as a street ballet of voluntary exchange
+        - No one allocates how many corner stores need to exist in a neighborhood
+        - People can build ADUs (Accesory Dwelling Units) and bring more value to their property, can create accessory income. - these tend to be outlowed
+            - Better than nothing, an ADU is one kind of market solution, but other solutions, like allowing you to build what you want is much better.
+            - Market solutions lead to more higher quality housing.
+            - Markets that allow ne****w housing tend to create new higher quality lower income housing. 
+    - [[Gentrification]]
+        - Less than 10% of the people end up leaving? - need to check this source
+            - [Source of claim](http://wethefifth.com/episodes/188-anti-racism-part2)
+        - [[Gentrification]] does allow for people that own property to gain more value in your property.
+            - Can give vouchers for priority
+        - Anti [[Gentrification]] people can never guarantee a neighborhood to remain static. Nor should that be a goal. 
+        - Counter Balance, the desolated real estate as money parking avenue for Saudi oil money. Gentrification can be a real issue when prices are driven to a point where real estate is not for housing, and downtown London, for example, is completely empty of living units.
+        - Transportation industries
+            - Pesceros en Mexico
+                - Travel based on market demand
+                - completely market driven transportation infrastructure
+        - [[Order Without Design: How Markets Shape Cities]] [[want to read]]

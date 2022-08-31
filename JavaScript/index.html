@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    
+</body>
+</html>
+<script>
+function setUp(){
+
+    var buttonClicks = 0
+
+    console.log("initial set-up");
+
+    function handleClick(){
+        var buttonMessage = `button clicked ${buttonClicks} times`;
+        console.log(buttonMessage);
+		buttonClicks += 1;
+        }
+
+    document.body.innerHTML += `<button id="btn1">click me!</button>`;
+
+    window.document.getElementById("btn1").addEventListener("click", handleClick);
+};
+
+//Remember to call it so that everything runs at least once.
+setUp();
+</script>

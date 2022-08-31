@@ -1,0 +1,35 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - Practical Go: Real World Advice For Writing Maintainable Go Programs
+        - Type:: [[Lecture]]
+        - Source:: https://www.youtube.com/watch?v=EXrEd1-GZR0
+        - Author:: [[Dave Cheney]]
+        - Subject::  [[Go]] [[Golang]] [[programming]]
+        - Status:: [[finished]] [[In Progress]] [[want to read]]
+        - Abstract::
+        - Summary::
+            - Complexity is the effort required to understand what the system is doing.
+            - Go was designed while waiting for a C++ program to compile
+            - Naming
+                - The closer the variable declaration to its use, the shorter the variable name is.
+                    - Lengthy names can be more confusing
+                    - The compiler removes the need to name the variable type. 
+                    - usersMap can just be users
+                    - for function parameters
+                        - ```javascript
+func do(config *Config)
+// can be reduced to just c (or conf if it is a longer method)```
+                        - 
+        - Grokked::
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]

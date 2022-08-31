@@ -1,0 +1,58 @@
+- [[Gratitude List]] 
+    - The liberty to move and see the world
+    - Enough resources to get anything that I need
+    - That I am in a job where I am learning new things every day
+- [[Spheres]] 
+    - [[Keypath]]
+        - **BUECS-1676**
+            - [x] import rxjs
+                - {{[[POMO]]: 25}}
+            - [x] Subscribe to updates when changing
+                - {{[[POMO]]: 25}}
+            - [x] count times submitted
+                - {{[[POMO]]: 25}}
+            - View
+                - [x] render tables 
+                - [x] track answer input
+                    - {{[[POMO]]: 25}}
+                    - {{[[POMO]]: 25}}
+                - [x]  display submit button
+                    - {{[[POMO]]: 25}}
+                    - {{[[POMO]]: 25}}
+                - [x] activate submit button when complete
+                - [x] check answers on the table
+                - [x] reset incorrect answers
+                - [x] Display show correct answer buttons after 2 incorrect submissions
+                - [x] Label correct
+                - [x] Track when all have been submitted
+            - Functionality
+                - [x] Reset all activities button when all are correct
+                - [x] remove all answers from selections
+                - [x] remove buttons when page is reset
+                - [x] reset data on tables on reset button
+                    - {{[[POMO]]: 25}}
+                - [x] Add titles to tables
+                - [x] Render red certain cells
+                - [x] Submit when render all answers
+                - [x] import correct values from json file
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - Claim Page
+            - [x] above the fold
+            - [x] display picture / share
+            - [ ] fix min height on landing
+            - [ ] Populate the search bar from home page
+            - [x] Sign up form modal for Newsletter on load
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+- [[Quick Capture]]
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

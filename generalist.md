@@ -1,0 +1,1 @@
+- Reality is infinitely complex. By nature humans need to create abstract and reduced ideas about the world to make it intellegible. We need to narrow down our focus to make sense of the infinite amount of information that our senses perceive. 

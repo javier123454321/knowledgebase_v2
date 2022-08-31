@@ -1,0 +1,23 @@
+- [[Gratitude List]]
+    - Being able to go to cities like NY on a whim, based on a series of previous good decisions.
+    - Having the support of my wife and best friend.
+    - Doing interesting work all the time
+- [[Quick Capture]]
+    - [Let’s Not Backtrack on Loosening ‘Accredited Investor’ Rules](https://www.cato.org/commentary/lets-not-backtrack-loosening-accredited-investor-rules)
+        - The SEC currently says that the 'unsophisticated' investor CANNOT participate in the risky game of pre-IPO investment. 
+            - This is a perverse thing where your only problem is that you are not rich enough to participate in the things that provide the most upside.
+            - Changing this would be one of the omst transformational opportunities for a middle class
+        - A way for the rich to get richer
+            - Paternalistic laws.
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]

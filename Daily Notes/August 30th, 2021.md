@@ -1,0 +1,37 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - Moving beyond coin voting governance
+        - Type:: [[Book]] [[Podcast]] [[Lecture]] [[Video]]
+        - Source:: https://vitalik-eth-link.ipns.dweb.link/general/2021/08/16/voting3.html
+        - Author:: [[Vitalik Buterin]]
+        - Subject:: [[Ethereum]] [[DAO]]
+        - Status:: [[finished]] [[In Progress]] [[want to read]]
+        - Abstract::
+        - Summary::
+            - The issues with on chain token holder governance.
+                - There are missaligned incentives. It requires a massive coordination of small shareholders to outvote on an issue that a whale prefers
+                - Coinholder interest is the main motivator beyond other parts of the project that might need more help
+                - Wealthy actors are over exposed
+            - Other issue, Buying votes
+                - If you are a small actor in the system, you stand to benefit more by selling your vote
+                - Timelocks don't really help because you can wrap your tokens anyway
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2F7qBeENleTo.png?alt=media&token=af36aff3-d12c-4f20-a431-82ee285b112d)
+                - This is similar to the valorize approach. A user can vvote on cetrain things from the creator, but there is no obligation to carry it out. The incentive would make the coins less valuable if this is the case.
+            - Proof of personhoiod and proof of participation help to mitigate this risk
+            - Increase the risk of participating in governance.
+                - Encourage voting if you are willing to risk your tokens because the winning outcome would fork the contract and loosing vote tokens would get burned
+            - Futarchy, votes as bets
+                - 
+        - Grokked::
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]

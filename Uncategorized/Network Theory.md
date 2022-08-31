@@ -1,0 +1,2 @@
+- The study of relationships. Network theory is interesting, as it is preocupied with creating a mathematical description of the relationships between things. Given that a relationship can be "metaphysical" so to speak (meaning that it is not measurable or a [special case](((RQZ_YY6uI))) ) it is a science of the patterns that reveal themselves when objects work in unison. 
+- 

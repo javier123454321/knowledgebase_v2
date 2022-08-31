@@ -1,0 +1,65 @@
+- [[Gratitude List]]
+    - Being constantly challenged
+    - Having food on the fridge
+    - The ability to work towards financial independence
+- [[Quick Capture]]
+    - [[Justin Kan]] on Lessons Learned
+        - Source:: [Youtube](https://www.youtube.com/watch?v=Q-Cbav_Dt2s)
+        - Started doing Justin.tv to create a reality tv show about his life
+        - Was carrying around a backpack connected to cellphones, (smart phnes weren't a thing)
+            - Got people asking to do their own show
+            - focused on videogames, turned into twitch
+        - Entrepreneurship allows for plenty of choice but focus can become a problem.
+        - Choosing B2B vs B2C 
+            - When you have nothing going for you, you can focus on market risk
+            - Once you have skills, you can focus on execution risk
+        - Market Risk vs Execution Risk
+            - How to know if an idea has a lot of market risk
+                - When pivoting justin.tv to twitch, very few people believed that this even existed as a business.
+                    - No experienced entrepreneurs were thinking to compete.
+                - It's a lottery ticket, so experienced entrepreneurs are more foolish to go into that market.
+                - Thinking about the ideas that are unicorns today:
+                    - You have to be foolish, and have little to loose in order to get these markets
+                        - App that allows you to ride in stranger's cars
+                        - App that allows you to sleep in stranger's houses
+                        - App that lets you watch others play vidogames
+                        - [[Valorize]] should be foolish
+            - Execution Risk
+                - For something that you have a path forward, knowing the ins and outs of that gives you a much better competitive advantage
+        - Fundraising, big vs lean
+            - Going big is not necessarily the best strategy to push forward with.
+            - Certain markets require the big upfront investment
+                - Legal for example, needs companies that will guarantee a certain degree of longevity
+            - Fundraising makes sense when it will accelerate the execution of an idea, especially one that is verified. It doesn't make sense if you are still formulating the idea.
+        - If there are problems that silicon valley has not solved in certain industries, maybe it's that the techniques that they are trying is inadequate for that problem space
+        - 
+    - Social Tokens For Creators Explained
+        - Source:: [Youtube](https://www.youtube.com/watch?v=IUZS_qJ9Isc)
+        - The read/write web -> web 2.0
+        - The read/write/exchange value web -> web 3.0
+        - The idea is that we are at the cusp of a few clicks to launch a website
+        - Current blockchain space needs a team that knows smart contracts, write a white paper to talk about the economic model, etc
+        - Integration with other systems. Voting, discord and twitch
+        - 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

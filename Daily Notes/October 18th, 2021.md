@@ -1,0 +1,29 @@
+- [[Gratitude List]]
+    - Everyone I have met in crypto
+- [[Quick Capture]]
+    - Networks are the way of thinking that prioritizes the relations rather than the objects which enact those relations. 
+    - Saving Money
+        - {{[[video]]: https://www.youtube.com/watch?v=ECa_MgZ0LrM}}
+            - {{[[video-timestamp]]: 00:07:16}} 4% rule , take your target yearly salary and find out what you need to save to achieve it
+            - {{[[video-timestamp]]: 00:10:07}} Things you need to track
+                - Burn rate
+                - Debt
+                - assets
+            - {{[[video-timestamp]]: 00:12:58}} How to track a monthly budget
+                - Categorize
+                - Assign budgets for each category be realistic
+                - Stick to budget and track progress at least once a week
+                - Discuss plan with your partner
+            - 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]

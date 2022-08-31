@@ -1,0 +1,27 @@
+- Template Today [[roam/templates]]
+    - [[Gratitude List]] 
+        - The amazing experiences that I had growing up
+        - Supportive family members
+        - Ability to think and reason
+    - [[Spheres]] 
+        - [[Keypath]]
+            - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+        - [[Memory Captures]]
+            - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+        - [[Other]]
+            - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+        - [[Personal]]
+            - [x] cancel phone
+            - 
+            - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+        - [[Generalized Specialized]]
+            - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Quick Capture]]
+        - learning is not regurgitation it is allowing yourself to be transformed by an idea. understanding is the wrong term for the goal of learning,  the goal is embodying.
+        - Embodied knowledge is something that you have moved from the head to your heart.
+            - 
+    - [[Literature Notes]]
+    - [[Reflection]]
+        - [[What did I learn]]
+        - [[What went well?]]
+        - [[What could be better?]]

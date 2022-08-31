@@ -1,0 +1,34 @@
+- 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: [[query]]}}}}
+    - [[Memory Captures]]
+        - Design Revamp marketing page [[Memory Captures]]
+    - [[home]]
+        - {{[[query]]: {and: [[TODO]] [[home]] {not: [[query]]}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: [[query]]}}}}
+- [[DONE]]
+- [[Quick Capture]]
+    - Memory Captures 
+        - Negatives
+            - Memory captures is not worth so much of time. I am working 8 hours per week on admin + 40 full time work + 10-20 in different jobs for memory captures. Stocking, making fliers, training, being a memoryist, dropping off checks.
+            - I don't get enjoyment or pleasure from the menial tasks that are required to run the business. 
+            - I don't want to work for another 5 months for what would amount to around 70 hours a week to maybe have a chance at taking a huge paycut.
+            - I don't really want to be a manager for Memory Captures.
+            - I have no passion for the digital word of mouth advertising industry, don't particularly care for capturing memories either. 
+            - The fact that i do get a feeling of being physically tied to Chicago even if it's not entirely accurate. I can travel but I somehow feel bad, and I see the effects of taking a weekend off on the numbers.
+        - Positives
+            - Gaining experience in running a business
+            - Being my own boss
+            - Seeing something that I created come to life.
+            - Has the potential of helping out kagyus to come to the us to travel and pay for the whole trip
+            - Be able to take decisions about what to work on, the experience in the web page, 
+            - Developer experience
+        - What are the conditions for me to stay?
+            - That I don't have to spend over 48 hrs/week on this. I would have to quit [[Keypath]] to achieve this.
+            - That 
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

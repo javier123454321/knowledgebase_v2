@@ -1,0 +1,2 @@
+- Collectively owned private property?
+- Audience, goal of communicating these issues

@@ -1,0 +1,44 @@
+- [[Gratitude List]] 
+    - Zselyke and how amazing she is at everything, how patient she is with me.
+    - My job, I am learning and I worked really hard to get to where I am.
+        - I am learning so much and I know it will take me into where I want to be in the future.
+    - All the things that I have no control over like the genes and the situation that I was born into.
+        - being Able bodied and able brained
+- [[Spheres]]
+    - [[Keypath]]
+        - **BUECS-1676**
+            - [x] Check for incorrect answers
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - [x] [[Streaming Page Redesign]]
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+- [[Quick Capture]]
+    - Starting a newsletter
+        - [Why you should start a newsletter](http://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2015/11/LaunchingEmaiLNewsletterGuide.pdf?__hssc=19189223.1.1603992078907&__hstc=19189223.b5a585e7ce427d1d3ba4a8363ecc948f.1603992078906.1603992078906.1603992078906.1&__hsfp=4157916173&hsCtaTracking=42ba5c12-46ab-4060-98ea-3740d1c0438c%7C2a9b2be9-b24e-427f-981c-5add8b0d5aea)
+        - [[Generalized Specialized]]
+            - To encourage me writing more and producing educational content for people
+            - To hone up my writing skills
+            - To connect with other like minded people
+    - Vinay Gupta's Mattereum pitch deck [[interviewee]] [[Generalized Specialized]]
+        - Tweet
+            - https://twitter.com/leashless/status/1321674585885073409
+        - Finally, a project that is thinking in a large scale using systematic tools to look at the process of creating waste and how to redefine it to make a sustainable economy.
+    - On the Art of Product Podcast ep. 34, I began thinking that the interesting thing about development is that it seems super easy to build a tool. 
+        - What I notice happening is that these developers are going to be an isolated community building tools for themselves
+        - Tools by developers for developers, look at the bootstrap community, there is not much of a connection between people that are in that space and those outside
+        - It's an interesting self referential cycle. and an impressive thing that capitalism is able to do through carving out new markets.
+    - Glen Greenwald quits the intercept and goes full time on Substack
+        - [article here](https://greenwald.substack.com/p/emails-with-intercept-editors-showing)
+        - Tweet by Rich Harris of Svelte
+            - https://twitter.com/Rich_Harris/status/1321995507670130688
+        - I guess that his position is one of a free speech absolutist
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

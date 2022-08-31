@@ -1,0 +1,59 @@
+- Author:: [[Robert Sapolsky]]
+- Subject:: [[Complexity]]
+- Summary::
+    - [[Reductionism]]
+        - after the fall of Rome, when the language fragmentation happened, there was an incredible amount of information lost for Europe. 
+            - Conquest of Toledo, where a single library there contained more knowledge that the entirety of Europe combined opened up the space for an incredible explosion.
+                - Syllogism was rediscovered all a are b, if a then b.
+                    - Thomas Aquinas put three limits to the power of god.
+                        - God cannot sin
+                        - God cannot make a copy of himself
+                        - God cannot make a triangle with more than 180 degrees
+                            - This statement puts a limit on Christian theological thinking and states that if god and science come to a point where one is contradicting, then science wins. 
+                    - There was a realization that you can build a cogent picture of the world through piecing together the fragments of that information
+                        - This concept of reductionism became the foundational assumption of scientific thinking. That you can define the future of a system by understanding its initial state (matter and momentum) that is applied to it at any moment. 
+                            - Likewise, you can figure out the starting state of a system by understanding its state at a point in the future.
+                        - You can come up to an answer of $$x + y = z$$ for any addition of x
+                            - $$(x+1)+y=(z+1)$$ **leads to** $$(x+n)+y=(z+n)$$
+                        - Given that the system is expecting a particular set of solid outcomes to come out of this, variabilities of those outcomes are seen as noise - something to be minimized and reduced even further.
+                            - Variability represents imperfect instruments of observation
+                            - To reduce variability, you need more and more profound and accurate observation
+                                - To understand the body, you have to understand the organs, which you have to understand the cells, molecules, atoms, and p[[Article]]s.
+        - reductionist systems fail when applied to biological systems (or neurobilogical systems) 
+            - David H. Hubel and Torsten Wiesel discovery about the structure and function of the visual cortex was hailed as the most important work of the 50s to 70s. They showed a 1 to 1 transformation of optical nerve inputs to neurons in the brain, and their model would predict the behavior of the brain given the initial inputs were isolated and presented.
+                - The idea is that this atomic representation of neurological behavior would scale in complexity as it grew and grew to the point of being an explanatory model of all cognitive behavior.
+                    - Of course the system breaks down when trying to map a neuron to a single item of perception.
+            - 2 main issues about these systems:
+                - Problem is when you start looking at bifurcating systems that branch into multiple scenarios fractally as it goes further into the system. 
+                    - {{[[drawing]]}}
+                    - This becomes far more complex when trying to retrace the necessary steps that had to be taken to reach its current state when you are several branches in.
+                - The second place that breaks down reductionism is when looking at the role of randomness or chance
+                    - Reductionism fails to describe system that have chance embedded into it
+                        - Behavior of populations
+        - Reductionism works to take apart clocks and put them back together, but not to explore why a cloud is not making it rain during a drought.
+    - [[Complexity]], [[Chaos]]
+        - $$ 1, 2, 3, 4, 5, 6$$ is a periodic system which can accurately predict $$n$$ in the future
+            - It is both determinist and periodic
+        - There are systems which are deterministic and aperiodic
+            - Sequences with rules on how to go from one to the next one. 
+                - There is no knowledge of where it will be in any point in the future, because it is aperiodic, meaning it has variablity within the difference for each state.
+                    - To find the value of a number $$n$$, you need to go through all the steps to get to n, and cannot be skipped
+        - There are systems which deal with randomness and become non-deterministic
+            - No way to know where the system will be in the next step of the process
+        - A complex system is defined as an aperiodic system, for example a water wheel with more and more water being put into it, periodicity can repeat $$x$$ amount of times, but it comes to a point where it is no longer exhibiting any periodic repetition of the behavior.
+            - In reductionist science, this would be classified as noise, and disregarded as an object of study
+                - Science has restricted the study of nature into the perfectly reducible components but is unable to describe phenomena at a higher level of complexity
+                - Whereas reductionist models tend to coalesce towards a point of convergence, chaotic models never coalesce, but continue to gravitate around a point of attraction instead of convergence
+                    - There is an observable point in which the numbers that seem similar have a infinitesimal variability that can get amplified in the system
+                        - Tiny variations create more and more divergence and get magnified. 
+                        - Chaotic systems see the noise in the system (as reductionist science would label it)  as an integral part of how the system behaves. This is true at any scale of the system. **The system is scale free**
+                            - The closer you look has no role in reducing variability or noise in the system. It is not noise, it is the system. 
+                                - [[Fractals]]
+                                    - There is no scale at which the system reduces in complexity
+                                    - Information that codes for a pattern at a fractional dimension.
+                                        - A line that can have an infinite amount of complexity, the closer you look it resembles a 2 dimensional object
+                                    - No mater how close you look at the system, it exhibits the same degree of proportional complexity.
+                                        - Vascular systems, trees, bifurcating systems, and others are examples of these types of systems
+                                            - This solves the issue that neurons do not match 1 to 1 to the input mechanisms for input.
+- Grokked::
+    - The idea of reductionism is fundamental to how we have been able to make sense of the world until very recently. This idea, that we can extrapolate future behavior based on current conditions, as well as well as infer past state is interesting because it is true, yet insufficient to describe reality as it actually is. 

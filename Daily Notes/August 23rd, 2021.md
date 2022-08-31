@@ -1,0 +1,20 @@
+- [[Gratitude List]]
+- [[What am I doing today towards my future]]
+- [[Quick Capture]]
+    - [[Balaji Srinivasan]] on Building the Cryptocurrency Ecosystem
+        - https://www.youtube.com/watch?v=JSk1PSglL8s
+        - [[Metcalf's Law]]
+            - Tokenizing allows for an inversion of Metcalf's law. Currently Metcalf's law claims that 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]

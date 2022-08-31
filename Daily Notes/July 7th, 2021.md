@@ -1,0 +1,98 @@
+- [[Gratitude List]]
+    - Able bodied, good looking, with a beautiful wife
+- [[Quick Capture]]
+    - Career Karma With Ruben Harris - Software Engineering Daily
+        - Startups don't die when they run out of money, they die when founders die out of energy
+        - As a ceo your job is [[storytelling]]
+            - [[Dom]] from [[Traverse.link]] is always talking about this now, explicitly saying things like
+                - If you have a point and don't have a story, you don't have a point.
+                - https://twitter.com/DominicZijlstra/status/1411372294270750721
+    - Social Media as Common Carriers
+        - Source:: https://www2.law.ucla.edu/volokh/carrier.pdf
+        - It seems that USPS cannot deny carrying a package to deliver, regardless if they people asking are ANTIFA, KKK, and other such orgs
+        - Fedex is bound by the same Common Carrier pledge
+        - Verizon can’t cancel the Klan’s recruiting phone number,
+even if that number is publicly advertised so that Verizon can know how it’s being
+used without relying on any private information.
+6
+            - 6 Christopher Yoo, The First Amendment Rights of Common Carriers: Net Neutrality, Privacy,
+and Beyond (forthcoming 2021)
+        - This is not only important if you are a group, it impedes political interference. 
+The Times, however, provides a function of judgement in their editorial decisions, this gives them the right to deny an ad to recruit from the KKK if they want.
+    - Facebook AntiTrust practices
+        - Source:: https://www.washingtonpost.com/technology/2021/07/06/facebook-bulletin-antitrust/
+            - Facebook is creating a newsletter service that is meant to compete with substack. This service is offering unlimited subscriptions at no fees. 
+                - Is this antitrust, anticompetitive? Amazon did the same with Amazon Mom, Google with Google Photos
+        - Discussion on Hacker News:
+            - https://news.ycombinator.com/item?id=27761245
+            - > This is one of SV's main competitive advantages vs not just the rest of the US, but the rest of the world: the amount of available financial capital to pour into scaling up quickly, which of course happens at a loss - sales generally lag costs and especially fixed costs. 
+If you include human capital, it's almost all of SV's competitive advantage: co-location of the people and the money to scale up.
+        - There is a difference between operating at a loss to get off the ground until your sales match your expenses, vs drowning out the competitor because you have large capital allocations to make.
+            - The latter allows you to ramp up pricing after it the competition has been taken out
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FZDL1dbV1H6.png?alt=media&token=86d84e61-7d06-4b2a-ae98-b8d610890f9b)
+    - Startup Gambling: angel investing & venture capitalists explained
+        - Source:: [Youtube](https://www.youtube.com/watch?v=jj3mIynhjiQ)
+        - Author:: [[Slidebean]]
+        - [[startups]] vs Small Businesses
+            - The main difference is one of potential payout. Scaling is defined by throwing man-hours into the problem for a Small Business. Dev Agencies are Small Businesses, Uber doesn't need to scale operations proportionate to the revenue.
+    - OpenZepellin defender video
+        - It is a bad idea to use a single address to be the admin of a contract. Instead use a multisig wallet or a completely decentralized mechanism.
+        - Defender allows you to watch a contract and create an admin action
+            - Gives access to all functions of the contract.
+            - It will provide an interface for multisig contracts
+            - Gives other addresses in the multisig a chance to review and approve an admin action
+        - Can also be used for upgradeable [[proxy]] 
+            - The Defender process can verify that the storage patterns are compatible
+        - A Relayer creates a private key to access specific actions in your code (instead of hosting a private key in a server)
+            - The securevault stores the private key and you just use a keypair to access.
+            - AWS Key Management Service secures and reads the relayer keys. It makes it impossible to to have access to keys outside of the public address. 
+            - So you set a permission to the relayer, and trigger the relayer to call the function that you need.
+        - A sentinel allows for monitoring different transactions and provide conditions that will trigger alerts
+            - Provide notifications channels, slack, etc...
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+        - Distinctions Systems Relationships and Perspectives (DSRP) 
+            - Building vs City
+                - Distinctions
+                    - What is a building?
+                    - What is not a building?
+                    - How would you distinguish between a building and a city?
+                    - Can you compare and contrast a building and a city?
+                - Systems
+                    - What are the parts of a building?
+                    - What is a building a part of?
+                    - Can you name some parts of the parts of a building?
+                    - What are the parts of the relationship between a building and a city
+                    - What are the parts of a building when looked at from the viewpoint of a city?
+                - Relationships
+                    - What ideas are related to a building and what ideas are related by a city?
+                    - What idea relates a building and a city?
+                    - How are the parts of a building related?
+                    - How are the parts of a building related to a city?
+                    - What are the relationships among a building and a city and other things?
+                - Perspectives
+                    - When looking at a building, can you identify the perspective it is viewed from, and the subparts of that perspective?
+                    - Can you think of a building from multiple perspectives?
+                    - How are a building and a city related when looking at them from a new perspective?
+                    - What are the parts of a building when looked at from multiple perspectives?
+        - 
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

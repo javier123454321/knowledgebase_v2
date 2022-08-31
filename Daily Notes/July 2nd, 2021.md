@@ -1,0 +1,33 @@
+- [[Gratitude List]]
+    - This Week
+        - Got to hang out with sushi
+        - Have food, and the option not to eat
+        - A community of supporting people
+- [[Quick Capture]]
+    - [[Polygon]]
+        - A Layer 2 scaling solution that achieves scale by utilizing sidechains for off-chain computation while ensuring asset security using the Plasma framework and a decentralized network of Proof-of-Stake (PoS) validators.
+        - Send ethereum tokens to a bridge contract which burns tokens which sends an event that instructs to mint them in the polygon chain. It works also backwards, because there can be a proof read in the ethereum blockchain. 
+        - There is a sacrifice of one of the three, decentralization, scalability, security.
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [x] Meditate
+            - Ngondro
+        - [ ] Exercise
+        - [x] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

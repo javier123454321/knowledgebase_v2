@@ -1,0 +1,1 @@
+Scaling solution for [[Ethereum]] which offloads computation away from L1. Puts transactions in a second layer and proposes a blok to be included back to L1. There is a 7 day waiting period for a challenger to raise issues like an invalid transaction. It then uses the proof system to narrow down which transaction is invalid.

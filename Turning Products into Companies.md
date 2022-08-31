@@ -1,0 +1,59 @@
+- Author:: [[Harvard Innovation Labs]]
+- Source:: [Youtube](https://www.youtube.com/watch?v=092JQrye9IM)
+- Some people start with an idea or a product.
+    - Lecture about faqs relating to this
+- Is it a feature/ product/ company
+    - How VCs will look at your idea.
+    - Features turn to products which turn to companies. Hard to tell what will be
+- Having a good product does not lead directly to a company
+    - Stage 1 is proof of concept
+        - Gotta be hustling all the time. 
+        - The technical difficulty of a product to start.
+    - Stage 2 is find a market
+        - The difference between a product and a piece of a solution. You need a solution, not a product.
+        - Need to understand the market, and who will write the checks for you
+            - Marketing requirements document - what do the engineers have to build.
+        - Identify market segment that will get a ROI on your price
+            - Given a cheap enough core technology, a smaller market is much easier.
+-  When starting to build a product, your biggest expense is R&D. The more you grow, the more that htat flips towards Sales and marketing. 
+    - From all budget to prove marketing and acceptance to making it a repeatable product.
+- Develop Foundations
+    - Develop Value
+        - Build on yourself
+            - Dogfooding
+        - Be open and extensible
+            - Open source to your advantage
+    - Develop faster
+        - Get to the value as fast as possible
+        - Use a paper prototype
+            - An MVP is irrelevant if it solves no problem
+    - Validate
+        - You don't have a product until customers PAY you for it.
+        - Freemium is not validation
+        - Start with one Primary Value Prop
+            - Narrow the scope
+        - Talk to people about the money 
+- Segmentation
+    - Finding a need that will have such impact that people might die.
+    - Viable vs Valuable
+    - Think of small segments. 
+        - Don't fail for trying to do too much. Expand on success, dont collapse due to failure.
+- Remove friction
+    - Simple is the opposite of complex. If something is complex, make it more simple
+    - Remove everything that is not the CORE of your product.
+        - Those things that are not your core, find partners
+    - Reducing the pain of customers to try and make it easier for people
+        - Install easily, integrate well
+    - Provide Value quickly
+        - In the enterprise, people expect rapid payback
+        - Create self-proving value in the product. Measure the customer value 
+    - Slowly expose some of the capabilities of your product
+        - Enable modules as you need them, allow for seamless integration as more features are needed, but only as the features are needed.
+    - Out of the box experience
+        - Think of the packaging
+    - ROI is Obvious
+        - Make the value apparent
+- The only advantage that you have as a startup is time. 
+- It's easy to start a company, hard to build a business
+    - Hiring is the most important thing you do
+    - Perfect is the enemy of the good

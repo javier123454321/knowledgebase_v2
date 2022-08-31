@@ -1,0 +1,1 @@
+- Functions vs procedures {{[[r/moved]]}}[*](((1ob7O5gI4)))

@@ -1,0 +1,9 @@
+- Dynamically typed functional programming language as opposed to an Imperative programming language
+    - Functional programs approach differentiate from imperative by focusing on an immutable state
+    - Any piece of data that is allowed to change is a mutable state. 
+    - If a function does not use a mutable state, it ALWAYS returns the same values if used with the same set of arguments. (Pure Functions)
+    - Functional Programming is truly modular programming.
+        - You literally don't have to worry about side effects in the program, just the content of the function
+        - Mutability happens through the creation of new data. i.e. the [[Map Operator]]  (a functional approach) vs the [[forEach Operator]] an imperative approach in [[Javascript]].
+            - Clojure shares the memory space of the objects in the array when copying the contents of an array to modify it. 
+            - [1, 2, "hi"] and [1, 2, "bye"] are 2 different objects in memory, but the first 2 elements point to the same memory space.

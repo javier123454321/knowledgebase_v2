@@ -1,0 +1,5 @@
+- Source:: [Youtube](https://www.youtube.com/watch?v=wHWsiKDA3T0)
+- Author:: [Political Philosophy: Dr Laurie Johnson](https://www.youtube.com/channel/UC-2rr91vVvIpAFq--8r7XNA)
+- We have o distinguish between dissolution of government and dissolution of society.
+    - Dissolution of government by the legislature, (A king changing the legislative power of his regime) is an assault on the power of the legitimacy of the structure (legislature).
+    - 

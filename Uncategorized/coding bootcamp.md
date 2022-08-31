@@ -1,0 +1,14 @@
+- Idea
+    - Make a self paced coding bootcamp where people have to set up their own path to become a developer.
+    - Make public time commitments.
+    - Step 1. make your own [[portfolio]]. 
+        - Choose a [[portfolio]] template to follow.
+            - HTML
+            - CSS
+            - Git
+            - add javascript functionality, modals, filter projects
+            - add a contact form
+            - deploy on cloud
+            - Make a pull request to another student
+    - Step 2. 
+        - Make an app that people will use

@@ -1,0 +1,49 @@
+- Type:: [[Article]]
+- Source:: https://1729.com/voluntary-governments/
+- Author:: [[John Palmer]]
+- Subject:: [[cryptocurrency]] [[Network Theory]] [[Disruption]] [[Distributed Systems]]
+- Status:: [[finished]]
+- Abstract::
+    - Governments are inneficient in having structures that innovate. Capitalism has a much faster feedback loop that allows for simultaneous and cutthroat testing of new ideas. Merging some version of the two could allow for new possibilities of organizing that are outside of what is possible to achieve in the current version of the process for organizing.
+- Summary::
+    - Intro
+        - The difference between the networked world and the geographic world. 
+            - Geographic world ([[meatspace]]) is bound by physical resources while the networked world is bound by information and relationships that it allows. Since softawre and information can move around much faster and without being bound by physical resources, it will be able to iterate and consume parts of the old systems that we see today.
+        - While software has innovated many industrial processes and empowered the creation of new industries, its innovation has not yet consumed the political process, which there is no reason to think that it could not.
+    - Politics vs Business
+        - Politics is extremely inefficient at enacting change. More so than traditional antiquated industries. 
+        - But whereas industries and businesses can mutually coexist in the same space of interaction - the open market - governments cannot compete in the same space of interaction - geographical location. 
+            - When a group has an idea for a new business, they can start a business and validate the idea. If the idea is 'good' (maybe valuable is a better word) then slowly they will eat out the competition because people will vote by allocating dollars to that idea. Other businesses can decide to incorporate that idea in their own organizations and if it is valuable, they win over the market, but the idea wins, even if the incumbents loose.
+        - The capitalist approach to business allows for continuous form of A/B testing of new ideas. People then can vote with their dollars. The majority vote is that which most people access with their dollars and creates a larger market share.
+        - Nation states do not allow for rapid testing of bad ideas, which is a problem for innovating out of the current processes.
+    - Why Governmental Innovation is Slow
+        - Only one government can exist at a time in one place. The way we get around testing experimental solutions is by giving political factions a seat at the government, but that structure is inefficient because of deadlocks. All sides compete to be the ones at the driving seat. 
+        - The American government (and british similarly) is particularly inneficient as they only have a dominant two party system that dominates the conversation. They are often in deadlock, and constantly intertwining in a bastard version of an A/B test that cycles back and forth. 
+            - The change is then only on who controls the government, not how the government works. It is a shift in power not structure, which is the most ripe for disruption
+        - If a group has an idea for a new governmental structure, they make a party and then have no way of meaningfully testing out said structure unless they are voted into power. There is no sort of incremental approach to government change, which is one of the structures which would most benefit from this kind of investigation. 
+            - Discussions turn into hypothetical arguments which are not fruitful. 
+        - Disruption in government has not happened meaningfully in the government (maybe during civil rights movements) but that is even too slow. 
+        - Governmental disruption should not be too rapid as a feature, ([[The Lindy Effect]]) for governments. We generally want them to last. This does not really allow for innovation when there is something better, as governments work as though they are monopolies.
+    - Enabling Faster Progress
+        - How to use technologies to enable iterations in governments? VR AR and Cryptocurrency provide an infrastructure to test out new possibilities. To Bypass the geographic structure to test new systems in the [[digital realm]].
+        - Ethereum's DAO is a new governance mechanism, even with all its problems. 
+            - An approach is a digital political party which user can gain voting rights from buying into and supporting their token. Majority token supportsers (or nft holders) can vote on the outcome of the logo or the agenda. 
+            - Can allow for competing standards for creating a new parties with new code based rules.
+        - The digital party does not have to be bound by geography (much like we are now in the digital world) And selecting an allegiance would signal the geographic counterpart what the actual meatspace government should or could be. 
+    - A Decent Use-Case for VR
+        - A virtual reality is a possible use for testing grounds of a new political reality. The stakes are lower, and the geographic arbitrage has much lower friction than in meatspace. To mimic some level of commitment, you can stake some amount of money, or only be aloowed a part of the experiment if they commit to participate in x number of decisions. 
+        - No matter the specific, the stakes are much lower in this type of scenario than in a meatspace government testing ground. You can validate the idea with real people, and like corporations can choose to implement an incumbent's idea, governments might be more willing to try something tested before. 
+    - Software Eating Currency
+        - Software is already eating currency and this is already making impossible things be part of the conversation. 
+            - **Option 1:** Currencies tied to geographic nation states become mostly a formality for certain governmental procedures that are lagging behind. In virtually all cases, people will use universal digital currencies like bitcoin.
+            - **Option 2:** Currencies develop an even more granular attachment to geographic areas, and this change is enabled by digital currencies. With no need for a mint or a bank, cities, neighborhoods, or even families will be able to design their own currencies, enabling super efficient markets on a micro scale.
+            - Either way, software is eating money. And hopefully government.
+- Grokked::
+    - The constant iteration cycle of businesses in capitalism is one of the most efficient approaches at discovering good ideas in a short period of time. Capitalist competition, given a market that has an accurate price mechanism (One that is not interfered with too much, except to add more information about externalities), is an extremely efficient signal as to what is valuable to people.
+    - The current government is far from a type of firm that can efficiently test out different hypothesis of what is the right way to govern. Our structures require a benevolent leadership to decide what should be the basic parameters, and hopefully those parameters are loose enough that they allow some level of experimentation within the bounds created but do not get thrown out when people do not accept the outcome. In today's world, the process is the desired outcome. Justice is the process, even if some injustices are allowed to happen.
+- [[roam/comments]]
+    - [[July 11th, 2021]]
+        - The capitalist approach to business allows for continuous form of A/B testing of new ideas. People then can vote with their dollars. The majority vote is that which most people access with their dollars and creates a larger market share.
+            - This is not exactly right, because democratic approach suggests that 1 person 1 vote is the right weight to give to the process for it to be an efficient approach. There is no particular suggestion that it has to be this way in government.
+        - Ethereum's DAO is a new governance mechanism, even with all its problems. 
+            - The major problem is that of ambiguity, which is a system that is just not ammicable to the precision of code language. Contracts are not mathematical operations, and political negotiation needs some level of human judgement to really be useful. Taking that away is simply wrong, so that needs to be accounted for. 

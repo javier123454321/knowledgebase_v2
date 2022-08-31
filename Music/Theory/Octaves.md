@@ -1,0 +1,57 @@
+# Octaves
+Take the major scale for C
+The note that repeats
+```
+1  2  3  4  5  6  7  8/1
+C  D  E  F  G  A  B  C 
+  2  2  1  2  2  2  1
+  T  T  S  T  T  T  S
+```
+Semitones represent the smallest distance between notes.  and the Tone represents 2 semitones.
+A scale with 2 semitones and 5 tones is a d**diatonic** scale
+
+## Modes
+If you center the sound around a different note, you get a different mode of the music. This gives a different quality to the sound you play.
+
+### Natural Minor (Aolian) Scale
+```
+T S T T S T T
+```
+For the A Minor Scale, we orientate the scale around the A. It is the same tones, but circling around a different base, which gives it a different quality.
+
+### Dorian Mode
+Orients itself around the D (2nd)
+```
+D  E  F  G  A  B  C  D
+ T  S  T  T  T  S  T
+```
+
+### Phrygian
+Orients itself around the E (3rd)
+```
+E  F  G  A  B  C  D  E
+  S  T  T  T  S  T  T
+```
+
+### Lydian
+Orients itself around the F (4th)
+```
+F  G  A  B  C  D  E  F
+  T  T  T  S  T  T  S
+```
+
+### Mixolydian
+Orients itself around the G (5th)
+```
+G  A  B  C  D  E  F  G
+  T  T  S  T  T  S  T
+```
+
+### Locrian
+Orients itself around the G (5th)
+```
+B  C  D  E  F  G  A  B
+  S  T  T  S  T  T  T
+```
+
+![](Pasted%20image%2020210502101559.png)

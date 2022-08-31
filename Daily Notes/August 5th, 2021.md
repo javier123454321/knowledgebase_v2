@@ -1,0 +1,7 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - [[ChainLink]]
+        - StarkNetCairo Lang
+    - Zero Knowledge [Rollups](Rollups.md), Zero Knowledge SNARKs
+        - ZK-Rollups, ZK-Snarks
+        - ZK rollup is a process of aggregating transactions offchain and only verifying them partially.

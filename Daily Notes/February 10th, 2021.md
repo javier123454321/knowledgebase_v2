@@ -1,0 +1,9 @@
+- [[Quick Capture]]
+    - Streaming Notes
+        - Autoplay function - remove that and keep default to true autoplay (move to settings)
+        - Remove pip button
+        - Volume button on mobile, take out natively, tie it to hardware buttons
+        - 
+- [[Literature Notes]]
+- [[Spheres]] 
+- [[Reflection]]

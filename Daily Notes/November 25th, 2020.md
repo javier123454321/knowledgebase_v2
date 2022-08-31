@@ -1,0 +1,34 @@
+- prestige centrality {{[[r/moved]]}}[*](((1xBvoXNYf)))
+- [[Gratitude List]] 
+- [[Spheres]] 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+- [[Quick Capture]]
+    - [[portfolio]]
+        - https://www.satorigraphics.net/
+            - Super clean graphics, smooth sailing, the scroll feels really good.
+    - [[history of Britain]]
+        - the 700 cent was the introduction of iron as replacement for abundant bronze
+        - 500 bce was there kelts
+            - came from France and Spain
+        - called the colored or painted people britanie 
+        - they start trading around 300 bce and offering themselves as mercenaries to the mainland people 
+            - they are mostly agricultural but are starting to evolve in sophistication
+            - druidism the religion of the time
+                - druid priests would train for decades and memorize the oral history of the people
+                    - was not written down
+                    - Roman's wiped them out and erased their history
+                        - Roman's labelled the druids as human sacrificing barbarians, otherwise they would have allowed them on their land
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

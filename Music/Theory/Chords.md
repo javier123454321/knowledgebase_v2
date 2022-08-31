@@ -1,0 +1,86 @@
+The Major and Minor scale 
+## The Perfect Fifth
+in the A [[Natural Minor]] Scale from A to E there are 7 semitones
+```
+1   2   3   4   5
+A   B   C   D   E
+  T   S   T   T    <- 7 semitones
+```
+In the C Major scale also
+```
+1   2   3   4   5
+C   D   E   F   G
+  T   T   S   T    <- 7 semitones
+```
+
+## The Third Degree
+From C to E there are 4 semitones.  This is a Major third
+
+From A to C in the minor scale, we have 3 semitones. This is a Minor third
+
+
+## The Major Triad
+To create a Major chord, we take the Major Third and the Perfect Fifth together with the tonic.
+
+C  E  G to turn that into a Minor chord, drop the third by one semitone. Play the triad with a minor third.
+
+So if you take the triad for each degree of the C Major Scale
+
+C Major
+```
+C   E   G
+  4   7        <-semitones
+  Maj Perfect
+```
+
+D Minor
+```
+D   F   A
+  3   7        <-semitones
+  Min Perfect
+```
+
+E Minor
+```
+E   G   B
+  3   7        <-semitones
+  Min Perfect
+```
+
+F Maj
+```
+F   A   C
+  4   7        <-semitones
+  Maj Perfect
+```
+
+G Major
+```
+G   B   D
+  4   7        <-semitones
+  Maj Perfect
+```
+
+A Minor
+```
+A   C   E
+  3   7        <-semitones
+  Min Perfect
+```
+
+B Diminished
+```
+B   D   F
+  3   6        <-semitones
+  Min Diminished
+```
+
+![](Pasted%20image%2020210502104545.png)
+
+The 3 Major Chords, C G and F are commonly used together
+
+C is the Tonic Chord
+G is the Dominant
+F is the Subdominant
+
+The I, IV V chord progression

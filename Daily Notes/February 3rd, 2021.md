@@ -1,0 +1,4 @@
+- [[Gratitude List]]
+    - The ability to travel like this. 
+    - The freedom that I have in doing things that many people just dream of. 
+    - The courage to take advantage of these amazing opportunities.

@@ -1,0 +1,5 @@
+- Source:: https://www.youtube.com/watch?v=0lvMgMrNDlg
+- Type:: [[Video]]
+- Author:: [[Steve Jobs]]
+- Abstract::
+    - Jobs presents the future of the computer and his vision for apple

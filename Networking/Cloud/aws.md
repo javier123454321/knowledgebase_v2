@@ -1,0 +1,90 @@
+# AWS EC2
+[aws.amazon.com] aws.amazon.com/ecs/instance-types/
+#### EC2 is a full computer on the cloud
+EVERY other service that amazon has, you can build with EC2.
+
+## Elastic Compute Cloud
+Secure resizeable compute capacity in the cloud.
+
+Compute is the part of the cloud that crunches the data. (a virtualized server)
+
+Easy to provision and allow for up/down scaling easily
+
+### [[Servers]]
+A server is a computer that has software to serve data
+
+An EC2 instance is you renting a server.
+Amazon's [[Servers]] are compartamentalized into a bunch of different partitions.
+
+### Instance Types
+
+Computer needs vary from user to user, gaming, programming, machine learnig.
+
+Amazon offers a selection of instance types to give cpu power (or priority access to compute power), Ram, data transfer, etc. 
+
+#### Main Categories
+- CPU
+- Memory
+- Storage
+
+Instance types are optimized for different use cases. 
+
+EC2 A1 are scaled out for arm based workloads. Arm based have different computer architecture.
+
+### T3 instances
+The most commonly used
+Higher bandwidth
+
+### Compute Optimized (C Instances)
+Choose processors, size, etc 
+
+### Accelerated Computing P Inf, G, F
+[[hardware]] based acceleration
+
+### Storage Optimized I, D, H
+If an application that is not necessarily 
+
+It boils down to Class, then Size
+
+
+### On Demand Pricing
+
+Easiest to use, only pay for what you use.
+
+Allows you to get amazing computer power at your fingerprints, immediately as you need.
+
+### Reserving [[Servers]]
+
+Aws has a finite capcity of resources. If you are certain of a service and you secure yourself space, and guarantee compute power.
+Cheaper if you pay up front.
+
+### Spot capacity
+
+You can bid for server space, low demand times can make prices go down. 
+For example, you can set a price for what you are willing to pay and crunch the numbers for the time capacity is at your threshhold. 
+
+### Dedicated Hosts
+
+If you need the hardware for yourself. No sharing space in a server. Software licensing is sometimes priced per machine, so it makes sense to reduce licensing cost to a single machine.
+
+## Storage
+
+### Instance Storage
+Ephemeral *block* storage, delete the instance, delete the data.
+
+### EBS - Elastic Block Storage
+
+Persistent Storage that backs EC2s
+You can mount multiple EBS volumes to EC2s in the same availability zones.
+
+You can only have one EC2 per Storage. You cant connect the storage to multiple computers.
+
+Incremental backups - ifyou are paying for an image of 30 Gbs,if the next image is 30+3Gb,you only pay for the extra 3gbs
+
+### Security Groups
+Type   |   Protocol   |   Port Range   |   IP-Range   |   Notes 
+ssh	 		TCP/UDP			22			   0.0.0.0/0	
+  										 CIDR standard
+										[NetworkLayer](NetworkLayer.md)
+
+

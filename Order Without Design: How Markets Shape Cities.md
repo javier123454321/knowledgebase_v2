@@ -1,0 +1,7 @@
+- Type:: [[Book]]
+- Author:: Alain Bertaud
+- Subject:: [[market urbanism]] [[Complexity]] [[emergence]]
+- Status:: [[want to read]] 
+- Abstract::
+- Summary::
+- Grokked::

@@ -1,0 +1,35 @@
+- [[Gratitude List]]
+    - To live in a free country
+        - Don't want to take that for granted
+    - For being able to dictate my own life
+    - For living in a place with access to amazing art
+- [[Quick Capture]]
+    - list of VCs and angel investors
+        - https://docs.google.com/document/d/1BIM7Nbz_ohI9Lrk4sfu6LPHfpe7HkYFvH6rs7QD6iRE/edit?usp=drivesdk
+    - 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [x] Meditate
+            - ngondro
+        - [x] Exercise
+            - 25 pushups
+        - [x] Read a book
+            - no book, reading about Automated Market Makers and assembly for the evm
+        - [x] Write
+            - [[Valorize White Paper]]
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

@@ -1,0 +1,3 @@
+https://vitalik.ca/general/2021/12/06/endgame.html
+The future of blockchain scalability is in a chain of rollups. But there is a tendency for block production to be centralized. 
+In [The limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html#its-crucial-for-blockchain-decentralization-for-regular-users-to-be-able-to-run-a-node) Vitalik proposes that a blockchain can only be decentralized if it has the ability for people to do validation. Validation is the ultimate decentralization marker.

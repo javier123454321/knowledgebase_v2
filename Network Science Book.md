@@ -1,0 +1,10 @@
+- Type:: [[Book]]
+- Source:: http://networksciencebook.com
+- Author:: #[[Albert-László Barabási]]
+- Subject:: [[Network Theory]] [[Network Science]] [[Complexity]] [[emergence]]
+- Status:: [[In Progress]] 
+- Abstract::
+    - 
+- Summary::
+    - 
+- Grokked::

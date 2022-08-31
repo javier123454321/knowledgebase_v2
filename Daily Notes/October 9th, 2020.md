@@ -1,0 +1,24 @@
+- [[Quick Capture]]
+    - [[confirmation bias]]
+        - people make decisions and then justify them rationally, not the other way around
+    - Pelosi calls the 25th amendment to kick out Trump out of office
+        - At first glance this seems like the most literal anti democratic action taken by the democrats to this date. 
+        - I don't think that democrats are thinking tactically about the implications of this. This in my mind reifies support for the president. Reminds me of the impeachment process, where impeachment was proposed, and the reason for it kept being updated. 
+            - The impeachment process started before Trump took office. That is crazy.
+[Libertarianism is Utopian](Libertarianism%20is%20Utopian.md)
+    - [[Roam]] attributes
+        - Source:: [Youtube](https://www.youtube.com/watch?v=uWXm85VFOQs)
+            - in graph theory, connections between nodes are described
+            - attributes allow for this type of relationship
+            - Metadata for objects
+    - Money printer go brr
+        - https://twitter.com/BlockFi/status/1313191070591848450
+    - [[Andrew Yang]] on Government
+        - Author:: [[Andrew Yang]]
+        - https://twitter.com/AndrewYang/status/1243284846337839109
+    - Datalog [[To Lookup]]
+        - An alternative to SQL and NoSql. Want to look into this some more.
+    - Type:: [[movies]] [[recommendation]]
+        - Operation Finale
+        - walking with the enemy
+            - hungarian jews

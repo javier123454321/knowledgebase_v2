@@ -1,0 +1,24 @@
+- Type:: [[Book]]
+- Author:: [[Steven Covey]]
+- Subject:: [[Leadership]] [[Self-development]]
+- Status:: [[Finished]]
+- Abstract::
+- Summary::
+    - Habit 3 put first things first
+        - Schedule your priorities. When making a schedule, don't just put what you are working on now, your time will get filled by unimportant things, do this work first.
+        - This habit is about not being trapped into a sequence of urgent but unimportant tasks.
+        - Delegating simple tasks is one way of doing things. Telling people exactly what to do
+            - A producer (Individual contributor) gets a 1 to 1 ratio of effort to result. To be more effective, you need to delegate to multiply the effort to result ratio.
+        - Stewardships focuses on the what, not how. Results not tasks.
+            - Delegation is key to achieving these priorities:
+                - Giving people the responsibilities and allow to define the tasks. The key is trust.
+                    - How to communicate these:
+                        - Desired Results
+                        - Guidelines
+                        - Resources
+                        - Accountability
+                        - Consequences
+        - [[Leadership - Michael Powel]] talks about the sense of ownership that people need when you delegate tasks to them. It is not enough
+            - A leader understands the goals and motivations of the individuals in a group and motivates them towards a goal that seems to the individuals as working towards their own goals.
+- Grokked::
+    - Being effective as a person is not the same as being succesful. Success tends to be unidimensional, while the goal is to be effective in every dimension. Is beig

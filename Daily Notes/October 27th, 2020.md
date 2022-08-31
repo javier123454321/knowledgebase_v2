@@ -1,0 +1,50 @@
+- [[Spheres]]
+    - [[Keypath]]
+        - **BUECS-1676**
+            - Accessibility check
+                - [ ] make menu appear on enter
+                    - [ ] Menu items list possible targets
+                    - [ ] Select target from a list
+        - [x] test dolly css
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+    - [[Memory Captures]]
+    - [[home]]
+    - [[Personal]]
+        - [x] [[Streaming Page Redesign]]
+            - {{[[POMO]]: 25}}
+- [[DONE]]
+    - [x] buy frames
+    - [x] Remove reset button after clicked
+- [[Quick Capture]]
+    - [[Garry Tan]] on Winning Career Tournaments [[interviewee]] [[Generalized Specialized]]
+        - Source:: [Youtube](https://www.youtube.com/watch?v=5siggWM8faY)
+        - GateKeepers are imperfect, and they make the incorrect decisions on incomplete information All The Time.
+        - Every time there is a finite resource, there is a competition (tournament)
+            - Win Any Tournament
+                - **Know Youre in a Tournament**
+                    - Iddentify the tournament and be aware of the competition 
+                - **Know the Criteria**
+                    - Learn the specifics of your target
+                    - Find out early, to get a massive leg up
+                - **Apply to Many**
+                    - Up your odds. Having oneitis will narrow your chances.
+                    - You need to only make them think that they are the only ones in your mind, but do that for more and more options.
+                    - There is a dichotomy, be highly specific to a generalized number of options
+                - **Get Advice**
+                    - Tournaments repeat in behavior and people want to help
+                    - People got help to get to where they are, and are more often than not willing to help others get to where they are.
+                - **If the Door is Closed, find a Window**
+                    - A no is often a no for now. 
+        - Tournaments are sometimes not worth playing
+            - Making a new tournament is a product that 
+- [[Literature Notes]]
+    - [[Garry Tan]] on Winning Career Tournaments [[interviewee]] [[Generalized Specialized]]
+        - Honestly, it's about studying the game to be able to beat it. 
+- [[Reflection]]
+    - [[What did I learn]]
+        - I want to build a saas, not a business with margins that are not up to the point of leverage that I know I can reach
+    - [[What went well?]]
+        - Jake's birthday dinner, delicious food, really funny company
+    - [[What could be better?]]
+        - Getting up in the morning when my alarm rings, not snoozing.

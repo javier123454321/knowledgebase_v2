@@ -1,0 +1,10 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+- [[Literature Notes]]
+- ((JQhXos4YD))
+- [[Reflection]]
+- Four main principles of accessibility {{[[r/moved]]}}[*](((vzNnYwFe3)))
+    - Perceivable
+    - Operable
+    - Understandable
+    - Robust

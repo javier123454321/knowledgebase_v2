@@ -1,0 +1,32 @@
+- 
+    - ## 
+    - ### [[Memory Captures]]
+    - ## [[home]]
+    - ## [[Personal]]
+        - [x] Streaming page overlay
+            - [x] Send requests and persist
+            - [x] Hide banner when not in use
+            - [x] tab between mode and status text
+            - [x] Make PR, tag stephan
+- ## [[Quick Capture]]
+    - [[experiential vs intellectual understanding]]
+        - [[buddhism]] focuses on this distinction. To be able to say the words vs to understand their meaning. 
+        - noesis
+            - a connection between the human intellect and the divine intellect - a close correlary but not quite.
+            -  In the end all words are a concept which will not correlate with the experience and therefore insufficient to describe it.
+        - knowing we are all connected vs experiencing yourself as connected to everything. Objective observation is put into question,  and subjective experience comes to the forefront in this approach. 
+        - [[all models are wrong but some are useful]]
+            - being an insufficient descriptor of reality is not a condition for invalidating the entirety of it. 
+            - Totalitarian and absolute concepts are dangerous because of this. [[communism]] is an epitome of this example.
+    - [[zettelkasten]]
+        - Numbering system 11 -> 11a -> 11a1 -> 11a1a.
+        - infinitely fractal, and can always take more information and fit it in between different bits of information.
+        - Takes away the onus on the individual to categorize a thought
+        - The system can communicate back to you, revealing new ideas
+    - [Market Urbanism]([[market urbanism]])
+    - [[Clojure]]
+    - [online learning](https://yellowdig.com)
+        - Topic:: [[E-Learning]]
+            - how you reward students is the critical component
+            - can you design a system that rewards learning. The problem is that people are always trying to figure out how to game the system based on the rewards that the system has built in.
+- # [[Literature Notes]]

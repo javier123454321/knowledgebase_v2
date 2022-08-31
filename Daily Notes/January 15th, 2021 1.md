@@ -1,0 +1,26 @@
+- [[Gratitude List]]
+    - That I started on my journey to become a developer before the pandemic.With all the talks of an oversaturated Junior market, I beat the race by a large enough margin
+    - That I was able to switch jobs during a seeming economic downturn into something that I enjoy much much more.
+- [[Quick Capture]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[MetaBook]]
+        - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]
+- applicative order  {{[[∆]]:1+2}}
+    - Applies the transformation of the innermost function and computes it, then goes outwardly
+- normal order {{[[∆]]:1+2}}
+    - Applies every transformation until there is nothing but primitives, then computes it

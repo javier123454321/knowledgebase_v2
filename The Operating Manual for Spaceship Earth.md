@@ -1,0 +1,9 @@
+- Type:: [[Book]] 
+- Author:: [[Buckminster Fuller]]
+- Subject:: [[Complexity]]
+- Status:: [[finished]]
+- Abstract::
+- Summary::
+- Grokked:: 
+- Quotes:: 
+    - Now let us examine more closely what we know scientifically about extinction. At the annual Congress of the American Association for the Advancement of Science, as held approximately ten years ago in Philadelphia, two papers were presented in widely-separated parts of the Congress. One was presented in anthropology and the other in biology, and though the two author-scientists knew nothing of each other’s efforts they were closely related. The one in anthropology examined the case histories of all the known human tribes that had become extinct. The biological paper investigated the case histories of all the known biological species that had become extinct. Both scientists sought for a common cause of extinction. Both of them found a cause, and when the two papers were accidentally brought together it was discovered that the researchers had found the same causes. Extinction in both cases was the consequence of over-[[specialization]]. How does that come about?

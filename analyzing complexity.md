@@ -1,0 +1,105 @@
+- Type:: [[Course]]
+- Source:: 
+- Author:: 
+- Subject::
+- Status:: [[In Progress]] 
+- Abstract::
+- Summary::
+    - https://www.coursera.org/learn/analysing-complexity/lecture/CDaAY/complexity
+        - Complexity appears in every field, yet every field seems to develop its own approach and definition to the problem. 
+            - As such complexity is best analyzed from many different perspectives. Which model of the world is correctly looking at the problem.
+                - You find complexity in a region intermediate between total order and complete disorder - [[Murray Gell-Mann]]
+                - Feedback loops may stabilize or create divergence within a system. 
+    - Defining Complexity as a Concept
+        - Varied and diverse building blocks which output outcomes greater than the sum of their parts.
+            - There is no single definition of complexity
+            - Differences in definition make defining complexity difficult, and create discussions about semantics rather than the problem
+                - > Firstly, a state of intricacy, complication, variety, or involvement as in the interconnected parts of the system. A quality of having many different interacting components. And secondly, when more and more varied connections and interactions take place among increasing numbers of more varied building blocks.
+                - Prose based arguments lead to interpretations to do with a person's conceptual frame. 
+                    - Defining complexity mathematically is necessary to remove ambiguity of language. 
+    - How can a level of complexity increase
+        - As interactions increase the complexity of a system increases
+        - In thermodynamics the second law is that systems tend towards simplicity. 
+            - Von Neuman's cellular automata
+                - You have. things ability to change them and rules to determine how things change. 
+                - Some of these patterns will become more complex over time. 
+        - Energy tends towards heat energy, but in these flows a lot of complexity can emerge. The flow of energy towards its thermodynamically enthropic mode allows for the creation of work
+    - **System **A complex system, as opposed to a mere complex structure or object, is something that performs "work" via the use of energy flows. A complex structure that has little or no energy flow, like a napkin on a table, may have component parts and no energy flows. But it also does not perform work. Complex systems, on the other hand, operate far from equilibrium and can perform the "work" that is necessary for either sustaining, increasing, or creating new complexity.
+    - Homework:
+        - Free-write on the questions: What are some examples of complexity being relevant to real world problems? (5 minutes). How are complexity and energy flows related? (5 minutes).
+            - Every problem that we face as a society is a multivariate system of influences and interactions that we do not fully understand. Take the current state of supply chain shortages in the developed world. There are social systems, governmental incentives, the influences of a governmentally mandated economic shutdown, and the current state of information consumption by the population today. It was extremely hard to predict that shutting down would increase the cases of people wanting to do home improvement projects. Yet these types of incentive scenarios have very real consequences in the world today. 
+            - The process of reaching a state of thermodynamic enthropy creates flows and fluctuations which allow for dynamic systems to appear. This process of creating flows is what we use to produce work, and what ecosystems plug into to exist. As energy flows in and out from one state to the next, different potentials become actualized and generate new possibilities for other potentials. Think of particles of water evaporating due to sun radiation heating them up, the water becomes vapor which changes the air pressure generating wind currents which birds use to help them migrate. Each piece in this puzzle adapts to pieces in other systems to generate new potentials. 
+        - Take a break.
+        - List as many real-world problems as you can that may arise as complexity increases (5 minutes). Circle the three most significant problems. How can an understanding of complexity help with analysing the three problems you circled? (5 minutes).
+            - In no particular order, the largest problems today are
+                - The issue with changing climate patterns,
+                - The concentration of wealth and power in few hands
+                - The division of the public into us vs them
+                - The lack of trust in institutions of authority
+                - The fact that institutions have failed and therefore erradicated the trust in them
+                - The rising price of education in the united states
+                - The lack of incentives towards actually coming up with government solutions to problems
+                - The rise of automation leaving people without a sense of purpose tied to their labor
+                - The inneficient networks of distribution of capital in the world
+                - The fact that some people can live in oppulence while others starve simultaniously.
+            - Social division is a function of the interactions between people in social media looking to maximize their profit seeking, the fact that the instutions which were arbitrers of truth in the past, such as authoritative media outlets, have proven themselves to not only be fallible, but deceptive, and the reframing of traditional questions as existential without acknowledging personal biases in the process. These are just a few of the variables that go into play and understanding systems of interaction would help here.
+            - Climate is one of the most complex systems that we know of and it is actually our willingness to tinker and introduce new variables that got us into the issues we are facing with it today. 
+            - The way that capital flows in today's world is focused on few geographic areas which create small hubs for innovation and attract a specific type of person to solve particular types of problems. 
+        - Take a break.
+        - Free-write on the question: why does complexity matter today? (10 minutes).
+            - Most of the imprtant questions that we have today are not defined to a way of thinking that analyses the linear relationship of cause and effect that we would use in the past. Take New Orleans and the Levy construction process, which was a 'sensible' approach to deal with the problem of flooding. Reinforce the levy in order that it does not overflow. The problem from that approach as we know now, is that the sediment deposits from the river into the ground were a crucial part of how the land formation happened, and necessary to maintain that land formation above sea level. Solving the direct cause does not address the systems in place which lead to the problem, and often taking such superficial approaches leads to an exacerbation of the problem, or worse to a much larger problem than the one you are trying to solve.
+            - We have had a tendency to think of ourselves as the species that was able to outsmart nature through its ingenuity, and in some sense we were. Most challenges have been conquered by humanity in the sciences, yet they were dealing with a sort of narrow view of the modeling of the consequences of those actions. Nature works in complex systems which rely on the interaction of the parts, and we seem to have a tendency to influence the parts and the outcome without worrying about the consequences of that approach. This is no longer an acceptable way to approach problem solving. Thinking in terms of relations, accross domains, and through complex relationships is the only way to solve the most important problems today. 
+        - Submit your freewriting, keeping a copy for yourself.
+    - Complex Physical Systems
+        - Are simple complex systems. 
+        - In the birth of the energy there was a lot of heat energy in the system but not a lot of flows of energy that woult turn to complex systems
+        - Gravity began interacting with the condensed energy (matter) and began creating physical complexity from atoms to stars
+        - > **Free Energy Rate Density**A reliable metric for complexity. The amount of free energy flowing through a certain amount of mass in a certain amount of time. Important because energy flows are required to create complex systems, to sustain complex systems, and increase the complexity of those complex systems. The free energy rate density of a system corresponds to the diversity and intricacy of the system's interacting component parts - with the increase of structural complexity in a system comes an increase in the free energy rate density of the system, from stars to human societies.
+    - Cosmic Complexity
+        - Why was there no uniformity in the early universe?
+            - Small fluctuations in energy at the level of quarks allowed for fluctuations which increased in complexity
+                - As energy cooled, quarks formed neutrons and protons in the first few minutes which eventually cooled into hydrogen and helium
+                - Variations in hydrogen and helium allowed for flows of energy to create imbalances and lead to complex systems
+    - Chemical Complexity
+        - Some patterns began to spring up as the elements were categorized
+            - Alkali earth metals are highly reactive (Group 1)
+            - Alkali metals (Group 2)
+                - If elements of group 1 combine with an element of group 7 you get a salt
+                - to combine with group 6, you'd need to atoms of group one to be neutrally charged
+                - This is a process of combining cations and anions
+            - Order appears from complexity as you organize the periodic table
+    - Planetary Complexity
+        - For planets to harbor life, they need to sustain liquid water for extended periods of time. This was not the case for earth always.
+            - The earth had an ice age which created a feedback loop that reinforced the ice age. 
+                - As more ice covered the surface of the earth, more light was bounced away from the earth, reinforcing the decrease in temperature
+                - As photosynthesis stopped filtering out the CO2 from the atmosphere, and volcanoes were pumping it into the atmosphere, greenhouse gases began increasing the temperature which began melting the ice, which allowed for more radiation to be stored in the matter below the ice, increasing the rate of increase
+            - Solar Systems have resonance gravitational orbits like Saturn and Jupiter [[El Problema de los Tres Cuerpos]]
+        - Nonlinear systems are dependent on the initial conditions, and vary wildly based on minute deviations in the initial state
+    - Homework
+        - Free-write on the question: What drives complexity in the non-living world? (10 minutes).
+            - The living world is characterized by interactions within the parts. These interactions are allowed if you have deviations of energy in the space. Fluctuations of energy create new flows and eventually build up to the complex systems that we have today. Take the seconds after the big bang, a lot of energy was condensed and uniform across the entirety of the system which we call 'reality'. Yet this energy, in its path towards entropy, was not evenly distributed throughout the entire system. These tiny differences are the fundamental units which allowed for the generation of systems beyond itself.
+            - Once these tiny fluctuations began creating irregularities within the distribution of energy in the system, these irregularities began to create other irregularities, which began to create other irregularities. Massive amount of energy flows began to flow, and things started to cool, and more and more flows of energy became possible. This is what we have today. We know that the entire energy of a system tends towards zero, yet we have the entire dynamic system of planets, organisms, galactic clusters, molecules and everything in between. Whenever there is a system which can plug into energy flows, interactions within that system can interact in new ways.
+            - Complexity does not require living agents to participate in the system, it is a simple matter of interactions within the constituent parts in a multivariate way. The interaction themselves can be pretty simple as well, simple feedback loops can grow into larger systems, ultimately constructing the greatest complex system of all which is everything. It is interesting as it also seems to be fractal, regardless of how much you zoom in or out, there are agents interacting with and through each other, making up every layer of the substrate of our world. 
+        - Take a break.
+        - Consider the story of non-living complexity you have learned. Free write on the questions: what do different forms of non-living complexity share in common? (5 minutes). Do you see a directionality in non-living complexity? (5 minutes).
+            - Non living complex systems all are the result of interactions within the parts of that system, but not reducible to said parts. They have a characteristic property which emerges from these interactions and cannot exist without them, but it is beyond what they each bring into the table. A galaxy system's main acting force is gravity, while a chemical system is electromagnetism. Atoms and molecules are like planets and solar systems in that they all have complex systems all the way down and are also part of complex systems all the way up.
+            - If there is a directionality in complex systems, is one towards abstracting the smaller scales of a system as you grow larger. The ecosystem within planet earth has little bearing in the solar system, and likewise, the complex behavior of a current has little bearing on the planet. It is only when the smaller scale systems get completely out of whack that the larger system gets affected by the smaller systems. It is as though systems tend towards becoming self contained and once they achieve some sort of balance, they can begin acting as one agent in a larger system. This implies a sort of agency, but it is not necessary.
+        - Take a break.
+        - List as many real-world problems as you can that relate to non-living complexity in any way (5 minutes). Consider the list you have produced. Free-write on the question: How does an understanding of non-living complexity help us to understand these problems? (5 minutes).
+            - Basically every complex that we have today is related in some way to non-living complexity. Every system is built up of atoms, and is a part of a planet floating in space. 
+            - Take the very real possibility of human extinction due to the carrying capacity of earth being less than the human population. Take migrations due to climate. Take supply chain disruptions that are affecting productivity levels worldwide. 
+            - Understanding non-living systems creates knowledge around the primitives which complex systems are built on. For example, migrations due to climate are a process of resource allocation, and effective distribution of resources have to do with the environmental conditions of the places where resources are created. This is all a chemical system / process in the most besic sense. 
+        - Submit your freewriting, keeping a copy for yourself.
+    - [[Complex Adaptive Systems]]
+        - Systems where the parts seem to be working against each other. Feedback loops are much more pronounced and unpredictable
+        - Complex systems are built on top of complex systems
+        - Negative feedback loops can stabilize a system
+        - Positive feedback loops can destabilize them
+    - [[Dissipative Structure]]
+        - All complexity in the universe needs energy to sustain itself, because it needs work
+        - The second law of thermodynamics is the one law that will likely not ever be revised.
+            - Thermodynamic equilibrium is when energy is evenly distributed, a state of maximum entropy, without the ability to do work.
+            - Living use systems but don't violate thermodynamics
+        - Society needs new energy
+            - 
+- Grokked::

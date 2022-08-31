@@ -1,0 +1,1 @@
+- A low level mechanism that enables [[time sharing]] in an [[Operating Systems]]

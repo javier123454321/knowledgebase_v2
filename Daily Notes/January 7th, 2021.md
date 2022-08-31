@@ -1,0 +1,106 @@
+- [[Spheres]] 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[MetaBook]]
+        - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
+- [[Quick Capture]]
+    - [[Rob Fitzpatrick]] on Start-up advice & How to talk to customers with Rob Fitzpatrick (The Mom Test)
+        - [Youtube](https://www.youtube.com/watch?v=FG1Fa-t4AEQ)
+        - What is the type of business that you are making
+        - Certain business models are set up for different goals
+            - Having freedom vs getting steady money
+        - Startup culture had been to dump a lot of money into something, because the potential upside was so large that you could burn through other's money until you get there.
+        - You are trying to go through the trough as fast as possible
+        - Being lean and keeping costs down here is a massive asset
+            - College students are like cockroaches, they don't need money, they can be at 0 and have nothing to protect
+            - So keeping costs low is the right track to get something out. 
+        - You can gain a lot of insight by talking to people early in the process. **But You have to talk to them in the right way**
+            - Don't talk about features. Don't talk about ideas
+                - Ask only about facts about their life
+                    - When did you have this problem, how did you solve it?
+                        - "IDK, i just ignored it"
+                            - Now you have some good feedback that never hurt your feelings.
+                    - Only after you are sure that people love it, then should you scale
+                - Nothing is expensive in the product lifecycle of digital products but scaling. Build your saas Jason fried episode Build your saas Jason fried episode
+                    - We tend to get excited and try to scale early.
+        - Premature scaling is bad
+        - Getting the feedback is the most valuable thing you could do for the future of your business and it doesn't need to happen in a high pressure situation. 
+            - You are in calendar time, not clock time. 
+                - Setting up meetings takes longer, and doesn't go faster if you've quit
+    - [[Michael Seibel]] - How to Plan an MVP 
+        - [Youtube](https://www.youtube.com/watch?v=1hHMwLxN6EM)
+        - The first thing that you can give to any subset of users to see if you can provide any amount of value to them. 
+        - Talk to users before you start to build an [[MVP]]
+            - If your product is for a problem you have, it is even easier
+        - Don't build a product for users who you don't know who they are
+        - Steps to launch
+            - ### **Launch Quickly**
+                - Launch something bad quickly
+            - Get customers early
+                - A user should interact with the product. 
+            - Talk to your users and get feedback.
+                - If I haven't built the thing yet, feedback on the thing is useless
+                - The full thing should be flexible
+                    - Hold the problem tightly, Hold the customer tightly, hold the solution loosely.
+            - Iterate
+                - Don't fall in love with the thing.
+                - Don't look for a  new problem that your thing can solve, throw away the thing and look for something that solves the problem
+                - Improve the solution until it solves the problem.
+            - Lean
+                - weeks not months
+                - Limit the functionality
+                    - Narrow on the smallest subset of users 
+                - It is the starting point
+        - AirBnB 
+            - Had no map view, didn't know where the house was
+            - Had to pay the host in cash on the place
+        - On Launching
+            - Make 2 launches, get a customer (1st launch) Press buzz launch (don't worry about this)
+            - Spend on making the customer not have a problem anymore
+            - ## Spec
+                - Time box it
+                    - Only do on what you can do in a set amount of time (in weeks)
+                - Write down your spec
+                    - Makes you more honest about what you are doing if you change it
+                - Cut it
+                    - Once you start working on it, trim it so it fits the time, don't compromise on the time.
+                    - Cut the unimportant things
+                        - If there is no unimportant thing, cut important things
+                        - There is momentum once it exists in the world 
+        - Q&A 
+            - Never ask people for features
+                - You ask users for their problems [[The Mom Test]]
+            - When to stop adding features to it
+                - Don't think it's special
+                - It's an old shirt that you are using to paint the house, don't spend the time making it nice
+            - What to ask when getting feedback
+                - Does it solve the problem that you had
+                - If a product solves a user problem people don't stop using
+                - Does the user do the thing
+            - How long does an mvp last
+                - Who knows, launch then figure it out
+                - How to get from a to z is not laid out
+                    - Solve the problem in front of you
+            - What's more important growth and retention?
+                - Both are equally important
+                - Startups are multi variable problems, don't reduce it to one variable
+            - How do you know if you have product market fit
+                - Do you think that you might not make it because you have too many users?
+                - Is the main problem to keep the service running because of demand
+            - What to do if the problem keeps expanding beyond the scope
+                - Solve the problem for a tiny subset of users
+                - Most founders need a vision that is big but a product that is small
+                    - There is so much that you __want__ to do but is not possible just yet
+                - You have to juggle the two visions at the same time
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What could be better?]]

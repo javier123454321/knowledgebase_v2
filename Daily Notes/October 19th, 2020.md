@@ -1,0 +1,68 @@
+- ## 
+    - 
+    - ### [[Memory Captures]]
+        - [x] Pitch Deck
+        - [x]  Post Flyer
+        - Design Revamp marketing page [[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
+                - [x] Footer
+                    - [x] Ensure that mailgun works
+                    - [x] Setup Mail List
+                        - Start-Time:: 10:48
+                            - {{[[POMO]]: 25}}
+                            - {{[[POMO]]: 25}}
+                        - End-Time:: 13:39
+                    - 
+            - Claim Page [[Memory Captures]]
+                - [x] figma prototype
+                - [x] above the fold
+            - [x] Blog Landing [[Memory Captures]]
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - ### [[home]]
+        - 
+    - ### [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: [[query]]}}}}
+- ## [[DONE]]
+    - [x] Call Tony
+    - **Flowchart1**
+        - [x] click handler close modal
+            - {{[[POMO]]: 25}}
+- ## [[Quick Capture]]
+    - [[E-Learning]]
+        - https://www.nytimes.com/2020/06/13/health/school-learning-online-education.html
+        - It seems that the main issue in online learning based on this article, is that students tend to become disengaged when participating in online learning experiences. 
+            - Michigan Virtual
+                - Blended classroom approach to learn. Finds that AP students perform above average with the blended mode of education. 
+        - https://www.worldbank.org/en/news/immersive-story/2019/01/22/pass-or-fail-how-can-the-world-do-its-homework
+            - Being in school is not the same as learning
+        - [[Khan Academy]]
+            - Podcast: Harvard Business School - https://hbr.org/podcast/2019/06/can-khan-academy-scale-to-educate-anyone-anywhere
+            - Sal Khan started on a closet and moved up to worldwide enterprise.
+                - The original classroom model was the teacher dictating the terms, and punishing the students for not understanding the material
+                - If you did not 'get' the content that is supposed to be understood for that lesson, on that day, then you missed the opportunity to learn it.
+                    - Good luck into the future.
+                - Entrepreneurship is a series of tests
+                    - Try something and see if your customers want what you are offering
+                        - If yes continue, if no pivot
+            - How to scale this:
+                - Every succesful company is built by a team with complimentary skills
+                - Sal did 6,000 lessons himself 
+                    - Not scalable
+                - Programmers that scale the reach of it
+                - A bunch of generalists that have no depth in understanding on execution
+                    - Sal is a visionary, not an executor, budgetor, etc
+                    - Jenny Lee - Global strategy, identify early adopters, find you ambassadors
+                    - Get results and documentation from the experiments
+            - Localized investment, socialized impact
+                - The externalities are not usually factored into a business, but with Khan, they are part of the value proposition
+            - Some organizations are mission driven, even if the mission is unnatainable
+                - Google - to organize the world's information
+                - Khan - To provide a world class education to everyone, everywhere
+                - The mission can be sliding, where it is an ambition you go towards but never reach, or as you get closer to reaching it, what it means changes.
+- ## [[Literature Notes]]
+- ## [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

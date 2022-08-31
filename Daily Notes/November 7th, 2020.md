@@ -1,0 +1,22 @@
+- triangles are synergetic systems. Each individual part does not give you any type of accurate description of the behavior of the whole, but understanding the whole, and some of the parts you can derive precise understanding of the unknown parts.  {{[[∆]]:1+2}}
+- We learn based on the progressive revealing of our environment in a natural setting. We understand the world through navigating and interacting with it. The educator starts when the expansion of our world leaves off and tries to amplify this widening of horizons beyond our current environment {{[[∆]]:1+2}}
+- [[Gratitude List]] 
+- [[Spheres]] 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+- [[Quick Capture]]
+    - Understanding the past experience of a student is a necessary step in knowing where they are, and on what context to expand on for each student. 
+        - Each student carries with him a passionate curiosity towards large universal issues, they inquire about synergetic issues, what about the planets, galaxies, looking at the largest possible systems that they can think of. The adult, specialized as they are shut down the inquiry and tell the kid to confine his inquiry to a specific field
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

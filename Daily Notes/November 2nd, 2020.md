@@ -1,0 +1,92 @@
+
+    - [[Keypath]]
+        - **BUECS-1676**
+            - [x] import rxjs
+                - {{[[POMO]]: 25}}
+            - [x] Subscribe to updates when changing
+                - {{[[POMO]]: 25}}
+            - [x] count times submitted
+                - {{[[POMO]]: 25}}
+            - View
+                - [x] render tables 
+                - [x] track answer input
+                    - {{[[POMO]]: 25}}
+                    - {{[[POMO]]: 25}}
+                - [x]  display submit button
+                    - {{[[POMO]]: 25}}
+                    - {{[[POMO]]: 25}}
+                - [x] activate submit button when complete
+                - [x] check answers on the table
+                - [x] reset incorrect answers
+                - [x] Display show correct answer buttons after 2 incorrect submissions
+                - [x] Label correct
+                - [x] Track when all have been submitted
+            - Functionality
+                - [x] Reset all activities button when all are correct
+                - [x] remove all answers from selections
+                - [x] remove buttons when page is reset
+                - [x] import correct values from json file
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+- [[Quick Capture]]
+    - There seems to be a fetishization of the real
+    - How to build an audience
+        - https://www.youtube.com/watch?v=BF39ZyeAnBk
+        - It is about producing content, don't assume that no one is watching
+        - Content is the key, but you need the door, which is distribution
+            - Forums, bloggers, radio
+                - Find that someone somewhere to start a conversation
+        - Get feedback by asking people
+            - Experiment and ask
+        - Hyper call to action
+            - Be very specific, ask a specific question
+                - What are your comments on this specific question
+        - The power of one
+            - It takes one person, one piece of content, one opportunity
+            - A single person to help you spread the word multiplies your reach
+        - Why content - PIE
+            - Passion Improvement and Experience
+                - numbers are a metric, but not the goal
+        - Give incentives
+            - Asking someone to share without providing value will not work
+        - Everyone is an opportunity
+            - Every single person you meet is an opportunity to share your content
+                - Make sure you have a Hyper call to action
+        - 
+    - Get 1000 new fans in 90 days
+        - https://www.youtube.com/watch?v=YBEg--YJGME
+        - 84 people a week, 12 people a day on average
+            - the granularity is a great way to look at something more achievable. 
+            - Averaging 84 per week. 
+                - Do 12 interactions with your desired fanbase every day for 90 days
+                - producing content that is educational, desireable, interesting, and fun
+    - Forte Labs home
+        - following up on the fact [[Architecture]] is not as efficient as tech startups at changing the world
+            - Architecture, however, when productized into an abstract object looses the situational appeal that appears when designing something perfect for the landscape.
+            - Architets usually take the site as the starting point,, and having a product that can adopt to any site would mean having a product that is different for each site. duh
+                - This would mean that every piece of architecture would be unique, so you loose every economy of scale that was possible before.
+                    -  and is therefore inefficient.
+    - a book is not a book, it is a tool for you to enter into the experience of the author through words
+        - If you can derive an experiential model of the world (as opposed to a theoretical one) you can arrive at better tools for understanding existence
+        - we can easily fall into the trap of obsessing over the tools rather than the problem at hand
+        - we want to not only think of a note taking system to be good for note taking, but to be a tool for a purpose. Sometimes we take too much time focusing on the tools that we use and not on the solutions that we are trying to achieve with those tools.
+        - An educator's role is to create a condition where the present experience is taken into full advantage, where every aspect of a situation is exploited as a tool for learning, where we maximize the moment in the present, to carry with us this curiosity and disposition towards future experience.
+    - [[generalist]]
+        - categories are human constructs, real world problems are not bothered by categories
+            - thinking that solutions will come from only understanding the problem within the category that you are preconceiving is a faulty premise
+            - categories are tools, but we cannot let tools define us
+                - we can easily fall into the trap of obsessing over the tools rather than the problem at hand
+    - Did Mark Zuckerberg create a new industry?
+        - wtf is social media marketing 
+            - doesnt matter, it works
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

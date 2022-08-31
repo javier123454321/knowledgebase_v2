@@ -1,0 +1,56 @@
+- [[Gratitude List]]
+    - Being able to move based on preference.
+    - Having freedom
+- [[Quick Capture]]
+    - #[[Structure and Interpretation of Computer Programs (SICP)]]
+        - Lecture II Berkley  [YouTube](https://www.youtube.com/watch?v=8aFp84teahw&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=2)
+            - Computer science is the wrong term for the field
+                - It is more software engineering, but that has a lot of baggage
+                - Could be called complexity engineering
+            - The more people that you put in a project, the longer the project takes
+            - Programming paradigms
+                - How we organize or think of programs
+            - Layers of abstraction
+                - Application
+                - High level language
+                - Low level language
+                - Machine language / architecture
+                - Logic Gates
+                - Transistors
+                - Quantum physics
+            - Functions
+                - They are standard, same inputs are always yielding same outputs
+                - Important because computers do things at the same time thanks to [multi threading](((VHim9Pnti)))
+                - If the function depends on the output of the other to work there are issues. So you want certainty that every function ALWAYS returns the same answer.
+                    - Functional programming protects you from having to know what is happening inside the computer.
+            - Functions vs Procedures
+                - Functions always have the same outbput
+                - so 
+$$f(x) = 2x + 6$$ and 
+$$g(x)= 2(x + 3)$$
+                    - These are the same function.
+                    - They are however different procedures. 
+        - Lecture III Berkeley [YouTube](https://www.youtube.com/watch?v=NcrPl8Ocwpo&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=3)
+            - There is a wall in our brains that separates data and procedures
+            - That's why language tends to separate nouns and verbs
+                - Calculus is difficult because the integral is a function of functions
+                - $$\int_{a}^{b} x^2 \,dx = \frac{x^3}{3} + c$$
+                    - It takes a function and returns other functions
+            - functions are data in the computer science model.
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[MetaBook]]
+        - {{[[query]]: {and: [[TODO]] [[MetaBook]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]][[Other]]}}}}}
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What could be better?]]

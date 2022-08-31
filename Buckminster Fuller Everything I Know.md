@@ -1,0 +1,113 @@
+- Type:: [[Lecture]]
+- Author::  [[Buckminster Fuller]]
+- Subject:: [[Systems Thinking]]
+- Status:: [[In Progress]]
+- Abstract::
+- Summary::
+    - Part 1 [video](https://www.youtube.com/watch?v=h9nMMzErQhE&t=1462s)
+        - Humanity is born naked, stupid
+            - Yet we have the capacity to grow and understand ourselves and the universe, and a drive to do it
+            - Has had to figure out how to do anything entirely by its own accord
+            - With very limited information, it has exclusively used its faculties to derive useful knowledge
+        - Today we are experiencng an accelerated accumulation of information
+            - Chemistry has gone from hundreds of thousands of distinct chemical substances known, to millions to tens of millions in a single lifetime
+                - This acceleration that is unprecedented suggests that we are at the cusp of a new relationship with the universe
+                    - A new awakening
+            - There is a certain vanity of man, tied to the idea that we had to figure out everything to get to where we are. 
+        - An example of a child that is born in an industrial world, without the context of things that seemed natural a century ago
+            - Whereas there is a level of wonder that maybe should be associated with an automobile or an airplane, it is a pervasive aspect of a child's reality today
+                - Think computers Ted Koppel warns of the potential for privacy violation, jobs argues of the symmetry, the democratization of computer literacy as an equalizing force. [[Distributed Ontological Frontline]] comes to mind. 
+                    - Kids today are born and can leverage computers more than many adults ever will
+            - That is to say that what is natural and obvious can change dramatically from generation to generation
+        - If nature permits it then it is natural, sometimes we call things which are unusual unnatural 27:00
+        - The earth is a small planet in a small star (beetlegeuse's diameter is about the size of earth's orbit)
+            - We are small creatures in the small planet in a neglegible star in a galaxy out of millions of galaxies
+        - Our tools have allowed us to obtain detailed information about things outside of our miniscule planet.
+        - There are many creatures that have brains
+            - Brains are always integrating plurality of information
+                - It always and only deals with this special case experience height of this, color of that
+            - The differentiation between brain and mind 35:00
+                - Mind is able to review the plurality of special case experiences and find connections that are not predicted by the special case experiences themselves. 
+                    - For example, the way that the planets behaved in distinction from the myriad of the other stars. (which appear the same, except for their brightness, but have subtle differences)
+                        - 5 special cases of information led to a theory of planets through calculating and mapping the behavior
+        - Roman numerals do not allow you to multiply effectively
+            - It is derived from observation of the world and marking a scratch
+            - The abbacus allowed for the invention of arabic numerals
+                - Allows for greater abstraction
+                - After using abbacuss for some time, if you loose the tool, you have to imagine it in your own mind
+                - Tycho Brahe and Johannes Kepler then come along, making precise observation about what appears a dissorganized mess in the sky and capitulate that there might be an order if precisely abserved and measured
+                    - Keppler takes the orbits of the planets, defines them as ellipses and comes to the absolutely astonishing revelation that equal time per orbit on the different planets equals the area between the sun and the conical triangle that each planet traverses
+                        - What seemed like a disorganized chaos is absolutely and beautifully organized by principles which are discoverable
+                            - Imagine being the first human to really discover and understand that there are deeper principles guiding this behavior. 
+                            - The fact that they were correlating without touching was a crazy notion, but it seemed self evidently true
+                                - There seemed to be a tensive force holding the things together
+                            - Galileo found the rate of acceleration of objects on inclined planes
+                                - Isaac Newton was stimulated by previous events and became certain that there was something related to the magnitude of the earth, much deeper than his relationship to other objects
+                                    - He had an idea that if the earth would stop pulling on the moon, like letting go of an object tied to a string, the moon would shoot off at a certain force at a certain time
+                                        - {{[[drawing]]}}
+                                    - He found the rate at which the moon is falling into the earth, and it was equal to Galileo's observation Galileo found the rate of acceleration of objects on inclined planes
+                                        - There is nothing in the earth that would attract the moon
+                                            - Brain focuses on special cases and mind looks at the behavior of the whole system 54:00  The differentiation between brain and mind 35:00
+                                            - Mind is able to discover relationships existing between
+                                        - 
+                                    - 
+        - ## Synergy
+            - Behaviors of the whole system that cannot be explained by understanding the distinct parts
+                -   All great generalized principles discovered by science are generalized principles not discovered by looking at the distinct domain
+                - A generalized principle is one in which no exception has been found to the mathematics of the principle
+                    - Each special case is finite and brain looks for the start and the end of these principles
+                        - Generalized principles, are actually eternal, the relationships are the potential for interactions not the finite interactions themselves
+                        - If you become familiar with the library of documented generalized principles, you cannot help but be amazed at the fact that they are interaccomodating and regular, being that they all operate in a synchronized interdependent way
+            - Design is commonly understood as something in which the parts are independently working cohesively towards a goal
+                - Discovering the[ generalized principles](((EWwfvVmJq))) of the universe is a process of discovering the a priori design of the universe. 
+                - The human mind has glimpses into the "design" of the universe
+                    - Generalized principles, are actually eternal, the relationships are the potential for interactions not the finite interactions themselves
+                        - There is no generalized principle that you can point to that is a special case. It is a potential and a relationship, but it does not exist per se. 
+                            - The more intimate you become with those moments of great discovery the more moved you are by the great wonders of the universe.
+            - The meaning of the word synergy is unfamiliar to a large portion of the population
+                - A companion of the word energy 
+                    - Energy is separating out while synergy is combining, synchronizing
+                        - differentiation vs integration
+            - There is nothing in atoms that predicts chemical compounding
+                - Nothing in chemical compounds that predicts biological protoplasm
+                    - Nothing in protoplasm that predicts trees and the exchange of gases that predicts human beings
+                        - The universe itself is synergetic 
+                            - Something is synergizing from generalized principles
+        - ## Triangles
+            - triangles are synergetic systems. Each individual part does not give you any type of accurate description of the behavior of the whole, but understanding the whole, and some of the parts you can derive precise understanding of the unknown parts. [*](((OzfjEYoGj))) {{[[r/moved]]}}
+        - ## Understanding comes from experience, not from theories about the world
+            - If you can derive an experiential model of the world (as opposed to a theoretical one) you can arrive at better tools for understanding existence
+                - When you use words like "universe" you should define it in terms that correlate with experience
+                    - Edington - Science is the attempt to set in order the raw materials of experience
+                    - Ernst Mach (Vienna Phisicist) - Physics is arranging experience in the most economical order
+                        - Nature always does things in the most economical ways
+                            - least resistance, entropy, etc.
+                            - Even if there are a plurality of most economical approaches, nature chooses one.
+                            -  Mathematics as opposed to physics can look for the least economical systems and describe them
+                    - To describe universe in terms of experience is necessary because the universe is the largest totality that we can arrive at, which includes all of the synergetic behaviors of the parts.
+                        - The aggregate of all the humanities consciously apprehended in communicated experiences
+                            - Includes becoming, dreaming, and anything that we can communicate about
+                                - If you think of something that is not included in that, and you can communicate about it, then it becomes a part of this definition 
+                                - Einstein made a distinction between the physical and the metaphysical universe
+                                    - Science is concerned with the physical universe
+                                        - This definition is necessarily insufficient, as it does not describe the totality of experiences that are possible, and can therefore not describe the entirety of the synergetic system.
+                                            - As long as we leave out a ortion of the totality, there will be emergent properties that we will be unable to describe.
+                                    - The physical universe is defined in energy, everything that can be defined by a moving needle (it can be measured)
+                                    - the metaphysical universe does not move needles
+                                        - understanding is not physical, it does not move needles
+                                            - (is this true, what about measurement of neurons firing when connections are being made)
+                                    - Einstein was fascinated by the idea that radiation moved at the same speed in vacuum.
+                                        - Previous thinking tried to prove that fire was a chemical element
+                                            - After trying to isolate fire in a jar, and weiging the items that would go into the jar it was found that combustion would add weight to the jar
+- Literature Notes::
+    - The meaning of the word synergy is unfamiliar to a large portion of the population
+        - A companion of the word energy 
+            - Energy is separating out while synergy is combining, synchronizing
+                - differentiation vs integration
+        - Today, it is much more common to use the word emergent, which describes the behavior of things that cannot be described by the sum of the parts. Synergy as Fuller takes a stab at establishing as the right term for this, makes sense for his argument of it being in opposition to energy. Totalizing and integrating vs separating and differentiating.
+        - There is nothing in atoms that predicts chemical compounding
+            - Nothing in chemical compounds that predicts biological protoplasm
+                - Nothing in protoplasm that predicts trees and the exchange of gases that predicts human beings
+                    - The universe itself is synergetic 
+                        - Something is synergizing from generalized principles
+            - The crux of why generalized principles that combine different domains of specialization are indispensable in solving complex problems is that there is an inherit loss of information about the problem by breaking it down to its constituent parts. By definition of the problem, they cannot be tackled by focusing on a subset of them.

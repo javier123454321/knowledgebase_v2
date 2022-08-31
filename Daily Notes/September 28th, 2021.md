@@ -1,0 +1,50 @@
+- [[Gratitude List]]
+    - 
+- [[Quick Capture]]
+    - Type:: [[Video]]
+    - Source:: https://www.youtube.com/watch?v=GpL4jfLZY3Q
+    - Author:: [[Ali Abdal]]
+    - Subject:: Making videos on youtube [[content generation]]
+    - Status:: [[finished]]
+    - Abstract::
+        - Get started, make videos consistently regardless of quality and the process will refine itself as the volume increases. 
+    - Summary::
+        - No one cares, you can make videos and people won't think about you. Don't fall into the trap that people think about you, [[the spotlight effect]]
+        - Gear is not important at the beggining. If anything get audio gear first
+        - Quality over quantity
+            - At least 150 videos before starting to really strategize content
+        - Stack the deck
+            - if youtube is a hobby don't worry too much right now
+            - If youtube is a business, you can put in the time ahead of time. Focus on editing, building skills or outsource.
+        - Use your unfair advantages
+            - Success = work x luck x unfair advantage
+            - Putting in work makes luck more likely to happen
+            - What are the qualities I have and things people want
+        - Focus on quantity instead of quality
+            - Unless your goal is to make extremely crafted videos.
+            - the parable of the ceramics class, every day group a must make a pot, broup b only needs to make 1 pot in 30 days. Group A beats group B all the time
+        - Don't worry about your niche yet
+            - Niche will develop, and naturally grow over time
+            - Just make videos you enjoy
+        - Patience and consistency
+            - At least 1 video a week
+            - It becomes a compounding returns curve
+            - Getting the flywheel to turn.
+    - Grokked::
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[roam/comments]]
+    - [[September 28th, 2021]]
+        - [[Javier Gonzalez]]
+            - No one cares, you can make videos and people won't think about you. Don't fall into the trap that people think about you, [[the spotlight effect]]
+                - The spotlight effect is the idea that people think about you much more than they do. Everyone actually is central to their own story, and you are at best a secondary character, more likely an extra.

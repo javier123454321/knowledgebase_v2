@@ -1,0 +1,9 @@
+- ** Questions for each ** [[interviewee]] 
+    - Who is the most influential thinker today
+    - Who are your contemporaries
+        - Who would you wish to collaborate with outside your field?
+    - How did you get the idea or calling to this
+- ## List
+    - Ryan Singer
+    - Colin Wright
+        - https://www.youtube.com/watch?v=UuRxiEKeYq8

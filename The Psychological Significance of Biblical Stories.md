@@ -1,0 +1,33 @@
+- Type:: [[Lecture]] 
+- Source:: [Youtube](https://www.youtube.com/watch?v=f-wWBGo6a2w&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&index=1)
+- Author:: [[Jordan Peterson]]
+- Subject:: [[Archetypes]] [[psychology]] [[myth]]
+- Status:: [[finished]]
+- Abstract::
+    - The biblical stories do much more than provide a compelling narrative about a creator, they reveal embodied and deeply roooted about who we are.
+- Summary::
+    - [Biblical Series I: Introduction to the Idea of God](https://www.youtube.com/watch?v=f-wWBGo6a2w&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&index=1)
+        - {{[[video]]: https://www.youtube.com/watch?v=f-wWBGo6a2w&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&index=1}}
+            - Why study the bible at all
+                - No one is qualified to interpret these stories
+                - There is no good reason to believe them
+            - Nietzsche believed the scientific revolution would not have happened if it was not for Christianity.
+                - The European mind was able to learn how to study a the totality of experience within a single coherent framework through Christianity
+                    - The claim as I understand it is that transcendent thinking from Socrates through Christianity and into his day have led people to look for answers beyond themselves, and Christianity was especially culprit in this. Looking for answers elsewhere together with the dissolution of the metaphysical substrate that underpinned Christianity and came with the scientific revolution is what was particularly worrisome for [[Nietzsche]]. 
+                - When Nietzsche declared God is Dead, it was a warning, not a celebration.
+                    - {{[[video-timestamp]]: 00:08:24}} Peterson goes on a tangent about embodied knowledge vs rational knowledge, which reminds me of the ideas of John Dewey and Buddhism around [[experiential vs intellectual understanding]]
+                        - The significance of the discongruence between embodied and understood knowledge leads to something that can be bad
+                    - The current discongruence is The claim as I understand it is that transcendent thinking from Socrates through Christianity and into his day have led people to look for answers beyond themselves, and Christianity was especially culprit in this. Looking for answers elsewhere together with the dissolution of the metaphysical substrate that underpinned Christianity and came with the scientific revolution is what was particularly worrisome for [[Nietzsche]]. 
+                        - Leads to ideology to replace the metaphysical substrate.
+                        - {{[[video-timestamp]]: 00:16:14}} The Nietzschean approach to dealing with this nihilist worldview devoid of metaphysics it to be a Ubermensch capable of defining their own values. .
+                - {{[[video-timestamp]]: 00:16:30}} Humans are incredibly complicated and we do not understand why we do. There is an incredible amount of knowledge that precedes our actions, and such a small amount of that is understood logically.
+                    - This knowledge has been slowly extracted through myth by observation of behavior within each other.
+                    - {{[[video-timestamp]]: 00:17:15}} Myth is an extraction of a lot of history that has been embodied about what it actually means to be human.
+            - {{[[video-timestamp]]: 00:19:47}} Freud revolutionarily discovered the idea that our perceptions, actions, and thoughts are shaped by unconscious motivations which we are not AT ALL in control
+                - 
+- Grokked::
+- [[roam/comments]]
+    - [[September 30th, 2021]]
+        - [[Javier Gonzalez]]
+            - The European mind was able to learn how to study a the totality of experience within a single coherent framework through Christianity
+                - The claim as I understand it is that transcendent thinking from Socrates through Christianity and into his day have led people to look for answers beyond themselves, and Christianity was especially culprit in this. Looking for answers elsewhere together with the dissolution of the metaphysical substrate that underpinned Christianity and came with the scientific revolution is what was particularly worrisome for [[Nietzsche]]. 

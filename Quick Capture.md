@@ -1,0 +1,1 @@
+- Jot stuff down without any idea that it must be a well formed thought

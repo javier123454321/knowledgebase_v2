@@ -1,0 +1,47 @@
+- Graphic design is a means of visual communication
+    - There are foundational theories on how to get good at translating a message in a way that looks beautiful
+- The higher paid options in graphic design are those that solve business problems
+- Theory and Foundations
+    - Color Theory
+    - Color Harmonies
+    - Typography
+    - Font Pairing
+    - Type and Layout Hierarchy
+    - Layout
+    - Contrast and Scale
+    - Design Psychology 
+- [[Color Theory]]
+    - [[Color Theory in Design]]
+        - Color is the way that we see light interacting with objects.
+        - The Sun is the largest source of light in the world
+            - When all the types of visible light are combined they produce white light
+                - Red Orange Yellow Green Cyan Blue and Violet in that order from Shorter to longer [*]([[hue]] {{[[∆]]:3+2}}) {{[[r/moved]]}}[*](Red Orange Yellow Green Cyan Blue and Violet in that order from Shorter to longer [*]([[hue]] {{[[∆]]:3+2}}) {{[[r/moved]]}} {{[[∆]]:1+2}}) {{[[r/moved]]}}
+        - As light is absorbed and reflected, it is perceived as a color
+            - Each color is every other colored absorbed and the color that we are looking  at reflected to us
+        - Different mediums reflect light differently
+            - Screens vs Glossy paper
+    - [[Seeing the World through Color]]
+        - As we see the world, we see a multitude of colors Each primary color has a spectrum depending on lightness, saturation
+            - i.e. rose, fuschia
+        - Each color has a multitude of parameters that define the color
+            - [[hue]][*]([[hue]] {{[[∆]]:3+2}}) {{[[r/moved]]}}
+                - The color (without extra properties like lightness or saturation) that gets reflected to us
+                - There are hundreds of hues
+                - HSV **H**ue **S**aturation **V**alue
+                - HSL **H**ue **S**aturation **L**ightness
+            - [[saturation]][*](((7nGWY47_K))) {{[[r/moved]]}}
+            - [[HSV value]][*](((nU2MXnk-A))) {{[[r/moved]]}}
+            - [[brightness]] or lightness[*](((0nX9VGp62))) {{[[r/moved]]}}
+        - Each can be adjusted to produce a grid of different colors
+            - [[color contrast]][*](((xZYv0IZGs))) {{[[r/moved]]}}
+                - To check the contrast it can be useful to put everything in greys and see if you can tell the difference.
+                - Low contrast can be a stylistic choice, but it looses information
+    - [[Color Mixing]]
+        - For digital and print media we use light
+        - Our eyes use cones to decrypt light information in our retina
+            - We use the RGB colors and mix them together to form all the other colors
+        - Blue light absorbs all other colors and reflects blue wavelengths back to us
+            - Blue and red combine to create a magenta color
+                - Your brain is creating the illusion of magenta by combining what it sees in red and blue receptors
+                - if you put a lot of red and blue dots side by side your brain interprets magenta
+                - Your monitor only sends out red green and blue dots, and places them close together to get what looks like every color in the color wheel

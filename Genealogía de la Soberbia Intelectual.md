@@ -1,0 +1,16 @@
+- Type:: [[Book]]
+- Source:: 
+- Author:: [[Enrique Serna]] 
+- Subject:: [[Information Age]]
+- Status:: [[finished]] [[In Progress]] [[want to read]]
+- Abstract:: 
+    - A historic tendency to protect knowledge is observed accross cultures. The ruling 'knowledge' class can justify their power because they are the only ones with access and understanding of a certain piece of special knowledge about the world. 
+- Summary::
+    - [[Ciencia Sin Caridad]]
+        - The [[Vedic Texts]] in India were only passed on via oral transmission. 
+        - La clase sacerdotal se mantiene a si misma a travez de el proceso de proteger su conocimiento sagrado. Tanto los Aztecas como los Egipcios mantuvieron este conocimiento sagrado en su puño cerrado hasta su disminución. Pocos pueblos como los Atenos tomaron la decisión de darle su conocimiento a todos los ciudadanos, pero el experimento no duró mucho tiempo, y después de la caída del pueblo Romano, regresamos al mismo paradigma.
+        - Una vez se divulgó el conocimiento sagrado a el hombre común en Eruopa, los sacerdotes de la iglesia catolica decidieron hacer el Latín la lengua eclasiastica oficial. Asi se podían comunicar unos a otros a travez de culturas y barreras geograficas, pero creo algo similar a la lingua sagrada de los vedas
+            - El protestantismo necesitó traducir la biblia a las lenguas comunes de el hombre europeo.
+            - Otra herramienta en la francia del siglo 19 fue el uso de ortagrafía inecesariamente complicada que requiere años de estudio que solo la clase aristocrática puede dar. Todos pueden saber el lenguaje, pero al escribir tus pensamientos puedes ver si el estatus social de la persona.
+        - 
+- Grokked::

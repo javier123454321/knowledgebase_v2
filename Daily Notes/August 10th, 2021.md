@@ -1,0 +1,61 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - Growth Hacking Strategy for SaaS Startups (How to Acquire 100K Users)  [[Startup School]]
+        - https://www.youtube.com/watch?v=_Dc6x-oBW54
+        - Narrow down the customer profile, and find people already selling to them. 
+        - Integrate and connect with their solution
+            - Build an extension, etc to hook in there. 
+            - .
+    - How to Measure Your Product [[Startup School]]
+        - 5 Levers:
+            - Visits
+                - People going to your landing page
+                - Consumers have their mouse on top of the back button, all the time.
+                    - Measure the interest.
+                - **Need to get it right before moving on to features**
+                    - Don't need to do forgot your password at the beginning if no users have signed up
+                    - Make it easy to do!
+                        - The solution TENDS to be the simplest one, figuring out what easy step to take is hard
+            - Sign Ups
+                - People who sign up
+                - Don't set up things optimized for machines (spam filters, email confirmations, etc)
+                - Let users into the product before they sign up
+            - People Who Found Value
+                - People who do the thing your product was meant to do
+            - Retention
+                - People who come back
+                - Companies can grow virally but the company can still die.
+                    - If you grow virally too early, it can be a problem
+                - Track what percentage of users come back one week later, and one month later.
+                    - 7% of lost customers in a year becomes over 50% of lost revenue
+            - Spread
+                - People who share
+        - Once you have the levers, you can tweak them to get them to work for you
+        - If you don't have users, you need to talk to them all the time
+    - Influencers to talk to
+        - nnennab
+            - [nnennajn@gmail.com](mailto:nnennajn@gmail.com)
+            - [insta](https://www.instagram.com/nnennab/)
+        - 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

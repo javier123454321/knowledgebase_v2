@@ -1,0 +1,54 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - Gustaf Alstromer - How to Get Users and Grow [[Startup School]]
+        - Startups = Growth
+            - Most companies are not startups and growth is a key aspect of what makes a company a startup
+        - Growing too early - before product market fit - is dangerous
+        - Facebook's Growth
+            - first spike was opening up language translations
+            - second spike was mobile
+        - How to masure Product Market Fit
+            - Take the company / the metric that represents value / The ideal frequency
+            - Airbnb is bookings per annum
+            - Facebook is active users Daily
+            - Valorize is buying and tokens daily
+    - [The Art of Finding a Co-Founder | Ask A VC with Paul Lee](https://www.youtube.com/watch?v=1weo7Lvfrpc)
+        - VCs look for attractive market and skilled team, business model is not quite there yet
+        - CEOs need to think of salary in minimum terms because equity is worth much more than salary
+            - The best companies have a CEO that is very greedy about equity. It means that they have more buy in to the 
+    - Startup Technology - Technical Founder Advice 
+        - [[Startup School]] [Youtube](https://www.youtube.com/watch?v=tSW-GePDwn4)
+            - Lillian Chou (COO, Second Measure), Diana Hu (CTO, Escher Reality), Calvin French-Owen (CTO, Segment) and Ralph Gootee (CTO, PlanGrid)
+        - Launching you need to make tradeoffs. 
+            - One way to launch is if you are thinking of it as a hackathon, code that will be thrown away in the next few weeks.
+        - Rewriting is common, but it depends on your business. 
+        - TDD in the context of a startup needs to be balanced
+        - About processes
+            - Keep the conversation around important processes
+            - timeboxing is key to cutting the scope in favor of shipping
+            - Ask each person what they believe will happen in 1 to 3 weeks
+        - Contracting is a way to evaluate, but loosing that knowledge from someone leaving is very problematic. If your core competency is tech, then it makes no sense to outsource the main competency
+            - Outsourcing makes sense for non core issues.
+        - 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

@@ -1,0 +1,5 @@
+- [Article](https://medium.com/sfi-30-foundations-frontiers/emergence-a-unifying-theme-for-21st-century-science-4324ac0f951e) by David Pines of the Santa Fe Institute in my saved reddit feed from 5 years ago. 
+- The science of emergent behavior is interesting, as it necessitates an origin from the point of interconnectedness at the largest of scales. 
+    - Given that a system can exhibit behavior unable to be described by its individual parts - the definition of complexity - we would need to start our investigation on the emergent phenomenon at the largest observable scale. 
+        - This immediatlely  leads to questions of observability, given our situation as human subjects in the world. What is the largest observable system that we are a part of? 
+            - Any science of complexity seems to be necessary 

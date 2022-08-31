@@ -1,0 +1,148 @@
+- [[Gratitude List]]
+    - Beautiful city
+    - a mind that works
+    - All the conditions that came together for my current circumstances
+- [[Quick Capture]]
+    - [[Hash Table]]
+    - [[Valorize]]
+        - Competitors: 
+            - https://us.fyooz.io/
+                - Techbros looks a bit scammy
+            - https://www.coinvise.co/
+                - Looks clunky and launches you right in without telling ou what this is
+            - https://rally.io/
+                - Seems still a bit too technical in my opinion. 
+        - Differentiating features:
+            - Stupid easy to use
+            - Built on ethereum
+            - Friction at a minimum. Onramps to crypto. Turn cash into tokens immediately.
+            - Features to interact with your investors
+                - Bid on next project
+                - Airdrops
+            - First hand integration to other platforms
+    - [[Paul Graham]] on [[18 Mistakes that Kill Startups]]
+        - Quotes::
+            - **5. Obstinacy**
+                - In some fields the way to succeed is to have a vision of what you want to achieve, and to hold true to it no matter what setbacks you encounter. Starting startups is not one of them. The stick-to-your-vision approach works for something like winning an Olympic gold medal, where the problem is well-defined. Startups are more like science, where you need to follow the trail wherever it leads.
+                - So don't get too attached to your original plan, because it's probably wrong. Most successful startups end up doing something different than they originally intended — often so different that it doesn't even seem like the same company. You have to be prepared to see the better idea when it arrives. And the hardest part of that is often discarding your old idea.
+                - But openness to new ideas has to be tuned just right. Switching to a new idea every week will be equally fatal. Is there some kind of external test you can use? One is to ask whether the ideas represent some kind of progression. If in each new idea you're able to re-use most of what you built for the previous ones, then you're probably in a process that converges. Whereas if you keep restarting from scratch, that's a bad sign.
+                - Fortunately there's someone you can ask for advice: your users. If you're thinking about turning in some new direction and your users seem excited about it, it's probably a good bet.
+            - **7. Choosing the Wrong Platform**
+                - PayPal only just dodged this bullet. After they merged with X.com, the new CEO wanted to switch to Windows — even after PayPal cofounder Max Levchin showed that their software scaled only 1% as well on Windows as Unix. Fortunately for PayPal they switched CEOs instead.
+                - Platform is a vague word. It could mean an operating system, or a programming language, or a "framework" built on top of a programming language. It implies something that both supports and limits, like the foundation of a house.
+                - The scary thing about platforms is that there are always some that seem to outsiders to be fine, responsible choices and yet, like Windows in the 90s, will destroy you if you choose them. Java applets were probably the most spectacular example. This was supposed to be the new way of delivering applications. Presumably it killed just about 100% of the startups who believed that.
+                - How do you pick the right platforms? The usual way is to hire good programmers and let them choose. But there is a trick you could use if you're not a programmer: visit a top computer science department and see what they use in research projects.
+            - **8. Slowness in Launching**
+                - One reason to launch quickly is that it forces you to actually __finish__ some quantum of work. Nothing is truly finished till it's released; you can see that from the rush of work that's always involved in releasing anything, no matter how finished you thought it was. The other reason you need to launch is that it's only by bouncing your idea off users that you fully understand it.
+            - **16. Not Wanting to Get Your Hands Dirty**
+                - Nearly all programmers would rather spend their time writing code and have someone else handle the messy business of extracting money from it. And not just the lazy ones. Larry and Sergey apparently felt this way too at first. After developing their new search algorithm, the first thing they tried was to get some other company to buy it.
+                - Start a company? Yech. Most hackers would rather just have ideas. But as Larry and Sergey found, [[there's not much of a market for ideas]]. 
+                - No one trusts an idea till you embody it in a product and use that to grow a user base. Then they'll pay big time.
+        - [source](http://www.paulgraham.com/startupmistakes.html)
+            - Startups are more like science, the original plan is probably wrong and that is the mindset necessary to get started. 
+                - **5. Obstinacy**
+                    - Hold the problem tightly, Hold the customer tightly, hold the solution loosely.
+                    - Iterate
+                        - Don't fall in love with the thing.
+                        - Don't look for a  new problem that your thing can solve, throw away the thing and look for something that solves the problem
+                        - Improve the solution until it solves the problem.
+            - **7. Choosing the Wrong Platform**
+                - Honestly a scary thought to build on Ethereum. Right now it seems like the right move, but unsure if it will remain there for the longevity that I wish the project to have
+            - Software is difficult to time and estimate. Having a due date is the best way to be accurate.
+            - What to do if the problem keeps expanding beyond the scope
+                - Solve the problem for a tiny subset of users
+                - Most founders need a vision that is big but a product that is small
+                    - There is so much that you __want__ to do but is not possible just yet
+                - You have to juggle the two visions at the same time
+            - 
+    - [[HTTP]]
+        - Type:: [[Video]]
+        - Source:: [Youtube](https://www.youtube.com/watch?v=GYKhk39aGSI)
+        - HTTP is just a layer to communicate over a network
+        - ```plain text
+Sample request
+--------------
+GET / HTTP/1.1 <- request type, root, protocol version
+Host: localhost:8080 <- Headers are optional metadata, to localhost, useful for knowing if it is a proxy
+User-Agent: curl/7.64.1 <- what the client is that sent it
+Accept: */* <- What the client will accept as a response
+
+sample response
+----------------
+HTTP/1.1 204 No Content <-protocol and version, status code, reason phrase
+//Body string optional
+
+This completes the request and the client closes the connection```
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [x] Meditate
+            - Ngondro
+        - [x] Exercise
+            - Chest and back today, 35 on the decline press
+        - [x] Read a book
+            - 2 Pages of [[The Imposter's Handbook]]
+        - [x] Write
+            - Did the dsrp thing, definitely felt like it was a mind opening exercise.
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+        - Computer vs Social Network
+            - ### Distinctions
+                - What is a computer?
+                    - A machine which can take generalized and arbitrary set of insructions to produce some deterministic output
+                - What is not a computer?
+                    - Inanimate objecst which are inflexible towards input
+                - How would you distinguish between a computer and a social network?
+                    - A computer is a singular entity which is worred about its internal state, a social network is completely dependent on the relationships within the entity. The computer is likewise dependent on a particular relationship, but it is not necessarily modularlrly extensible as is a social network. A social network gets reinforced by the addition of a node, while a computer as a system improves but is not defined by adding nodes to it
+                        - It's actually interesting because I don't think that I can make a good distinction between the two.
+                        - A social network's function is to connect human actors, while a computer's function is to execute computational tasks
+                - Can you compare and contrast a computer and a social network?
+                    - As we understand it today, computers are a product of electrical technology, while social networks preceded computers and likely civilizations. Is a tibe a social network
+            - ### Systems
+                - What are the parts of a computer?
+                    - Processor, memory, and storage
+                - What is a computer a part of?
+                    - The internet
+                - Can you name some parts of the parts of a computer?
+                    - Processors have microchip and silicon 
+                - What are the parts of the relationship between a computer and a social network
+                    - Social networks today are accessed through computers. Computers allow for the participation in distributed social network. These interactions are integral to the value of a social network
+                - What are the parts of a computer when looked at from the viewpoint of a social network?
+                    - A computer is a network access point to the social network. A computer is the interface
+            - ### Relationships
+                - What ideas are related to a computer and what ideas are related by a social network?
+                    - Computers are ways to abstract some of our interactions to produce a particular result that scales human capability. Likewise social networks allow for a magnified capability through the network effects.
+                - What idea relates a computer and a social network?
+                    - Both of these are abstractions which allow for magnified output.
+                - How are the parts of a computer related?
+                    - computers work together to produce this general capability
+                - How are the parts of a computer related to a social network?
+                    - The processing, network ports, and interactions allow for participation in the network
+                - What are the relationships among a computer and a social network and other things?
+                    - A computer creates the interface to interact with distributed social networks, which in turn feed into the hivemind of humanity at a global scale. This is turning humanity into one global supercomputer, with a modular design, that is infinitely extensible. Creating these connections, the speed of information flow is so rapid that a completely unimagined emergent phenomena is happening, and we cannot even understand it. From our point of view, we are only cogs in the emergent phenomena which is the super mind that connects us all. We are just individual neurons in this emergent thing, and because we are inside it, we are not even aware of it. 
+            - ### Perspectives
+                - When looking at a computer, can you identify the perspective it is viewed from, and the subparts of that perspective?
+                    - The computer is viewed from the perspective of programmers as an interface to something greater By others it is simply a way to disconnect. In the end it is so general purpose and abstrac that it is really just a tool which dissapears and the information that you can access through it surfaces
+                - Can you think of a computer from multiple perspectives?
+                    - A tool for producing computational results. A predictive machine, an encryption, a node in a larger network. 
+                - How are a computer and a social network related when looking at them from a new perspective?
+                    - From the perspective of a tool for information, perhaps in education, computers and social networks are a multiplier of the capabilities of a single human. It is a way to offload some of the computation that we have to do as humans, and freeing up our resources to worry about the synthesis of new and novel concepts
+                - What are the parts of a computer when looked at from multiple perspectives?
+                    - Cmputers are so often though of as black boxes which are not even understandeable. The processing units are the short term memory, simple task processing of humans. The screen are attention suckers and total destabilizers of us. 
+    - [[What did I learn]]
+        - Go handling of constants. 
+        - Valorize is not the first - business idea is valid
+        - The road to making a succesful startup is well trodded. All experienced people seem to say the same type of general advice.
+    - [[What could be better?]]
+        - Ate out last night, had ALL the fries. Need to reduce the possibility of me being in a position where I need self control to handle the situation. This is a loosing strategy, I am simply too impulsive. 
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

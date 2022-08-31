@@ -1,0 +1,114 @@
+- [[Gratitude List]] 
+    - my health
+    - My able body
+- [[Spheres]] 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+- [[Quick Capture]]
+    - [[Network Theory]]
+        - Video: https://www.youtube.com/playlist?list=PLsJWgOB5mIMAuH3cHa-MXukX6-RPpDXgl
+            - Sometimes systems are defined by their constituent parts
+            - In networks, the connections between the nodes become more and more descriptive of the system rather than the nodes themselves
+            - The system is defined by its connectivity
+                - The space of connectivity is not euclidean
+                    - It has its own network topology (creates its own geometry)
+                        - The space of connectivity does not relate to the space of objects in a vacuum
+                - London is closer to Istanbul than Hungary if you think of the connectivity of  the nodes in the air travel network
+                - 
+            - Networks are emergent
+                - Ants leave a trail of scents creating networks
+                    - It is an interaction of the items within the networks and the context
+            - interactions between nodes in the network can grow exponentially
+            - Network theory overview
+                - [[graph theory]]
+                    - Mathematics to describe the network
+                    - Networks are consisted of at least one vertex (node) and an edge
+                        - vertices are things that are quantifiable
+                        - Edges are a relation between two nodes (tangible like roads and cables) or intangible like relationships or trust
+                            - Generalized principles, are actually eternal, the relationships are the potential for interactions not the finite interactions themselves
+                                - Edges in graph theory are far more concrete than the principles that Buckminster Fuller talks about, although there is a case for giving this relationship a primary ontological status.
+                            - Nodes that belong to an edge are endpoints
+                    - A graph is a relationship with nodes and edges
+                        - Directed graphs have directions
+                            - Have order to the relations
+                        - Undirected graphs have no direction
+                            - Edges are interchangeable for each node
+                                - Bob is married to Jane, Jane is married to bob == Jane and Bob are married
+                        - weighted graphs have a volume in the edges
+                        - Multiplex graphs are interconnected between two or more graphs
+                - Begin by defining the network
+                    - [[all models are wrong but some are useful]]
+                        - We need to disseminate out of the totality of information, which areas will we want to put our focus on and which will be neglected
+                - How connected is a node and how central it is to the overall network
+                - The dynamics of the global network affects the individual constituent parts.
+                    - Distribution Density, Connectivity Clustering are features of the nodes and of the overall network
+            - Most networks aren't random, they are defined by the rules that the nodes play in the system
+                - However, most networks are not designed like a computer network
+            - Network Diffussion
+                - How fast something can spread through a network.
+                - Sometimes high degree of diffusion (viral content) is desired, and sometimes low is (actual viruses)
+            - Node Connectivity
+                - Instead of giving primacy to the properties of a thing, we give connectivity higher value
+                - Degree is the measure in the number of connections it has in a node. 
+                - Can be in and Out degree
+                    - The number of importing relationships is the In degree
+                        - Twitter following
+                    - the out is the number of export relations
+                        - Twitter Followers
+                    - it can also be described mathematically by the weight of the edge (if it is a weighted graph)
+                        - The trust that followers have on me, that I have on them
+            - A graph looks like a matrix in a computer
+                - A walk is a sequence of adjacent vertices that do not visit the same node twice, and a geodesic is the shortest walk that two nodes must take to reach each other
+            - Centrality tells us the measure of signigificance in a node in a network [*](((kQz3nVmVR))) {{[[r/moved]]}}
+                - Significance varies, centrality defines what makes a node important
+                    - Connectivity is degree of the node vs max degree - dependent on the context
+                    - Quantity of Flow and Importance
+                    - ### Centrality Metrics
+                        - degree connectivity[*](((Cb7gHEuNE))) {{[[r/moved]]}}
+                            - Primary metric that defines the significance of a node based on degree
+                        - closeness centrality[*](((0Wt11F57-))) {{[[r/moved]]}}
+                            - How close a node is to another node on the network. how is it to reach others
+                                - How long it will take to communicate with all the other nodes.
+                        - betweeness[*](((uBSOkTF1H))) {{[[r/moved]]}}
+                            - The node's role as a bridge or connector
+                            - How critical a node is to the functioning to a network, how often is a node a bridge to the shortest path between two networks.
+                        - prestige centrality[*](((1xBvoXNYf))) {{[[r/moved]]}}
+                            - How significant you are based on proximity to other nodes in the network
+                            - How connected the nodes are that connect to this node.
+                                - value vs quantity of connections
+                                - Eigenvector centrality
+                                    - Assigns relative scores to all nodes based on the concept that connections to highly connected nodes are more valuable than to sparcely connected nodes.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FPbGxNXQzcE.png?alt=media&token=91cbe700-7af2-4b15-99c0-3d1b8050e33a)
+        - Network Topology
+            - Networks start randomly organized, but develop an overall structure over time
+            - Topolgy describes the overall patterns of the way that things are connected.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2Fqn3aKEbs_I.png?alt=media&token=dbe2b1fb-84c9-449e-9fee-8803f54fd056)
+                - Given the relationships, many things have to be considered.
+                - A star network takes 2 hops to reach any node vs three in ring or 4 in line
+                - Connectivity
+                    - the density of networks within the system
+                        - How easy it is to connect two nodes
+                - Scale
+                    - small communities vs large cities
+                - Clustering 
+                    - How things that are close relate to each other.
+            - Networks are created by nodes in the system, but are later on defined by this relationships
+    - [[Mattereum White Paper]]
+        - A large portion of assets that exist in the world are currently not in a marketplace for the friction in arriving at information about them. Think of all the pieces that a house has, all the objects that exist there and are underutilized, if there was a clear and low friction way of creating a marketplace for those products, they might be mobilized into an economy that exists now but is not being served.
+        - Mattereum is looking to create a smart property register that unlocks $10,000,000,000 in assets in the third world
+            - opacity and friction in the process is a real problem that gets smoothed out as information rises to the surface
+        - Utilities vs Security tokens
+            - When linked to physical assets so much of the 
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

@@ -1,0 +1,51 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - [[Paul Graham - Before the Startup]]
+        - Source:: Youtube
+        - Startups are counterintuitive. Advice won't make sense by definition.
+            - Getting startup advice is often ignored for this reason
+        - Knowledge about startups does not matter, what matters is knowledge about customer problems.
+            - If you have a solution, it doesn't matter that the details are not perfect
+            - Knowing startups can lead to a person going through the motions. This works in school, and is the curse of overachievers, because they have been given a path to get where they are and doing it excellently.
+                - (the traditional thing, that you can almost game is getting funded)
+        - Looking for the trick, gaming the system, does not work in startups.
+            -  There is no boss to trick, only users.
+        - Startups will consume your life, and successful startups will take your life for a long time.
+            - People don't see the dificulty of starting a startup, successful founders don't get sympathy.
+                - The difficulties of startup life are somewhat concealed for this reason. 
+    - Anu Hariharan and Adora Cheung - How Investors Measure Startups Q&A
+        - https://www.youtube.com/watch?v=zcG-kXH4mPk
+        - Investors need to be educated
+            - They are really looking at how you are educating them on the space which you are building
+        - How fast are you moving. Have you launched an mvp, and what have you learned from it
+        - Having clarity of thought around your idea is key. The CEO is the spokesperson for the idea, and it needs to be clear.
+            - You need clarity as to be able to recruit other people that will also not be willing to help you otherwise. 
+        - Raising money adds people problems above all the other problems
+            - Solve other problems.
+            - Find out how much money you need to reach your next milestone and don't go after a penny more
+            - The less data you have the larger your dillution. Have some level of traction.
+                - If you cannot get the data, make relevant data. Focus on getting the first 100 users.
+            - The goal of running the company is not to find investors. You find investors for one specific outcome.
+        - The best reference is from an investor's portfolio of founders
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

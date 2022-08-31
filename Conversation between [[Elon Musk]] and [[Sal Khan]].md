@@ -1,0 +1,4 @@
+- [[Conversation between [[Elon Musk]] and [[Sal Khan]]]]
+- [[Elon Musk]]: The united states is a nation of explorers
+    - A distillation of the human spirit of exploration
+    - There was a will for space exploration, but the minds of people didn't point to a way to get tehre

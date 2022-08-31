@@ -1,0 +1,108 @@
+- Type:: [[Book]] 
+- Author:: [[David Epstein]]
+- Subject:: [[generalist]]
+- Status:: [[In Progress]] 
+- Abstract::
+- Summary::
+    - Tiger Woods and Federer both were possibly the best athletes in the world, yet Federer did not specialize into tennis until his early twenties, while Tiger went all in on Golf since he could walk.
+    - There seems to be a growing body of literature that people who have a more diverse upbringing tend to have the greatest impact later in life. 
+        - Taking time to have life experiences and a well rounded education is actually an advantage
+    - Yet we still tend to push people towards hyperspecialization in our culture
+    - [[The Cult of the Head Start]]
+        - story of the Polgars, the Hungarian chess grandmaster from the documentary.  she was brought up to be the best chess player in the world.  through intense early childhood training she got up to 8th in the world. 
+            - chess is about recognizing and mapping patterns in your head.  it is deterministic and measurable,  unlike the type of issues that exist today
+        - Daniel Kahneman on "Heuristics and Biases"
+            - experience leads to confidence but not necessarily skill
+                - chess is about recognizing and mapping patterns in your head.  it is deterministic and measurable,  unlike the type of issues that exist today
+                    - chess is an exception,  not a rule.  pattern recognition is not necessarily the right approach in every situation
+        - repetitive pattern recognition is usually called brilliance amd is the most easily automated process.
+            - computers and humans have complimentary and unique skills. "Anything we can do, and can codify, machines will do better" - Kasparov
+                - freestyle chess is the combination of computer aided pattern recognition and open ended strategic human thinking
+                    - chunking is the grouping of information into recognizable patterns - 
+                        - the polar chess recall experiment
+                            - Goblet amd Campitelli IM status in chess will drop from 1 in 4 to 1 in 55 if rigorous training hasn't started before age 12
+                        - savants that can memorize songs cannot memorize atonal non harmonic songs
+                        - athletes have super human reflexes until they get tested in conditions outside of their traditional domain
+            - in Star Craft, a computer has beaten the best players but the strategy is so open ended that they can overcome and adapt
+                - that is exactly the strength of humans, the ability to synthesize information
+                - computers act like savants in that they need controlled patterned and determinate information the case for hyperspecialization
+                    - experts tend to underperform in new situations "How Not to Teach People to Discover Rules"
+                        - cognitive entrenchment
+                        - Savants dont dominate their fields, Nobel Laureates tend to be exceptional in different domains outside their narrow one
+                            - Shannon combining boolean algebra to telecommunication systems to transmit information
+                            - Steve Jobs using his experience with calligraphy to design the typeface of the mac
+                            - Connolly and Gobet research on athletes becoming successful accross domains, due to range.
+    - [[How the Wicked World was Made]]
+        - If the Flynn effect is the phenomenon that in order to keep the median IQ test scores at 100, the questions must get harder
+            - Rupert Sheldrake actually puts a hypothesis that this is not necessarily because people are getting smarter, but because the answers are being more known.
+        - in premodern societies, when an IQ test is administered, the abstraction of a pattern recognition  test is not easy to explain.
+            - across cultures, the less industrialized, the more tied to experience do the individual concepts have to be for making sense of it
+                - we on  the other hand think almost exclusively in terms of abstractions, from scientific metaphors to computerized interfaces 
+                - this level of thinking can explain the Flynn effect
+        - instead of doubling down on widening our horizons and searching for generalized principles applicable in new domains, we double down on specialization. Flynn actually found that by and large people score poorly I  applying the principles of their fields outside their own domain
+        - Generalized principle vs specific instances
+            - A generalized principle is one in which no exception has been found to the mathematics of the principle
+            - In some sense, when Epstein talks about the world of experiential understanding that premodern societies are a part of, there are clear limits to their thinking. For lacking scientific thinking, their reality is completely based on their direct experience
+                - Modern man is much more likely to make their experiences into abstract concepts about the world. This link is crucial in Fuller's conception of the world.
+                    - Taking your experience and finding what is true so that it could apply to most things
+                        - Our modern world does not train us to apply the observations and principles about the world accross domains. It narrows the scope so that we remain in a single area of expertise.
+                            - Studies show that being skilled in School does not correlate with critical thinking. 
+    - [[Where Less of the Same is More]]
+        - The general theory is that music requires early specialization, but data from some of the best mucisians in the world implies that might be more of the exception than the rule. 
+            - The venecian figile which were visited by Rosseau were a group of orphans that are said to have revolutionized classical music as it came into the baroque world. Unlike many contemporaries, they only got to play a variety of instruments whenever time allowed - a few hours per week. 
+                - They consistently, regardless of background, became some of the most decorated mucisians with this strategy. Allowing for early experimentation and sampling seems more likely a winning strategy.
+            - Duke Ellington began with formal training and almost quit. The rigidity of lessons made him dislike music, only through discovery and own experimentation did he build a passion for music which eventually formed into his expertise. 
+        - A key driver in this sampling period is the ability to learn how to learn. 
+        - As in the process of acquiring language, learning music requires acquisition of the language of music. Deliberate and repetitive practice (at the early stages) actually works against that idea.
+            - It is more likely that a jazz musician learns classical that a classical mucisian learns jazz improv. 
+    -  [[Learning Fast, and Slow]]
+        - Humans have a tendency to want to break down problems into their procedural solution. If I do x, and get Y, Then Z. This is easy and is what is taught in school. 
+            - Students will guess at what teachers ask (based on a tape from an 8th grade classroom) and try to pattern match a solution to the problem. The problem is that one needs to reason about a problem before getting hints about the solution.
+        - Scientists observed a phenomenon of [[Hypercorrection]] where being wrong about a problem that you have reasoned through and then finding the correct answer later makes this piece of knowledge stick more in your head. 
+            - > **Hypercorrection** is the higher likelihood of correcting a [general knowledge](https://en.wikipedia.org/wiki/General_knowledge) error when originally certain that the information they understand is accurate as opposed to unsure of the information.[1](https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29#cite_note-Metcalfe-1) The phenomenon suggests that once a general knowledge information is confidently misremembered by someone and the person learns the right version after their initial response is corrected, their likelihood of remembering this piece of information will be higher than someone who was unsure of their initial answer. It refers to the finding that when given corrective feedback, errors that are committed with high confidence are easier to correct than low confidence errors.[2](https://en.wikipedia.org/wiki/Hypercorrection_%28psychology%29#cite_note-2)
+            - But you just have tor reason through a solution and give an answer, because doing so makes the recall and application of that in the future more likely. 
+        - Forcing one to reason (through tests for example) about an answer leads to better recall in the long term. 
+            - The unfortunate thing about this reality is that it leads to less short term satisfaction. 
+            - Study in the US airforce shows that people that rated their Calculus professors higher, had lower performance in subsequent math classes. 
+                - There seemed to be a negative correlation between favorable reviews and long term performance!
+                -  Forcing students to reason through, introducing them to a multitude of subjects, and making them frustrated in the short term made them better in the long term.
+                    - In learning science we call this process [[interleaving]]. 
+        - Interleaving is the process of mixing up learning subjects as opposed to blocking, where you only practice a single thing for a given period of time. 
+            - Like many things, it is bad for the short term satisfaction of learning something, but good for the long term success of remembering and being able to apply the subject. 
+    - [[Thinking Outside Experience]]
+        - For Johaness Keppler to come up with a heliocentric model of the universe he had to extend his thoughts towarda analogies beyond his narrow domain of experience
+            - Analogies such as magnetism, radiation, and other ways that bodies could enact forces on other bodies. At whichever point he was stuck, hed have to step back and hypothesize about what could be an analogous explanation
+        - This ohenomenon is studied, people tekd to do worse when they have domain expertise ready to be deployed to solve a problem. VCs will look at the projects which they have detailed understanding of the operations and constantly overestimate their potential retirn than if they are presented with analogous but similar problems.
+            - We do t use the same generalizations when we know too much of the details of a problem.
+                - This is an issue when we need to derive a new approach to a problem which we are stuck in solving.
+            - Before our pattern matching brain kicks in and wants to solve problems using algorithms that dont require deep abstract thinking, we need analogies across domains to evaluate the available options. 
+                - The more distinct the analogy is from the problem, the better the reasoning about the problem becomes
+                    - Students can train this analogical training by explorimg the general principles driving different domains, for example linking things based on the structure of behavior (ice caps melting and feedback loops of economic speculation) as similar pattern rather than classifying things according to one domain.
+                        - The best problem solvers are able to classify the deep structure of a problem before looking for a solution
+                - Keppler as well as the most productive scientists are willing to throw away the details of the work if they find evidence that does not fit into their model (as opposed of discarding the evidence)
+        - The wider and more varied the analogy, the better for coming at novel and correct solution to the problem
+    - [[The Outsider Advantage]]
+        - The company InnoCentive was born out of an observation that specialists often looka t areas outside of their experience to find solutions to some problems. They begas posting some of the most challenging problems to questions online and quickly found that people with non specialized knowledge actually came up with solutions that worked.
+            - Specialized knowledge leads to thinking within a narrow scope of what you believe to be the domain of the issue at hand.
+    - [[Lateral Thinking With Withered Technology]]
+        - Nintendo was born out of a need to do something with old tech instead of being at the cutting edge. People were more willing to develop on it, and it was less prone to break.
+        - 3M found that polymaths ()T shaped knowledge people) were one of the key determinants in inventors measured by patents.
+            - When the problem is well defined, a specialist is better at solving it because they have refined the process. (Heart Surgery or Aviation)
+                - If you need to putt, call Tiger Woods. 
+            - If the problem is not one of optimization, not well defined, then it is better to have someone with breadth, as you need to think within alternate domains.
+                - [[Why Big Companies Can't Innovate]] [[Harvard Business Review]]
+                    - When you are starting out as a business, you get rewarded for finding new ideas in the market. Once you are a running company, your machine is designed to do what it is already doing better. Finding operational efficiencies in your processes create more profit. This is good, but not what startups are good at. 
+                    - A [[startups]] success is in how well it identifies a gap in the market and matches it to a solution. 
+                    - Once that has been done, the game of doing that better begins. 
+                        - Big companies cannot do new things because they have spent all their time optimizing for what they are already doing. These constraints are good for maintaining profits, not finding new solutions. To innovate, you need to go against the goals of the organization...
+                            - [[Michael Seibel]] on things that don't scale. 
+                                - as a startup efficiency should actually be last on the list
+                - What gets you to a solution is not the same thing that makes you efficient in that solution.
+            - 
+    - [[Fooled by Expertise]]
+        - [[Paul Erlich]] predicted that famine was inevitable. He was wrong
+        - The issue with experts in a field is that they have such a particular belief about how the world should work that they pick evidence to reinforce their idea, rather than quickly dismiss the evidence. 
+        - Experts and their confidence in predicting the future seems to be inversely correlated with their actual ability to do so. 
+            - We go straight into pattern matching based on past experience, rather than trying to find out why we are wrong. 
+        - 
+- Grokked::

@@ -1,0 +1,44 @@
+- [[Spheres]] 
+    - [[Keypath]]
+        - **Flowchart1**
+            - [x] click handler close modal
+        - **Dolly Caching**
+            - [x] Apply hotfix dolly
+            - [x] Create PR, tag dave
+        - **Flowchart2**
+            - [x] Create graphics in Illustrator 
+            - [x] Toggle modal windows
+            - [x] Record modal anwers
+    - [[Memory Captures]]
+        - [x] Talk to Rohit
+        - [x] Review Curriculum [[Memory Captures]]
+        - Design Revamp marketing page [[Memory Captures]]
+            - Landing Page]([[MC landing page]]):  [[Memory Captures]] [[October 23rd, 2020]]
+                - [ ] pulse finger tap
+                - [x] Footer
+                    - [ ] Layout 
+                        - {{[[POMO]]: 25}}
+                    - [x] Ensure that mailgun works
+                    - [x] Create a mailing list
+                        - [x] Embed on page
+            - Claim Page [[Memory Captures]]
+                - [x] figma prototype
+                - [x] above the fold
+            - [x] Blog Landing [[Memory Captures]]
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - [[Other]]
+    - [[Personal]]
+        - [ ] Investigate persisting login  site]]
+- 
+    - 
+- ## [[Quick Capture]]
+    - [[Personal Goals]]
+        - To be a person that others can look to if they want to do something related to [[E-Learning]] business.
+            - To revolutionize (or be part of the ongoing revolution) in digital learning
+- ## [[Literature Notes]]
+- ## [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

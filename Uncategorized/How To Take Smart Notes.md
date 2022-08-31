@@ -1,0 +1,300 @@
+- Type:: [[Book]]
+- Author:: #[[Sönke Ahrens]]
+- Subject:: [[Note Taking]]
+- Status:: [[In Progress]]
+- Abstract::
+    - Dealing with all the work that comes before ever writing a book. It focuses on the least focused on, yet most prevailing form of writing.
+- Summary::
+    - Introduction
+        - The bulk of writing that most people that write things is not published, it is the work that happens beforehand that people end up spending the most time on. Being systematic about this approach will improve the process and it can be geared towards a specific outcome. This outcome can be tweaked and manipulated to your advantage.
+    - Ch1 - Everything You Need to Know
+        - Structure
+            - Given that academia and writing in academia is about connecting different ideas and generating new ones, you cannot plan for that. Planning for new ideas is a paradox
+            - Structure gives you the possibility to take away the mental overhead of the process and focus on the subject. If you trust the process and the structure, then you can simply go into the work of creating something new and useful. 
+            - This is for those that are doing the useful work of thinking outside the box, in between the lines, as the tools that we use should allow us to create a system to draw connections between different fields.
+            - Working through outcomes is useful when the goal is clearly defined, but a system for learning and writing in new academic fields is necessarily open ended. It needs a system that allows us to jump back and forth between ideas to formulate the implications of their connections.
+            - Luhman
+                - An idea is only as useful as its context, which is not necessarily the one which it was taken from.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2Fg4m4C8EhNk.png?alt=media&token=117f6c8c-d0a8-4ce5-8ef6-ca0c24ba0531)
+                - His method allowed for developing connections between ideas that usually would become unnoticed. His structure became a companion to him, and one that would work in terms of a positive feedback loop.
+                - Making the work more fun, makes you more productive
+                - Insight oriented writing is open ended, and requires the flexibility to pivot as new insights arise, not to be categorized and suppressed, siloed and restrained.
+                - The trick was that Luman did not organize notes by topic, but by fixed numbers which have no meaning with the [zettlekasten](((hVunxyWKT))) method
+                    - If the note had a connection that he could draw, he would link it based on its unique address
+                        - Lastly, he would later let indexes and categories emerge. He would categorize only afterwards, from the bottom up.
+    - Ch2 Everything you need to do [[October 30th, 2020]] 19:15
+        - A system that could take out part of the list of tasks that are required when writing something.
+        - The tasks
+            - Collect notes and references about a topic
+            - Outline the flow in which the piece will be structured
+            - Fill in the outline with the details that will lead to your conclusion 
+            - edit the piece to ensure coherence, tie up the loose ends
+        - The steps to write a paper
+            - Take fleeting notes - anything that comes to your mind
+            - Take literature notes - reference your fleeting notes to put it into your own words
+            - Take permanent notes, find out how it relates to your project or idea 
+                - Place these in your slip box and link and index them, these are fully formed ideas
+            - Allow ideas to form by themselves from your interaction with the system
+                - See the connections that naturally emerge from the content which is being produced
+    - Ch3 Everything you need to have
+        - traditional systems create friction in every step of the process of making connections between ideas
+            - underlining thoughts create pockets of knowledge but does nothing to put them together with other thoughts,
+            - where do the underlines go, where do the motes go?
+        - you need a place for your fleeting thoughts and notes to go, accessible to you at all times. The idea is to externalize everything that goes through your brain when you are processing some new information 
+            - there is no judgement when capturing these, they are there to serve as fleeting externalities that are captured momentarily
+        - The reference system serves the purpose of organizing your thoughts around a reference, and the reference itself
+    - Ch5
+        - Writing in academia is seen as an exercise that you do in order to reach a goal,  to finish writing a paper for example.
+        - It is a distinct activity in academia with a predetermined end time
+        - It is a skill that you learn in order to do independent research in the future
+        - Sonke argues that writing and note taking should be looked at AS independent research
+        - the thinking that happens around it is something that you will put into the world and have it be scrutinized by your peers
+        - Academia is the process of making your work public, not just in publishing but in all that you do around it, in reviewing, in asking for input
+        - Writing is the work that we do to externalize our ideas and have them create an impact in the world
+        - Thinking about how you will write something down allows you to think differently about how you consume content, how you read and how you process it, because you externalize it
+    - ch6
+        - shipping containers
+            - they completely revolutionized am industry
+            - it was a product of taking a simple idea,  or a problem - how do we deliver goods to consumers? and crafting a solution 
+            - Looking at the problem without being buried in the traditional way, the conventions that people have about it allowed the inventor to think PAST the original solution and release efficiencies that would otherwise go undiscovered. this technique isnt new, but it is difficult, reminds me of how [hey.com](((ouIPudj9V)))  rethought email by starting from the first principles, or how satoshi nakamoto invented bitcoin amd created a new reality that we have to now contend with [[design thinking]]
+        - the note system rephrased the problem of writing notes to one end, producing written works that will exist in the world
+            - it is meant to take the friction out of the recording of information. you dont have to worry about how to categorize your thoughts, or having to find them
+                - it does not get more complicated as it grows, it actually becomes simpler and the topics dont have to be brainstormed, but they actually emerge from the system itself
+        - mistakes 
+            - to treat everything as permanent
+                - hard to tell what is good what is relevant, what is trash or wrong
+            - to only write things attached to current projects
+                - hard to know what will be useful in the future
+            - to keep everything in its temporary state
+                - can get unwieldy quickly
+            - mistakes are there because they make the system more complicated as it grows in size
+        - fleeting notes are to keep your head in whatever it is you are doing, reading, or thinking, not to distract you from it
+            - they are there to take an idea and remind you that there is something there
+        - permanent notes are synthesized to create a system that allows you to reference them whenever you need to write about them.
+        - they are processed and exist much less dependent on a context
+        - Luhman would just reference the material as it caught his attention and would store it, but would also think of how it related to his thinking, and make notes of that in the context of his interests
+            - a permanent note is no longer a reminder of an idea but it exists as a self contained idea in itself
+    - ch7
+        - writing is not linear yet when looking at guides on writing research papers the process described is linear
+            - choose a topic -> do research -> collect bibliography -> write outline -> do more research -> fill in the outline -> edit
+                - this lacks a context and assumes that you are starting as a blank state
+                - writing is not linear, writing has to happen in each of these steps, and prior to each step
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FPtosOeSIXo.jpg?alt=media&token=6aefe8db-f838-4f12-94bd-4059bdcb19ac)
+                - ideas emerge from what you've already read and find interesting and if you have a system, then all the ideas that emerge come with associations and references already formed
+                - starting
+                - 
+        - starting from a blank page is never that, and is just a symptom of having all the work that you have previously done inaccessible at the moment of writing
+    - ch8
+        - creating a positive feedback loop is crucial for ensuring long term success. 
+            - doing things that create conditions for wanting to do those things in the future instead of relying on motivation
+            - people that are talented tend to want to keep that impression of themselves in others instead of wanting to grow. this leads to a fixed mindset rather than a growth mindset
+            - feedback loops are crucial for growing
+                - academic writing gives feedback loops  very scarcely when you publish
+                - the zettlekasten allows you to have a more immediate feedback loop, as rewriting something is a way to gauge your understanding of it
+                    - creating a permanent note also ensures you've managed to synthesize the information
+                    - it will reveal contradictions as we try to combine ideas together
+                        - positive feedback loops that get better over time
+                        - we think in networks and associations, not linearly.
+                            - the zettlekasten allows for you to have a companion to your brain, that thinks like you and reveals information the way that is easiest for you to achieve
+    - [[Chapter 9. Separate the Interlocking Tasks]]
+        - __Psychologists who interviewed the multitaskers did test them instead of just asking. They gave them different tasks to accomplish and compared their results with another group that was instructed to do only one thing at a time. The outcome is unambiguous: While those who multitasked felt more productive, their productivity actually decreased–a lot (Wang and Tchernev 2012; Rosen 2008; Ophir, Nass, and Wagner 2009). Not only the quantity but also the quality of their accomplishments lagged significantly behind that of the control group. __ quote
+            - I have definitely read this before, and it is an indictment of my behavioral patterns as they stand. I completely suffer from the dilemma of trying to do too many things at once
+        - Multitasking is the process of doing a series of things in sequence, not of doing things at the same time.
+            - It actually impedes our ability for learning a thing as it fatigues us before we get to the meat of it
+        - Because writing **requires** us to work on multiple things at a time, then it is problematic unless we narrow it down to the distinct thing we are doing currently
+        - __The good news is that we can train ourselves to stay focused on one thing for longer if we avoid multitasking, remove possible distractions and separate different kinds of tasks as much as possible so they will not interfere with each other. This too is not just a question of having the right mindset, but, equally important, of how we organise our workflow. A lack of structure makes it much more challenging to stay focused for extended periods of time. The slip-box provides not only a clear structure to work in, but also forces us to shift our attention consciously as we can complete tasks in reasonable time before moving on to the next one. Together with the fact that every task is accompanied by writing, which in itself requires undistracted attention, the slip-box can become a haven for our restless minds.__ - quote
+            - Here there is where meditation has absolutely changed how I approach this process and how I train the muscles for holding my attention for longer periods of time. After years, I cannot imagine not doing it, but at the same time, I wonder if I am beginning to see diminishing returns.
+            - I also absolutely see the value in the fleeting notes concept here, as they are made to minimize the context switching, place the minimum amount of effort in the fleeting note process, and go back (and dedicate the proper time) to it later
+        - Writing requires multiple distinct activities
+            - Proofreading is not writing, and it requires a completely different approach to it. 
+            - __While taking on the role of a critic is not the same as being an impartial reader, it is enough to spot most of what we missed before: the holes in the argument, the parts we did not explain as we did not need to explain them to ourselves. To be able to switch between the role of critic and the role of writer requires a clear separation between these two tasks, and that becomes easier with experience. If we proofread a manuscript and don’t manage to get enough distance from ourselves as authors, we will only see our thoughts, not the actual text. It is a common issue that comes up during discussions with students: When I point out problems within the argument, an ill-defined term or just an ambiguous passage, students usually refer to what they mean first and only shift their focus to what they have written when they fully understand that what they mean is completely irrelevant within the scientific community.__ - quote
+                - Separating yourself from the content, and attempting to see the situation from an objective perspective is an excellent way to evaluate the content you are putting out
+            - Writing cannot be done if simultaniously proofreading, as putting thoughts down is its own process that will be stunted by constantly evaluating the perfection of what is being jotted down
+                - There must be distinct processes for both
+            - Other distinct domains of academic writing
+                - Researching, Outlining, Writing, Reading, Skimming, Proofreading
+                    - Then you can get into the work of publishing, marketing, etc
+            - __Psychologists used to associate scientific work exclusively with focused attention, while other, more floating kinds of attention were exclusively associated with creative work like art. We know today that we need both kinds of attention for art and science. It is not surprising, therefore, that this flexibility can be found among most, if not all, exceptional scientists. Oshin Vartanian compared and analysed the daily workflows of Nobel Prize winners and other eminent scientists and concluded that it is not a relentless focus, but flexible focus that distinguishes them. “Specifically, the problem-solving behavior of eminent scientists can alternate between extraordinary levels of focus on specific concepts and playful exploration of ideas. This suggests that successful problem solving may be a function of flexible strategy application in relation to task demands.” (Vartanian 2009, 57)__ - quote
+                - Work done in states of deep focus is valuable, but only when combined with wide exploration and drawing connections from distinct ideas that you get to the most valuable insights.
+            - __What psychologists do not discuss, though, are the external conditions that allow us to be flexible in the first place. The mental flexibility to be extremely focused for one moment and playfully explore ideas in the next is just one side of the equation. To be flexible, we need an equally flexible work structure that doesn’t break down every time we depart from a preconceived plan. One can be the best driver with the quickest reactions, able to adjust flexibly to different street and weather conditions. None of that will help a bit if the driver is stuck on rails. And it does not help us to have great insight into the necessity of being flexible in our work if we are stuck in a rigid organisation.__ - quote
+                - I firmly believe that the type of problem solving that we need today is flexible and interdisciplinary, creative, and broken out of silohs created by the categories of academic disciplines. 
+                    - Disciplines, of course, give us structure and are great at arriving to narrow insights about a very specific idea (think of a phd thesis title)
+                        - PHDs tent to go for the study of an extremely narrow subset of the population they are studying, in an extremely narrow timeframe, in an extremely narrow geographical location, taking an extremely narrow methodology. I have my doubts this type of work will lead to the solutions to what is sometimes referred to as wicked problems
+        - ((5dE8cfQGo))
+            - This is right in line with John Dewey's theory of experience and effective education. Since we learn from experience, creating situations that are totally isolated from the context in which the material will be applied, then the continuity of experience will be broken. This makes it so when it is time to apply the knowledge, it will seem unfamiliar.
+        - Academic writing is an open ended and and indeterminate process, so it is akin to an art
+            - That is to say, it cannot be planned
+            - It requires embodied experience relating to ideas and their context, so there is no way to determine the context where it might be useful
+        - ((80ZPGOcMz))
+            - This is a warning about the technique that this very book is trying to teach. Following the steps does not necessarily make you an expert in outputting useful content, it can just become a robotic process without the synthesis
+        - 9.5
+            - Memory requires effort, it is not a simple process of retrieving information
+                - The people that are most skilled at it, are able to use mnemonic devices to expand some of the limitation of the brain, but it is still active recollection of items that has to process each time we want to remember something
+                - Understanding something makes it require much less effort to recollect
+                    - The zettlekasten is a tool for understanding something - making a mental model of it and drawing connections to other things in your mental database
+                    - It becomes difficult to forget something once we draw the connection between the thing and other areas of (neurons) in our mind.
+            - Our short term memory gets filled with open ended tasks, but gets dismissed when either they are done, or we have confidence that the task will be taken care of
+                - We don't waste brain cycles worrying about whether or not we finished the thing
+                - The zettlekasten also allows us to put away things that would otherwise be spinning brain cycles while we do the heavy activity Researching, Outlining, Writing, Reading, Skimming, Proofreading
+        - 9.6
+            - So far, we looked at memory, attention, and now we look at willpower
+            - Willpower is not a trait, but a tool that we use, that wears out and needs recharging
+                - ego depletion
+                    - the process of loosing willpower after exhausting it for overusing it
+            - Forcing ourselves to do something that takes willpower is much harder than making ourselves (tricking) into liking the thing
+            - making routines help the process of lowering the amount of decisions
+                - Same notetaking process, same writing process, same notebook
+    - [[Chapter 10: Read for Understanding]]
+        - ((1rvdqVUPF))
+            - The thought which Sonkhe has been hinting at is to frontload the task of writing as early as the idea arrives in your head 
+        - Reading with a pen is about having a dialogue with the material always, a dialogue which continues beyond the consumption of the material and goes into the process of synthesizing the information through writing about it
+        - Every piece of text that is written exists within a context that you have to recontextualize into the context that you bring to the idea whenever you write about it
+            - This is why it is pretty useless to just highlight things as you are reading them in a book.
+        - You should always read with an eye to how your context (which is your slipbox) will fit into the material which you are consuming
+        - ((f0wlzXzRy))
+            - The end goal in this case is to introduce.a permanent note into your zettlekasten system to produce written content later, everything that you are doing is leading up to that
+            - 10.2 Keep an Open Mind::
+                - Confirmation bias is an issue as our brain just plainly seeks out things that will allow it to feel better.
+                - Fighting it can be a systematic process, but as it was discussed earlier, every decision and mental strain will fatigue us making the process counter productive
+                    -  Multitasking is the process of doing a series of things in sequence, not of doing things at the same time.
+                        - It actually impedes our ability for learning a thing as it fatigues us before we get to the meat of it
+                - We need a system to not have to think about it
+                - ((HqodWit64))
+                    - Sonkhe loves shredding on the conventional model of academic writing, but it is apt to say that you have misaligned incentives when starting with a premise (that you are often times unsure if it holds according to the evidence)
+                - Reverting the order and allowing the topic to emerge from the collection of thinking that you have already done and from the evidence that you have already collected.
+        - 10.3 Get the Gist::
+            - ((0Bo86a-RU))
+                - Learning all the details. of a piece of writing is neither useful nor desireable, we want to look at the essence and draw the connections to and from it. Ruminating on the granular details will not advance us in our task to synthesize the knowlege we are receiving
+        - 10.4 Learn to Read::
+            - Teaching something is the best way to learn it and writing smart notes is the process of teaching something to your future self
+            - We can easily confuse exposure and familiarity of a thing with understanding of the thing
+                - The good news is that we can absolutely test our understanding of a thing
+                    - rephrasing what was said in our own words reveals the gaps in understanding that we have
+            - ((5pGdRqCEM))
+                - It absolutely slows you down to take time to digest a written work, but it will be a much more productive use of the time if we are actually making the material stick and become integrated into ourselves with a purpose 
+            - ((kjNNcmaWn))
+                - It is not only that focusing on the facts does not become conducive to understanding the material, rather it mught even be at odds.
+                    - Outsource the memorization to the computer, they can do recall exponentially better than the best human, use your capacity for synthesizing information instead by explaining what you learned.
+                        - ((AKbep7vC2))
+                            - Relieve yourself of the rote task which you are notably imperfect at doing. Give that away, there is no use for it if you can outsource it. Worry about that which is most beneficial, which is understanding and sharing with others.
+    - [[Chapter 11. Take Smart Notes]]
+        - Success in reading is related to the ability to think beyond a text. Lonka 2003, 155f
+        - Do not accept the arguments of a text as a given, but question it and develop a critical understanding of the fundamental reasons that the author holds that position. Engage, criticize and uncover the assumptions.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2Fqh-aunmoHw.png?alt=media&token=80075dc3-89ff-4c35-9d31-8bea8574a0ca)
+            - We might be completely unable to reach any kind of understanding if we don't rephrase what we are learning and develop models of thinking that interconnect the subject matter with other nodes of ideas in our brain (or second brain)
+        - 11.1 Make a Career One Note at a Time::
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2Fad5YIVXcMP.png?alt=media&token=7985512d-58c6-4f1c-9c47-9f059e364c49)
+                - Developing the atomic habit of writing a page a day can lead to a 300 page book in less than a year. We can even average a page a day and set the goal post to be a sentence every day. As James Clear puts it, it is much more of an issue to develop the habit than to achieve the far out goalpost that we see into the future.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FaGXJuo4duO.png?alt=media&token=1a423627-9f9d-4a16-874c-cae2961fe2a7)
+                - Thinking in terms of compounding interest in your thinking, the more that we can relate our thoughts to other thoughts and ideas that we already have, as well as formulate them in a manner takes care of the editorial work before going into "project" mode is making the process become smooth. It is about designing a process whose outcome it is to produce well formed ideas. 
+            - Formulating your ideas in terms of completed notes about a subject, with its dependencies mapped out, and a system that emerges from it.
+                - You can just focus on creating a small number of notes (which in this context is a self contained idea) per day and create an entirely prolific body of work, which not only is effective for organizing your thoughts  but in creating output that will then be expanded upon by the people that interact with it.
+        - 11.2 Think Outside the Brain::
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2F8i9nDQv8y3.png?alt=media&token=115297ec-765b-4143-b420-9aa0ef32f31a)
+                - Writing a thought that we have goes beyond transcribing something in our heads to paper [No written piece is ever a copy of a thought in our mind](((tjWCJM6Cr))), it is a process of externalizing what we are thinking into a coherent, structured way.
+                    - We can think that a thought makes sense, but verbalizing it actually reveals holes in our thought process.
+                    - Our brain is excellent at tricking ourselves to forego reason (we tend to behave and think in logical fallacies) But we can do the hard work of revealing the weakness of an argument by putting it on paper and reading it as an outsider
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2F0uoij8KgIn.png?alt=media&token=58735375-64a8-4932-a98d-4bec116e8219)
+                - Feynman
+                - Writing out your thoughts IS the thinking, not a byproduct of it
+            - So we get to, once again, the point of the slip box. We want to connect it with our own work, our own motivations and draw the connections which will be most useful to us. The slip box is for things that are useful to us, and the questions that derive from that.
+        - 11.3 Learn by not Trying::
+            - Forgetting the details of something can be a useful tool for distilling the useful content out of it.
+            - Storing information in our brain is about putting details in. Retrieving inforation is about making the relevant portion of those details stick, and that is most easily done through association with other areas.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FcwjsZg9hoJ.png?alt=media&token=cca6ae75-9a16-4829-9590-69740138fbea)
+                - John Dewey talks about this extensively in [[Experience and Education]]. Experience is the basis for Dewey to reach any kind of learning. Learning actually is a collection of experiences. The problem with traditional education is that we are creating experiences that are completely abstracted from the context in which the information would be useful.
+                    - We try to cram information into students as though students were recipients and information was an object. This is called transferism and is laughed at in pedagogical circles (and has been for a century)
+                        - Yet this is still the operating model for education in my experience. Learn the information in a setting which is completely arbitrary, and have an experience of memorizing facts, which will only be useful for passing tests 
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FyVxASvYbpt.png?alt=media&token=1dc18210-c461-4957-83ff-160760da0bcb)
+                                - Goes back to the idea that every experience that we have (which in Dewey's case is equivalent to saying every idea that we have) has the possibility of creating new experiences (ideas). The experiences that lead to the greatest potential for future experiences, are the most valuable (the ideas that draw the most connections ot other, and to new ideas are the most useful)
+            - So we understand by drawing meaningful connections (as memory artists do when creating these palaces for recalling different bits of data) and that is the process that we are trying to optimize for. 
+            - If we were to design a process for creating meaningful, and thoughtful "knowledge work" you would have to start by identifying the process of learning, recalling, synthesizing 
+    - [[Chapter 12. Develop Ideas]]  
+        - notes in the slip box dont have to worry about completeness
+        - completeness comes when a final manuscript is being worked on
+        - we can also create an index for our permanent notes, but we should be thinking of it sparsely. The overview of the slib box is impossible to maintain in working memory.
+the goal of the index is to draw one or two topics maximum to the idea talked about in  the slip box
+relations between notes are more favorable to relations from index to notes
+
+[Idea Development](Idea%20Development.md)
+        - [[12.2 Make Smart Connections]]
+            - Adding links to your notes works best if done in two directions
+            - Drawing links between things will draw you attention connections that were not obvious prior
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FJyL1m-GYlG.png?alt=media&token=050210c6-7fde-4509-b60d-5e00c23d8459)
+                - We think through linking, it is not an end to itself, but a process at arriving at something new.[[Buckminster Fuller]] always drew the distinction between special case phenomena and generalized principles. Special cases are those things that we experience and our brain has an easy time differentiating. A generalized principle draws connections between the special cases, it is about relationships. These cannot be experienced directly by brain but must be arrived at through our mind's ability to create connections.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2Fwp2I2PhhbQ.png?alt=media&token=48a1b85f-b770-404c-8387-c01076b86889)
+                - Literature notes end up being sources of facts that live in our network of thoughts and ideas. We are not good at remembering the details of a fact, so the zettlekasten's role as a second brain really shines through here.
+        - [[12.3 Compare, Correct and Differentiate]]
+            - Thinking through a slip box is a way to arrive at how your thinking about something evolves. You end up finding that you have already written about something or that someone else thought it before you.
+                - The slip box can therefore point to the essence and the contradictions between a thing
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FFlIpEQU_F6.png?alt=media&token=8af927ae-94dd-4fdb-adfd-eaba23066b2c)
+                - This is the process of dialectics that Socrates and Plato, later Hegel and Marx based their process of arriving at truth, through opposition, you can arrive at something. Thesis Antithesis Synthesis
+            - Because our brains are inneficient machines with a system of biases hardwired into their functioning, the slipbox is designed to facilitate us to do what we do best and watch our back when we are doing something stupid
+        - [[12.4 Assemble a Toolbox for Thinking]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FIIC73f6PYi.png?alt=media&token=8935b531-b9b0-40ef-a0b9-5f3a8412892d)
+                - Finding out about the most important concepts in different fields and trying to integrate that into your thinking as a strategy for broadening your horizons.
+                - Facts are useful, but they require models for them to be meaningful.
+                    - Every model is necessarily a simplification of reality [[[[all models are wrong but some are useful](Uncategorized/all%20models%20are%20wrong%20but%20some%20are%20useful.md)](Uncategorized/all%20models%20are%20wrong%20but%20some%20are%20useful.md)]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FlM6oGCsS-l.png?alt=media&token=93282105-93ed-46e6-9ca2-b812d757a9fd)
+                - [[John Dewey]] talks bout experience being the only way that learning actually happens in [[Experience and Education]]. This is a contradiction.
+                    - Experience cannot be transferred from a person to another, but a model of the world can be communicated and applied towards new experiences. These models come from experience, and you can skip the mistakes by applying the derived model. 
+                        - You can actually take a model and apply it to your interactions with the world, and verify through your own experience whether it proves to be useful or not. Take the [[bootstraping]] startup model, it is well defined. Do things that don't scale, get feedback early, launch before you are ready. These are all processes that have been borne out of the experiences of the people that have done this in the past. If you want to launch a self funded startup, it makes sense to follow this model, but the model remains an intellectual exercise until you go about actually doing the thing.
+            - The process is made to think through the implications of new material in alignment with the way that we think, and the way that experts recommend us going about learning something.
+        - [[12.5 Use the Slip - Box as a Creativity Machine]]
+            - Creativity is the observing of how things are connected.
+            - Ideas come from observation, and our embodied knowledge becomes intuition. This embodied knowledge comes from incremental revealing of patterns in our understanding over time
+        - [[12.6 Think Inside the Box]]
+            - To find new context for the ideas that we put into the box, we would have to find the abstract principle which an idea is outside of its context.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2F4o38_uPvhq.png?alt=media&token=34b2ac2a-07b2-40a2-bc84-f8ffea230691)
+                - By putting ideas exclusively into their distinct form, give them a distinct ontological status, they can then be remixed into different contexts
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FStEY0uqCTD.png?alt=media&token=08f2b007-eda4-4327-9709-3055dae78dc2)
+                - The obvious or apparent result is often the exact opposite of the correct thing.
+        - [[12.7 Facilitate Creativity through Restrictions]]
+            - relationship between creativity and limitations
+            - 
+                - Having an empty canvas is sometimes seen as a good thing, but the sheer amount of possibilities is paralizing.
+                    - Restricting the possibilities to a technique or a style actually makes the task manageable, and can create more creative solutions.
+    - [[Chapter 13. Share Your Insight]]
+        - On the process of writing, once the connections have been laid out and the work is in front of you, writing is organizing and threading the needle of the items in your slip box.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FspK5Ij3-HU.png?alt=media&token=4fa39bef-9ebf-47c6-9d70-fc4fd3c9cfb0)
+            - On the natural limitations of our brains. We have a program to prioritize a seemingly arbitrary set of habits rather than what might be important to remember in the future.
+        - When starting to write, we should start from the ideas that we have already written about, not from generating a new idea. If we make a systematic effort to do so in the moment that they arise and not wait until we want to write about them, then we frontload our process of documenting ideas and make the process of writing much more seamless.
+        - Ideas might die from lack of interest, or lack of relationships with other ideas.
+            - [[graph theory]] nodes are defined by their relationships to the other nodes and their influence in the larger system
+        - [[13.3 Getting Things Done by Following Your Interests]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FyYkGr4-cjk.png?alt=media&token=68be772b-6dc6-4a7b-9cf5-3ada458fe4bd)
+                - Wandering is a step that can be taken to achieve creative output. Wading into the unknown makes sense as a strategy for new ideas, given that new ideas will by necessity be unknown.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-book-club-2%2FOcsAmagIhN.png?alt=media&token=ad113411-9811-4530-9776-7ba26d76b25c)
+                - Read with a critical eye gauging, what is relevant about this to be worth the write up.
+                    - It's about giving yourself the bandwidth to question if engaging with this is worth my time. [[Naval Ravikant]] often talks about starting far more books than he finishes, as life is too damn short to do things that are not inspiring or nurturing.
+            - [[13.4 Finishing and Review]]
+                - Likewise, you should not write if it does not inspire you. You can start and work through multiple manuscripts, changing as your mind goes on to different ideas.
+                    - Keeping a record of your thoughts allows you to only work on what is interesting to you at the time.
+            - [[13.5 Becoming an Expert by Giving up Planning]]
+                - We tend to plan things out and vastly underestimate the time it will take us to complete something.(Buehler, Griffin, and Ross 1995) Overconfidence bias
+                - According to the famous law of Parkinson, every kind of work tends to fill the time we set aside for it, like air fills every corner of a room (Parkinson 1957).
+                    - Parkinson's Law, every kind of work will fill the time alloted to it.
+- Grokked::
+    - Luhman managed to externalize and systematize part of his processing beyond himself, to extend his capability beyond its natural limitations, and encourage the type of conclusion drawing that is necessary for domain insights [[Luhman]](((8503GcGsA)))
+    - The system allows for the way which we naturally write content about a specific topic to be baked into the process of creating notes for it. It is frontloading the effort to the point where it has the  least friction.
+        - The next step is really interesting, as the suggestion is for an order to emerge naturally rather than synthetically. Topics, areas and ideas for written work should not be forced, but will reveal themselves as the network becomes larger. 
+    - At the core of the argument is an idea about why we read and write, and how we can use that to produce something valuable from it. Reading is not just acquiring information [( 1 )](((bTl37ljSz))) but the goal of reading, researching, writing, and publishing is to garner something valuable from that process.
+    - The genius of the method that is Zettlekasten is the fact that it repurposes and reimagines the process of note taking into a tool for a given purpose. If a note taking method was to be designed from first principles, it would definitely have to be geared towards a specific purpose and built around how it can achieve that, the zettlekasten is that for nonfiction writing. [[design thinking]]
+    - The zettlekasten is a process of distilling the information that you consume and formulating your thoughts around it into ideas that you can reuse for publications 
+    - we want to not only think of a note taking system to be good for note taking, but to be a tool for a purpose. Sometimes we take too much time focusing on the tools that we use and not on the solutions that we are trying to achieve with those tools.
+        - The goal of the notetaking system is to facilitate your output, to maximize the processing of information that you are doing, and to create positive feedback loops for you to continue thinking rigorously
+            - it does this by modeling the system in a way that parallels what neuroscience has determined about how we think 0
+- [[Quick Capture]]
+    - notes in the slip box dont have to worry about completeness
+    - completeness comes when a final manuscript is being worked on
+    - we cam also create an index for our permanent notes, but we should be thinking of it sparsely. The overview of the slib box is impossible to maintain in working memory.
+the goal of the index is to draw one or two topics maximum to the idea talked about in  the slip box
+relations between notes are more favorable to relations from index to notes
+
+    - every attempt at creating an overview is also treated as a note and is subject to change
+        - there is no primacy when considering the ontology of an overview note, the overview is still seen as a distinct idea.
+        - this is thinking in terms of fractals where the whole and the details have the same importance
+- [[Permanent Notes]]
+    - Writing is difficult, and we tend to do it very seldom. When we do go about doing it, it is cumbersome, hard to group your thoughts together, involves lots of going back and rereading things to put them in the right context, and can be exhausting. Yet today we are consuming more information than ever, more often than ever. 
+    - The book is about a first principles approach to designing a system that has the goal of facilitating the process of thinking through an approach to note taking. Note taking, as it seems, is the lowest effort and most voluminous type of writing that we do, yet the one that is least often focused on when going into the topic of writing. Traditional advice focuses on writing as a linear model from ideation to finished output with discrete steps in the way. This is of course not at all how we actually think, and a very low fidelity model to the point where it can be detrimental to apply it. 
+        - The issue is that thinking of new ideas is an open ended and indeterminate process that cannot be structured. Ideas are good for the connections that they have with other ideas, for the 

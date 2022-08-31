@@ -1,0 +1,1 @@
+- [[brightness]] or lightness {{[[∆]]:14+2}}

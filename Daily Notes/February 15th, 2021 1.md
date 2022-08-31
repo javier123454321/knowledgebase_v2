@@ -1,0 +1,8 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - [[Javascript]] modules
+        - There are many reasons why you want to separate your code into smaller bits that handle individual things. Once you begin scaling your applications beyone a certain level of complexity, grouping your application by concerns is simply the best way to keep track of what you are doing at any given moment. It also allows you to modularize your functionality so rewriting a small part of it is easier in the future. 
+        - It doesn't take long before you start to need to separate out your code beyond functions into their own files when you are writing any substantial program. 
+- [[Literature Notes]]
+- [[Spheres]] 
+- [[Reflection]]

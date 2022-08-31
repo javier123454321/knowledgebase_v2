@@ -1,0 +1,44 @@
+- Type:: [[Book]] 
+- Author:: [[David Epstein]]
+- Subject:: [[generalist]]
+- Status:: [[In Progress]] 
+- Abstract::
+- Summary::
+    - Tiger Woods and Federer both were possibly the best athletes in the world, yet Federer did not specialize into tennis until his early twenties, while Tiger went all in on Golf since he could walk.
+    - There seems to be a growing body of literature that people who have a more diverse upbringing tend to have the greatest impact later in life. 
+        - Taking time to have life experiences and a well rounded education is actually an advantage
+    - Yet we still tend to push people towards hyperspecialization in our culture
+    - [[The Cult of the Head Start]]
+        - story of the Polgars, the Hungarian chess grandmaster from the documentary.  she was brought up to be the best chess player in the world.  through intense early childhood training she got up to 8th in the world. 
+            - chess is about recognizing and mapping patterns in your head.  it is deterministic and measurable,  unlike the type of issues that exist today
+        - Daniel Kahneman on "Heuristics and Biases"
+            - experience leads to confidence but not necessarily skill
+                - chess is about recognizing and mapping patterns in your head.  it is deterministic and measurable,  unlike the type of issues that exist today
+                    - chess is an exception,  not a role.  pattern recognition is not necessarily the right approach in every situation
+        - repetitive pattern recognition is usually called brilliance amd is the most easily automated process.
+            - computers and humans have complimentary and unique skills. "Anything we can do, and can codify, machines will do better" - Kasparov
+                - freestyle chess is the combination of computer aided pattern recognition and open ended strategic human thinking
+                    - chunking is the grouping of information into recognizable patterns - 
+                        - the polar chess recall experiment
+                            - Goblet amd Campitelli IM status in chess will drop from 1 in 4 to 1 in 55 if rigorous training hasn't started before age 12
+                        - savants that can memorize songs cannot memorize atonal non harmonic songs
+                        - athletes have super human reflexes until they get tested in conditions outside of their traditional domain
+            - in Star Craft, a computer has beaten the best players but the strategy is so open ended that they can overcome and adapt
+                - that is exactly the strength of humans, the ability to synthesize information
+                - computers act like savants in that they need controlled patterned and determinate information the case for hyperspecialization
+                    - experts tend to underperform in new situations "How Not to Teach People to Discover Rules"
+                        - cognitive entrenchment
+                        - Savants dont dominate their fields, Nobel Laureates tend to be exceptional in different domains outside their narrow one
+                            - Shannon combining boolean algebra to telecommunication systems to transmit information
+                            - Steve Jobs using his experience with calligraphy to design the typeface of the mac
+                            - Connolly and Gobet research on athletes becoming successful accross domains, due to range.
+    - [[How the Wicked World was Made]]
+        - If the Flynn effect is the phenomenon that in order to keep the median IQ test scores at 100, the questions must get harder
+            - Rupert Sheldrake actually puts a hypothesis that this is not necessarily because people are getting smarter, but because the answers are being more known.
+        - in premodern societies, when an IQ test is administered, the abstraction of a pattern recognition  test is not easy to explain.
+            - across cultures, the less industrialized, the more tied to experience do the individual concepts have to be for making sense of it
+                - we o  the other hand think almost exclusively in terms of abstractions, from scientific metaphors to computerized interfaces 
+                - this level of thinking can explain the Flynn effect
+        - instead of doubling down on widening our horizons and searching for generalized principles applicable in new domains, we double down on specialization. Flynn actually found that by and large people score poorly I  applying the principles of their fields outside their own domain
+    - 
+- Grokked::

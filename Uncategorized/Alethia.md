@@ -1,0 +1,12 @@
+- The truth of existence is an uncovering, not the correspondence theory of truth
+    - Correspondence theory of truth - (Adequation)
+        - Something is true if it matches reality
+        - Requires something more fundamental according to Heidegger
+    - [[Alethia]] looks at the concealing notion of revealing a truth, which takes the focus away from another truth, misdirection
+- An uncovering (literally un-covering) or (dis-covering)
+    - [[Alethia]] According to Heidegger
+        - Truth is not the actual, fake gold is not "true" gold, but is real anyway.
+            - Genuine gold is true gold. True gold is a being that conforms to an idea of what gold should be. 
+                - Truth is the correspondence of the matter to knowledge
+                    - correspondence of a thing to our understanding of that thing
+                    - correspondence of that thing to a proposition of that thing

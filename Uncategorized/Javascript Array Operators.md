@@ -1,0 +1,4 @@
+- [[Javascript]] [[Programming]]
+- [[Map Operator]]
+- [[forEach Operator]]
+- 

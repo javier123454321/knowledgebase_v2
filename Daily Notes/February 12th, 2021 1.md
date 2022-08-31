@@ -1,0 +1,8 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - [[Personal Goals]]
+        - I want to be able to talk about solving issues with scaling up web applications. 
+        - Fullstack
+- [[Literature Notes]]
+- [[Spheres]] 
+- [[Reflection]]

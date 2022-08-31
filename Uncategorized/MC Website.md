@@ -1,0 +1,16 @@
+- [[conversions]] [[landing page]] 
+- Design Revamp marketing page [[Memory Captures]]
+    - Landing Page]([[MC landing page]]):  [[Memory Captures]]
+        - [x] Figma Prototype
+        - [x] Animate Photo Share
+        - [x] Dynamic Counter
+        - [x] Make responsive
+        - [x] display sidebar menu
+        - [x] Cascade Content
+    - Claim Page [[Memory Captures]]
+        - [x] figma prototype
+        - [x] above the fold
+        - [x] Push router param
+        - [x] read router param
+        - [x] Sign up form modal for Newsletter on load
+    - [x] Blog Landing [[Memory Captures]]

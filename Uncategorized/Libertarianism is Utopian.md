@@ -1,0 +1,7 @@
+The ultimate goal of Libertarianism was a utopia according to Robert Nozick a system which would incorporate all other systems. Any kind of organizational structure can still happen within libertarianism, communism is not illegal per se.
+	Today we have things like worker co-ops which are heralded as an experiment of socialism working, under capitalism. [[Richard Wolf]] puts them forth as the example of the type of organizations possible, while similar experiments might be considered illegal in the USSR. ^libertarianism-allows-communism
+
+My issue with libertarianism is that, just like [[communism]], it depends on an idealized notion of the world which does not correspond with any reality whatsoever.
+        - In its practice, Libertarianism applied (pure capitalism without any structured interference imposed on the market) looks like our crony capitalism today.
+        - In practice, [[communism]] applied (collective control over resources) looks like the tankism of the Soviet Union.
+        - By this declaration, even though [Libertarianism is Utopian](Libertarianism%20is%20Utopian.md), it seems more favorable in this regard, although the premise seems faulty. There has to be a better solution than today's liberalism

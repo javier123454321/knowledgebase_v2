@@ -1,0 +1,6 @@
+- Portfolios to look at [[design]] [[inspiration]]
+    - https://natanaelexe.com/
+    - https://rubystudio.dk/
+        - Created BjarkeIngels.dk, super smooth transitions and an amazing way to track where you are. I love th page transition effects.
+    - https://www.satorigraphics.net/
+        - Super clean graphics, smooth sailing, the scroll feels really good.

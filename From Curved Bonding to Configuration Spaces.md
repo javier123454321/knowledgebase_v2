@@ -1,0 +1,9 @@
+- Type:: [[Article]]
+- Source:: https://epub.wu.ac.at/7381/1/zargham_shorish_paruch.pdf
+- Author:: [[Michael Zargham]] [[Jamsheed Shorish]] [[Krzysztof Paruch]]
+- Subject:: [[cryptoeconomics]] [[Token Economics]] [[Token Engineering]]
+- Status:: [[want to read]]
+- Abstract::
+- Summary::
+    - Configuration spaces are the field of possibilities in a design. Mechanisms should be designed to hold true on every configuration space
+- Grokked::

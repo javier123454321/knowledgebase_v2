@@ -1,0 +1,20 @@
+- To be a person that others can look to if they want to do something related to [[E-Learning]] business.
+    - To revolutionize (or be part of the ongoing revolution) in digital learning
+    - To be an authority, and create a solution in this space that scales
+- To speak hungarian with [[Zselyke]]
+- SMART Goals
+    - **S**pecific, **M**easurable, **A**ttainable, **R**elevant and **T**imely.
+        - To be a person that others can look to if they want to do something related to [[E-Learning]] business.
+            - SMART Goal version
+                - To read 5 books on the topic of instructional design and pedagogy for e-learning and document and publish my thoughts on them by January 2020
+                    - John Dewey - [[Experience and Education]] [[November 1st, 2020]] 
+                    - Design for How People Learn [[January 15th, 2020]]
+                    - e-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning [[February 1st, 2020]]
+                    - Ivan Illich - Deschooling Society [[March 16th, 2020]]
+                    - Minds Online: Teaching Effectively with Technology [[January 1st, 2021]]
+                    - Participatory culture in a Neworked Era [[January 16th, 2021]]
+        - To speak hungarian with [[Zselyke]]
+            - Smart Goal Version
+                - To be able to speak in Hungarian for an extended period of time and communicate without having to break into english at all [[March 17, 2021]]
+                    - To do Duolingo every day and have an hour of Hungarian time with [[Zselyke]] in the evenings every day
+                    - Immerse more fully

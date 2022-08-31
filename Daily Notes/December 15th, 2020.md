@@ -1,0 +1,82 @@
+- [[Gratitude List]] 
+- [[Spheres]] 
+    - [[Keypath]]
+        - {{[[query]]: {and: [[TODO]] [[Keypath]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Memory Captures]]
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: {or: [[query]][[Keypath]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+    - [[Generalized Specialized]]
+        - {{[[query]]: {and: [[TODO]] [[Generalized Specialized]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}
+- [[Quick Capture]]
+    - [Ultimate Freelancing Guide for Web Developers](https://www.youtube.com/watch?v=4TIvB8zDFio)
+        - **The Rules for Making Money** (as a freelance developer)
+            - 3 Rules
+                - 1. Understand that the money you make is directly proportional to the value to other people
+                    - Customers don't care about you, your experience. All that matters is the value
+                    - Restaurant
+                        - Want to create an app that lets people order
+                            - CMS vs Custom Solution
+                                - Customer won't pay more for the exact same functionality
+                                - 3000 dollars vs 5000 dollars with parity of features
+                                - Customer situation is not improved. 
+                                - **If we want something custom make customer understand the value of your solutions **
+                                    - Limitations of CMS, how valuable is the flexibility
+                - 2. Focus on your highest paying activities
+                    - Making a simple app that takes 5 hours and you will charge 2,500 vs a 50k app that requires months. 
+                        - It is the simple math. if the second app earns you $350 an hour to make, and the first one earned $500, even if the latter was more overall money.
+                - 3. Understand you have a full time job and should work according to that
+                    - You don't get paid for not going to work. 
+                    - You have to spend the time working on the business
+        - **Planning Your Business**
+            - 1. Funding
+                - You need to be profitable from day one
+                - **Losing money is not OK**
+                    - Recommendation:: [[Profits First]]
+                - Avoid Debt to start your business
+                    - The business needs to fund itself
+                - If you have a full time job, you just got another full time job in Freelance
+                - You can't really go broke if you don't owe money
+            - 2. Niching
+                - Picking a niche is a strategy to make more money, taking anything is a strategy for taking less money
+                - Niching is a way to charge more
+                - Restaurant example
+                    - You have to research restaurants, third party providers.
+                    - You can charge more in the future to other restaurants (Or charge the same for work you have already done)
+                - Allows to build a scalable business
+                    - Taking whatever comes in - learn languages, frameworks, industries.
+                        - Second client repeats the learning. Constantly working more for for less money
+                    - Saying no when something comes that is outside your niche
+                        - [Unsure if I like this]
+                            - It makes sense, but it does not necessarily follow why I want to do the things that I want to do. Makes me more likely to dislike the job that I end up creating for myself. It's more profitable to assembly line the thing, but it s not more interesting. My engagement is also crutial for the long term success of the business. 
+                - Build a niche to something you are interested in or excited about
+            - 3. Defining Services and Payments
+                - 1. How much are you interested in the work
+                    - Boring/dull work make it likely you wont stick it out
+                    - Making it interesting is not enough
+                - 2. To what extent is it scaleable
+                    - Is there a customer base out there?
+                    - Can you do the work that you can reuse?
+                - 3. To what extent is it outsourceable
+                    - Can you do some of the work if you are a junior
+                    - If it can't be outsourceable at all, then it might not be the best thing.
+                - Figuring out the pricing
+                    - Flat fees and value based models are much better tan hourly rates.
+                    - You can charge 3k for a website twice, and the second one is much faster to do
+                        - **This is not sneaky** The customer gets more value
+                            - Expertise
+                            - Resilience
+                                - The site has bugs worked out
+                - Figure out recurring revenue
+                    - Having this takes out the highs and lows and provides flexibility
+            - 4. Forming the Company
+                - What type of business entity makes sense
+                - Not just getting a license but making a company
+                - Forming a corporate entity
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+    - [[What went well?]]
+    - [[What could be better?]]

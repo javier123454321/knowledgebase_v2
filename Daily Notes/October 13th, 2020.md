@@ -1,0 +1,62 @@
+- 
+    - 
+    - ### [[Memory Captures]]
+        - 
+        - [x] Higher filter ad for applicants. [[Memory Captures]] [[October 15th, 2020]]
+            - Focus on sales.
+            - Process for hiring needs to be longer
+        - [x] Talk to Rohit
+        - [x] Update spreadsheet
+        - {{[[query]]: {and: [[TODO]] [[Memory Captures]] {not: [[Daily]]}}}}
+    - ## [[home]]
+        - [x] buy britta ultramax filters [[home]]
+        - {{[[query]]: {and: [[TODO]] [[home]] {not: [[Daily]]}}}}
+    - ## [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: [[Daily]]}}}}
+- [[DONE]]
+    - [x] Send Mike a topic about the conference
+        - 10x developer
+    - [x] Set up environment for [BUSON-11516](https://keypathedu.atlassian.net/browse/BUSON-11516)
+    - [x] Contact Dave about testing Gizmo [[Keypath]]
+- ## [[Quick Capture]]
+    - A UNIX shell runs code after the creating a `fork()` but before calling `exec()`, creating the right environment for a program to run. {{[[r/moved]]}}[*](((VQP7r6Usn)))
+        - A shell shows a prompt and waits for input
+            - It then figures out where the executable resides, and calls `fork()` to create a child process to run the inputted command. 
+                - It runs some variant of `exec()` to run the command
+                    - It uses `wait()` until the child command finishes.
+                    - This allows for chaining
+                        - prompt> wc p3.c > newfile.txt
+    - [[Garry Tan]]
+        - [On Good Taste](https://www.youtube.com/watch?v=X2wLP0izeJE) by Ira Glass
+            - There is always a gap between when you start in a creative field between you and your taste.
+                - Your taste for good creative work got you into the game, but your ability to produce content that matches that taste is not there yet. 
+                    - The ability to tell that you are producing content which is not as good as it could be indicates that it is the right path
+                    - Only through going through a whole body of work that you get there eventually.
+                - Produce A Lot of content and that will finally get you to fill that gap.
+                    - From [[Marketing For Restaurants]]
+                        - ((2CvmdYyFH))
+        - Accountability is key for this process. 
+            - Can create it as a part of your identity
+    - [[Robert Sapolsky]]
+    - Tweet about the growth of administrators in the public school system in the US  
+        - Subject:: #[[E-Learning]]
+            - https://twitter.com/DeAngelisCorey/status/1314618772192362497
+                - Have looked at this trend, the budget is being missallocated away from substance and into bureaucrats. 
+                - Source:: https://www.educationnext.org/growth-administrative-staff-assistant-principals-far-outpaces-teacher-hiring/
+                    - "Union officials and central bureaucrats owe their careers to the bureaucratic labyrinth they create and oversee."
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2FtnFvsFUSRD.png?alt=media&token=f73991da-3a70-4672-b6c2-6cb9c9e08ac9)
+                    - Source:: https://nces.ed.gov/programs/digest/d19/tables/dt19_213.10.asp?current=yes
+- ## Daily:: [[Literature Notes]]
+- ## Daily:: [[Reflection]]
+    - [[What did I learn]]
+        - History crash course on neurobiology
+        - Statistics about the growth of administrators in the us public school system
+    - [[What went well?]]
+        - Roomates dinner
+        - finished stuff for work, feel more comfortable with the team
+    - [[What could be better?]]
+        - Got kind of annoyed at [[Zselyke]] for coming in and nagging me about my in the washing room.
+            - She was right though, I shouldn't leave my clothes there
+                - Need to control my reactions better.
+        - Streaming page
+            - Still struggling to get momentum on that

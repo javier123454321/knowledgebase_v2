@@ -1,0 +1,54 @@
+- [[Gratitude List]]
+- 
+- [[What am I doing today towards my future]]
+- [[Quick Capture]]
+    - **How to Split Equity Among Co-Founders**
+        - Get the founders to feel that people own the company rather than be a worker. 
+        - If you use a vesting schedule with a 1 year dropoff you can maximize cofounder buy in
+    - Sam Altman - How to Succeed with a [[Startup]]
+        - https://www.youtube.com/watch?v=0lJKucu6HJc
+        - The goal of a startup is to build a product that people tell their friends about spontaneously
+            - If it's not easy to explain, then it is unclear thinking
+        - Real trends vs Fake trends
+            - Few people buy an iphone, but use it obsessively
+            - Fake trends is things that many people buy, but people don't use
+        - Startups need an evangelical founder
+            - It's easy to raise funds
+            - Why is employee 20 going to join? 
+        - Go for things which are HUGE if it works.
+        - The Team is the most important thing. Founders go from building a product to building a company. Be obsessive with who you bring in
+        - Idea generators
+            - Useful to have in the company
+        - No more of this is not my department
+            - I got it
+        - What are the network effects of this product.
+        - How will you make money
+        - One no vs One Yes
+            - One no is tiny.
+            - Think of ideas that sound bad but are actually good
+        - Established businesses are too slow to adapt to new platforms
+    - Communicate with Users, Build Something They Want - Ryan Hoover of Product Hunt
+        - https://www.youtube.com/watch?v=tckGI4C7k10
+        - [[Startup School]]
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]
+- [[Literature Notes]]
+- [[Spheres]] 
+    - [[Valorize]]
+        - [Notion Board](https://www.notion.so/59b8a1e9f91846d0ab94ae99b008a999?v=cfc35d56c3b8498783dea4d92146aa7d)
+    - [[Peapod]]
+        - {{[[query]]: {and: [[TODO]] [[Peapod]] {not: {or: [[query]][[Memory Captures]][[Other]][[Personal]]}}}}}
+    - [[Other]]
+        - {{[[query]]: {and: [[TODO]] [[Other]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Personal]]}}}}}
+    - [[Personal]]
+        - {{[[query]]: {and: [[TODO]] [[Personal]] {not: {or: [[query]][[Keypath]][[Memory Captures]][[Other]]}}}}}

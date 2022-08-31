@@ -1,0 +1,24 @@
+- # Minor Keys
+- There are 12 keys in a major and also minor keys.
+- The same key signature represents a relative Minor key
+- We can't just talk about minor scales because minor scales can have multiple types [Minor Scales](drB.md#Minor%20Scales)
+- ## B [[Natural Minor]]
+- ```
+- 1  2  3  4  5  6  7  8/1
+- B  C# D  E  F# G  A  B
+- ```
+- This is the same (notes) as DMajor
+- We can start at B and end at D and D still feels like home.
+- ## The Harmonic Minor 
+- changes the 7th Degree
+- ```
+- 1  2  3  4  5  6  7  8/1
+- B  C# D  E  F# G  A# B
+- ```
+- The 7th degree is the Leading Note. It leads to B, it doesn't feel as though D is home anymore. The leading note changes. The room between 6 and 7th degree is quite far (3 semitones). To smooth out that difference, the melodic scale helps. ^38b220
+- ## Ascending Melodic Scale
+- ```
+- 1  2  3  4  5  6  7  8/1
+- B  C# D  E  F# G#  A# B
+- ```
+- Keeps the sharp 7th (leading to tonic) but raises the 6th to make it easier to go from 6th to 7th. Once you are at the higher octave, it's easier to go down (the 7th isn't leading anymore) so we revert the 7th and 6th to their Natural Minor

@@ -1,0 +1,113 @@
+- ## Daily:: 
+- [[Spheres]] 
+    - ### [[Keypath]]
+        - **Timesheets**
+            - [x]  Go through and tag WD requests for log hours
+        - **Flowchart1**
+            - [x] Record all answers on the page
+            - [x] Add an incorrect answer style for when something is downloaded
+            - [x] Be able to change your mind on an answer
+            - [x] Submit button appears on multiple choice
+            - [x] Display arrows on the solutions
+        - **Dolly Caching**
+            - [x] Apply hotfix dolly
+            - [x] Create PR, tag dave
+    - ### [[Memory Captures]]
+        - [x] Update spreadsheet
+        - [x] Higher filter ad for applicants. [[Memory Captures]] [[October 15th, 2020]]
+        - [x] Talk to Rohit
+        - [x] Pay me the $240
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - ### [[Other]]
+    - ### [[Personal]]
+        - [ ] Investigate persisting login
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+- ## 
+    - [x] buy britta ultramax filters [[home]]
+    - [x] Buy Coffee
+    - [x] Pay Raj [[Memory Captures]]
+        - We can pay Raj the difference today 1,200
+    - [x] Go to T-mobile [[Keypath]]
+    - [x] Group arrows in a single substep
+    - [x] make sure submit button appears on textarea
+        - {{[[POMO]]: 25}} 
+    - [x] Send Mike a topic about the conference
+        - [x] Setup Dolly and Gizmo again
+- ## [[Quick Capture]]
+    - On [[market urbanism]]
+        - Guess that the closes city in the US for this is Houston 
+            - ![](https://preview.redd.it/7hqlyd78fws51.jpg?width=1024&auto=webp&s=4b524e655f284c2bf402fb316ed0b9bf6b83c48a)
+            - This seems like an obvious conclusion of a city with no zoning requirements
+                - [[Patrik Schumacher]] on cities and planning
+                    - When speaking to [[Patrik Schumacher]], I asked him about whether he thought there was a tension between the architect as a planning entity, vs his conception of the free market, and the dangers of planning
+                        - His answer was that the architect behaved more like an entrepreneur. Planning is not necessarily negative, but tends to be when imposed.
+    - [[Tweet]] on writing
+        - https://twitter.com/kaleighf/status/1315652029021380615
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FJavier-knowledge-graph%2Fy4pMDf3aJ0.png?alt=media&token=0acfe680-3342-457e-845b-2bd4a96c7db9)
+    - [[Tim Ferris]] on being a [[specialized]] [[generalist]]
+        - Source:: [Youtube](https://www.youtube.com/watch?v=wCPbPMRNnvk&t=195s)
+        - To be in the top of a highly specialized field, you need to have very refined and specialized knowledge in there, and there is a fraction of a percent chance to get to that point.
+            - It is much more likely to get to the the top percentile of a combination of distinct domains.
+                - Spreading out amongst multiple domains that are seldom combined and going deep into them makes you much more valuable. Finance + Computer Science, etc.
+                - [[Winning even if you fail]]
+                    - Take on projects that will provide skills that transcend the life of a project.
+                        - [[Memory Captures]] plays that role for me. Learning how to manage and create systems, business processesses, management, product architecture, etc. 
+                        - Do not siloh out your projects
+                            - Make career decisions that allows you to be flexible, but do gain domain knowledge of a few key specific areas which will bring benefit into the future.
+    - **[[Roam]] Office Hours**
+        - Note taking apps tend to enforce a top-down structure
+            - You have to select the category of the notes before writing it down
+        - [[Roam]] offers a way to create notes - through the Daily Notes where you record everything, and [[Roam]] aides the bottom up approach of generating new connections.
+            - The structure emerges bottom-up, not top down.
+                - Q. What is a use case of having multiple graphs
+                - 
+        - `[[]]` vs `#`
+            - `[[]]` links are for things in the flow of writing
+            - `#` are used in terms of categories outside the flow of writing.
+        - Blocks are first class citizens in [[Roam]], where the idea lives as an atomic unit. This is perfect for cross referencing, analyzing, and drawing on connections.
+        - **At what point does it make sense to write inside a page vs a daily note?**
+            - Err in the side of tagging a lot, write abut it in daily notes. Tag in anticipation of an article that you want to write
+                - When you are ready to start working on a longer project, article, summary etc, you can make a webpage. You can alias a block reference that expands as you hover over it. [1](((K-Sq3VvxE)))
+    - podcast with John Aronson and Sean Caroll
+        - complexoty in regards to computational efficiency
+        - [[$$p = np$$]]
+            - the subset of problems that can be computed in a polynomial time is labelled $$p$$
+                - these sets of problems are solvable and can definitely be computed as they scale linearly, and can be understood and extrapolated
+            - problems with non polynomial conplexity have the characteristic of taking a fraction of the computational capacity of deriving a solution to verify their solution.
+                - example: hashing functions, factoring large numbers, putting weirdly shaped luggage boxes inside the trunk of a car, sudoku puzzles
+                - **easy to verify, hard to compute**
+            - Computer science assumes that np problems cannot be computed in polynomial time. $$p \neq np$$ meaning that making a problem easy to verify does not mean that it is easy to compute.
+                - this has not been proven but would have massive implications if it was disproven
+- ## [[Literature Notes]]
+    - [[Tim Ferris]] on being a [[specialized]] [[generalist]]
+        - Source:: [Youtube](https://www.youtube.com/watch?v=wCPbPMRNnvk&t=195s)
+        - To be in the top of a highly specialized field, you need to have very refined and specialized knowledge in there, and there is a fraction of a percent chance to get to that point.
+            - It is much more likely to get to the the top percentile of a combination of distinct domains.
+                - Spreading out amongst multiple domains that are seldom combined and going deep into them makes you much more valuable. Finance + Computer Science, etc.
+                - [[Winning even if you fail]]
+                    - Take on projects that will provide skills that transcend the life of a project.
+                        - [[Memory Captures]] plays that role for me. Learning how to manage and create systems, business processesses, management, product architecture, etc. 
+                        - Do not siloh out your projects
+                            - Make career decisions that allows you to be flexible, but do gain domain knowledge of a few key specific areas which will bring benefit into the future.
+        - Being the best at something takes a life to achieve. Specially, in really narrow domains, pattern recognition becomes crucial. Many people did achieve excellence by narrowing down an indefinite rabbit hole like chess, high jump, violin, and other such areas. 
+            - While I have a massive respect for people that achieve such levels of hyperspezialization and humbly cede the fact that I will never be fractionally as good as someone like Magnus Carlsen, I have decided not to pursue the route of hyper localized [[specialization]] that is necessary for that to be achieved. 
+                - I don't even believe that to be a desirable outcome. Bodybuilders for example reach superhumanly low levels of body fat in some cases making women loose their periods and men risk all kind of imbalances in their body for this specific outcome. [Source](https://naturallyintense.net/blog/weight-loss/menstrual-irregularities-amenorrhea-in-female-athletes-reducing-body-fat/)
+                - Ahletes are in much better shape than bodybuilder, however they are still within a domain of hyper [[specialization]], which can sometimes mean that they have to overcompensate in different areas.
+                    - Arguably the most talented chess player in the world Paul Morphy said it best:
+                        - The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life.
+                    - [[Buckminster Fuller]] on Specialization
+                        - Now let us examine more closely what we know scientifically about extinction. At the annual Congress of the American Association for the Advancement of Science, as held approximately ten years ago in Philadelphia, two papers were presented in widely-separated parts of the Congress. One was presented in anthropology and the other in biology, and though the two author-scientists knew nothing of each other’s efforts they were closely related. The one in anthropology examined the case histories of all the known human tribes that had become extinct. The biological paper investigated the case histories of all the known biological species that had become extinct. Both scientists sought for a common cause of extinction. Both of them found a cause, and when the two papers were accidentally brought together it was discovered that the researchers had found the same causes. Extinction in both cases was the consequence of over-[[specialization]]. How does that come about?
+        - Being able to combine different areas (distinct domains) of knowledge is an incredibly valuable tool, and a necessary one for today's massively interconnected world. 
+            - When we are flooded with an infinite amount of information that is accessible with absolutely minimal effort in our part, our job is to become a filter. It might have been true at some point that you could acquire enough information to be the best informed person in the room. Today, everyone can aquire the same amunt of information, as that process has been offloaded to our tiny turing machines hat we take everywhere in our pockets.
+                - The synthesis of data, and the drawing of new connections seems to me more valuable than adding more information into the mix. 
+- ## [[Reflection]]
+    - [[What did I learn]]
+        - about the $$ p=np $$ problem
+    - [[What went well?]]
+        - Paid off Raj today
+        - Explained the [[$$p = np$$]] problem to [[Zselyke]], somewhat succesfully
+    - [[What could be better?]]
+        - More concentrated time, need tools for not being so distracted during work hours

@@ -1,0 +1,45 @@
+- Type:: [[Book]] 
+- Source:: 
+- Author:: 
+- Subject::
+- Status:: [[finished]] [[In Progress]] [[want to read]]
+- Abstract::
+- Summary::
+    - ### Intro
+        - For science
+            - learning went from a focus on consciousness but moved through behaviorism to a more mild approach that uses behavior as the object of study but keeps the possibilities of mental states outside of behavior.
+            - Transfer is the process of using things learnt in one context and applying it to a new one. why are veins and arteries elastic? If you were designing an artificial artery would it need to be?
+        - Pre Existing Knowledge 
+            - People map out new information with the knowledge that they have already.
+                - Mental models are the basis of knowledge, it is an organizational mechanism. They are transferable to different domains and create cross domain knowledge graphs.
+                    - if you believe the earth is flat hearing that it is round makes you imagine a pancake rather than a sphere. 
+            - constructivism is a theory of knowledge, that we build on what we already know to form new knowledge. 
+                - theories of knowledge are not necessarily good theories of pedagogy. 
+                - Active Learning
+                    - the process of involving the student in the teaching activity. 
+                    - focus on meta cognition, reflecting upon what has already been learnt and deciding what to do next. 
+                - lesson 1. students have ideas about the world and learning needs to weave those ideas into new knowledge. 
+                    - ignoring those ideas and taking about how things are without taking them into account makes for confusion
+                - lesson 2 to learn students need factual knowledge, ideas about the facial knowledge, and a way to retrieve those ideas in the mental model they have about those ideas. 
+                    - information is very relevant but it needs to be tied to understanding. Deep understanding is transforming understanding into usable knowledge. 
+                    - experts are better than novice because they can see patterns in the new information and relate it to other sets of information
+                        - experts can also access more information because they know what is relevant and what is not. 
+                            - Maps with borders are easy for novices. but a map without drawn borders becomes harder. experts can, based on knowledge about cities, how they tend to be separated by geographical features, dostanced due to trade, and other facts about resources for cities will outperform a novice significantly.
+                                - Mental models are the basis of knowledge, it is an organizational mechanism. They are transferable to different domains and create cross domain knowledge graphs.
+                                    - they also allow for transfer between similar but distinct subjects.
+                - lesson 3. metacognitive approach to learning - allow students to take control and monitor their learning
+                    - Experts monitor their understanding and check how new information fits within it
+                        - A lot of this internal dialog is shaped cukturally
+                        - The metacognitive processes are not generic and have to be taught in the context of what is being learnt
+    - ### Experts vs Novices
+        - experts are better at organizing knowledge into chunks of relevant information.
+            - A chess master is much more likely to recreate a chess board from memory than a novice, but equally likely to do so if the arrangement os truly random. 
+            - Mastery allows one to recognize patterns and chunk relevamt information.
+                - students should therefore be taught how to see data. They are actually seeing something much different than an expert.
+        - Ecperts begin deducting solutions to problems from principles, rather than from individual tools or techniques which a begginer might do.
+            - Expert level thinking is organized around big fundamental ideas.
+            - if given a set of problems to categorize they will categorize it according to the principles that affect the problem, novices will categorize them according to the surface descriptions of the problem.
+                - a novice will say that these have to do with an incline plane while an exoert will say these have to do with inertia. The categorized problems will not necessarily overlap.
+- Grokked::
+- Quick Capture 
+    - learning does not equal understanding. disconnected facts do not map to the ability to use them in the future.

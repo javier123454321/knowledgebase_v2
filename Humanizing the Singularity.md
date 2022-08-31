@@ -1,0 +1,11 @@
+- Type:: [[Article]]
+- Source:: [[Medium]] [Article](https://medium.com/humanizing-the-singularity/the-mattereum-frontier-351c496e151d)
+- Author:: [[Vinay Gupta]]
+- Subject:: [[smart contracts]] #[[legal frameworks] [[governance]]]
+- Status:: [[finished]]
+- Abstract::
+    - Many efforts have been made to solve the issue of importing data to a blockchain through oracles. Mattereumn is porting data from the chain to the real world. How do you develop a legal framework which takes the decentralized governance of things like smart contracts and make them legally compliant?
+- Summary::
+    - [[automated title holder]]
+        - An entity that appears to be a smart contract to a smart contract and a corporation to a legal system.
+- Grokked::

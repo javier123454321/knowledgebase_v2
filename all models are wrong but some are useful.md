@@ -1,0 +1,2 @@
+- Type:: [[Quote]]
+- Source:: [Anti Pessimism](https://antipessimists.org/podcasts/Roam/), [Youtube Lecture](https://m.youtube.com/watch?v=Vss3nofHpZI)

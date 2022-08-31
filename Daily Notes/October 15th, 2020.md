@@ -1,0 +1,130 @@
+- [[Spheres]] 
+    - [[Keypath]]
+        - **Flowchart1**
+            - [x] Scroll back to page position
+        - **Dolly Caching**
+            - [x] Apply hotfix dolly
+            - [x] Create PR, tag dave
+        - **Flowchart2**
+            - [x] Create graphics in Illustrator 
+            - [x] Toggle modal windows
+            - [x] Record modal anwers
+    - [[Memory Captures]]
+        - [x] Higher filter ad for applicants. [[Memory Captures]] [[October 15th, 2020]]
+            - Focus on sales.
+            - Process for hiring needs to be longer
+            - 
+        - [x] Talk to Rohit
+        - [x] Pay me the $240
+        - Spheres [[Memory Captures]]
+            - [x] Look over supervisor sphere [[Memory Captures]]
+            - [x] Finish stocking sphere [[Memory Captures]]
+    - [[Other]]
+    - [[Personal]]
+- 
+    - [x] Add an incorrect answer style for when something is downloaded
+        - Start-Time:: 16:27
+            - {{[[POMO]]: 25}}
+        - End-Time:: 16:59
+    - [x] fix modal answer size problem on freeform answer
+        - Start-Time::15:50
+            - {{[[POMO]]: 25}}
+        - End-Time:: 16:22
+    - [x] Display arrows on the solutions
+        - Start-Time:: 15:28
+            - {{[[POMO]]: 25}}
+        - End-Time:: 15:43
+    - [x] Fix download modal
+        - Start-Time::  15:15
+            - {{[[POMO]]: 25}}
+        - End-Time:: 15:27
+    - [x]  Go through and tag WD requests for log hours
+        - Start-Time:: 14:45 
+        - End-Time:: 15:04
+            - {{[[POMO]]: 25}}
+        - End-Time:: 
+    - [x] Be able to change your mind on an answer
+        - Start-Time:: 13:35
+            - {{[[POMO]]: 25}}
+            - {{[[POMO]]: 25}}
+        - End-Time:: 14:44
+    - [x] Remove wrong answer checks 
+        - [x] Record all answers on the page
+            - {{[[POMO]]: 25}} 
+            - Start-Time:: -11:21  
+            - End-Time:: 11:45
+    - [x] Submit button appears on multiple choice
+    - [x] make sure submit button appears on textarea
+        - {{[[POMO]]: 25}}
+        - {{[[POMO]]: 25}} 
+        - {{[[POMO]]: 25}}
+        - End-Time:: 11:13
+- [[Quick Capture]]
+    - Systematize your business systems for accelerated success (time - 12:33 -> 13:36)
+        - Type:: [[Video]]
+        - Source:: [Youtube](https://www.youtube.com/watch?v=r6VxBoDjPaQ)
+        - Author:: Mel Abraham
+        - Summary::
+             What is the value proposition of your business? What is the meat
+                - Everything else can be systematized and someone else can handle them. You become a supervisor
+                    - Never let the business slide though, you need to keep an eye in the 
+            1. A good system is customer focused
+                - Cannot take away from the experience of our customers
+            2. A system has to be world class
+                - Beware f the perfoctionist paradox
+                    - A system has to be adjustable and there should always be room for improvement. It cannot be perfect by definition
+            3. Have a system that takes you to where you are going
+                - If the system will be obsolete in 6 moths it might be too fragile
+                - If it is meant to last for 10 years, it might be too broad
+                - Aim for 2-3 years, then re-evaluate.
+            4. Single outcome per system
+                - Having a singular focus allows you to measure whether it is doing what it has to do. 
+                    - Marketing system to attract middle managers in restaurant chains that have multiple locations and 300 chairs at 80% capacity in Chicago.
+            5. Single Ownership per system
+                - Someone has to be responsible for the system
+                    - Fr checking the system
+                    - Making sure that it is being followed
+                    - Making sure that the utcomes are as expected
+                    - You will be the first person running everything at the beggining
+                        - Once we get the latitude and runway to get someone else in that system
+                        - **Focus on that which takes the majority of your time but is not crutial to the creation of value in your system**
+                            - Support functions - record keeping, processing, shipping and receiving. You should focus on the higher value element.
+            6. Make the systems simple and documented
+                - Convoluted systems won't be followed
+                - It also needs documented. If someone gets sick, then someone else can just follow them.
+                    - Someone else should be able to pick the system up and run with it. 
+            7. Measured and rewarded
+                - Assembly line is a straightforward example.
+                - If the system is measureable, it makes it easier to tweak and improve.
+                    - It also allows you to see if it is being followed. It allows you to reward people implementing it correcly
+            Getting good systems in place is an investment in freedom for the future. It allows you to take a break and follow
+            Types of systems to focus on
+                - Attraction || Conversion || Delivery || Connecting || Tracking
+                    - Attraction
+                        - Usually, but not necessarily, marketing
+                        - How are you attracting people to come to your business
+                    - Conversion
+                        - How are you retaining them?
+                        - Once people show some interest, how do you follow up
+                    - Delivery
+                        - How are you fullfilling the process of delivering value for the customers
+                        - How is it being implemented
+                    - Connection
+                        - It takes a group to fullfill all the above. You are always a part of a connected whole
+                            - Do you have a way to bring people in, to nurture
+                    - Tracking
+                        - Track, if you can't measure, you can't manage, you can't improve
+                            - data is the necessary evil in business
+                            - You have to track it, it is the marker to see if the pulse is there
+        - Grokked::
+            - 
+    - Tiago Forte on P.A.R.A.
+        - ____ — via [The PARA Method: A Universal System for Organizing Digital Information - Forte Labs](https://fortelabs.co/blog/para/)
+- [[Literature Notes]]
+- [[Reflection]]
+    - [[What did I learn]]
+        - Robert Sapolski study on variability amongst different scales of studying science
+    - [[What went well?]]
+        - Dinner with Rita and Gautam, was extremely productive at work
+    - [[What could be better?]]
+        - How I communicate with [[Zselyke]]

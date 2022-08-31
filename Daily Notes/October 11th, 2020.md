@@ -1,0 +1,19 @@
+- # [[Quick Capture]]
+    - Theory of Justice
+        - how would we structure a sociaty if we were all behind a [[veil of ignorance]], not knowing which position of society we are a part of. If everyone had the same starting point, according to John Rawls, society would be just.
+        - Freedom, Opportunity, and programs to benefit the worse off.
+    - JavaScript web filesystem API. 
+        - exciting but has security implications. 
+        - exciting because the web seems to becoming more and more like a full on operating system that connects with individual operating systems. The figmas of the world dont work with native filesystems, but what is the future where more and more individual computers are offloading the computational process to remote [[Servers]].
+            - in some sense can we reduce the client to a minimal interface and operate exclusively with remote OS api's? this is in some ways in opposition of the latest trend of offloading computation to the client for non security critical application rendering. Server side rendering 3.0?
+                - Just how thin can you make a thin client
+    - Converstaion with roomate Jake
+        - just how much would our problems be solved by a [[collective maturity]].
+        - if everyone lived their life taking 100% responsibility for their situation (which i dont even do) how much would things be better? Would the riots still happen in Chicago.
+        - i truly think that race relations would be ammended if black people were the bigger person, problematic notion when you have every historical reason to justify resentment.
+        - Need a culture of strongmanning the opposition more often
+        - Augmented reality is absolutel y the new frontier in education. I think VR will take over leisure, but AR will do so industry. Think engineering and education especially.
+            - shared virtual models are gamechangers.
+    - Antipessimists [[Podcast]]: [[Studying the arc of human progress]]
+        - taking full control of your life and following a path that you are interested in. finding the question or problem which will motivate you into the future.
+        - Finding the foundation of your belief structure and diving into it fully. Better health, technology, quality of life, life expectancy, new innovation are good things. This is a moral position.

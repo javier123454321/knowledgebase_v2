@@ -1,0 +1,18 @@
+- [[Gratitude List]]
+    - Being a part of Web3 So early
+    - Having skills that make me valuable
+    - Having a loving wife
+- [[Quick Capture]]
+    - 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]

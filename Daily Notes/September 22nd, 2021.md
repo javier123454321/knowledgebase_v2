@@ -1,0 +1,41 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - {{[[video]]: https://www.youtube.com/watch?v=zgukojxyHKc}}
+        - Why is storage expensive
+            - {{[[video-timestamp]]: 00:03:00}} Storage is expensive in the EVM because unlike a traditional computer where you deal with a single disk, every variable that you instantiate is replicated accross every node in the network
+            - {{[[video-timestamp]]: 00:04:00}} SSTORE and SLOAD opcos are intentionally expensive, because of the limitations above
+                - {{[[video-timestamp]]: 00:04:24}} What to do about it:
+                    - {{[[video-timestamp]]: 00:04:47}} Dont store if you don't have to
+                        - No need to have a mapping which stores a record of an action.
+                        - Use events instead for record keeping
+                            - {{[[video-timestamp]]: 00:05:49}} Events were built for this particualar reason. It is good to emit an event when the state is changed
+                        -  
+                    - {{[[video-timestamp]]: 00:06:43}} Use Constants if You Can
+                        - Constants do not use SLOAD when you pull it from storage
+                        - {{[[video-timestamp]]: 00:07:22}} The immutable variable makes the value unable to be changed.
+                        - {{[[video-timestamp]]: 00:07:45}} A constant value needs to be done during declaration, not construction.
+                        - {{[[video-timestamp]]: 00:08:15}}Reading from storage comes with a saving of 82%
+                        - Tip{{[[video-timestamp]]: 00:08:53}} Make it obvious that a variable is interacting with storage vs immutability. Conventions can be s_{{variable_name}} if it reads through an SLOAD opco
+                    - {{[[video-timestamp]]: 00:09:39}} Don't read and write too often
+                        - Because each load from storage uses SLOAD instead of MLOAD, put it in memory first to use the MLOAD opco which is cheaper
+                        - {{[[video-timestamp]]: 00:11:40}} Cold and warm touches of storage. Warm touches are cheaper and after reading from storage once, the variable remains warm until the function is done executing
+                    - {{[[video-timestamp]]: 00:12:46}} Pack your structs
+                        - Solidity uses 32bit storage slots to allocate memory to variables. 
+                            - uint256 is 32 bytes
+                            - address is 20 bytes
+                            - uint128 is 16 bytes
+                            - uint64 is 8 bytes
+                        - You can pack bytes into the same storage slot, so you can have an address (20 bytes) and a uint96 (12 bytes)
+                        - 
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]

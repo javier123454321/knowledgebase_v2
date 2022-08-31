@@ -1,0 +1,2 @@
+- [[Distributed Ontological Frontline]]
+- [[Schumacher, Harman, Objects, Virtuality, and the Role of Philosophy in Architecture]]

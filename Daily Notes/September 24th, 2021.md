@@ -1,0 +1,36 @@
+- [[Gratitude List]]
+- [[Quick Capture]]
+    - [Stocks vs Options Trading - Should I Trade Options or Stocks?](https://www.youtube.com/watch?v=6jI5KwNqNK4)
+        - Type:: [[Video]]
+        - Source:: 
+        - Author:: 
+        - Subject::
+        - Status:: [[finished]] [[In Progress]] [[want to read]]
+        - Abstract::
+        - Summary::
+            - {{[[video]]: https://www.youtube.com/watch?v=6jI5KwNqNK4}}
+                - {{[[video-timestamp]]: 00:00:32}} Options do not give you ownership  or equity
+                    - Equity is voting rights,  dividends
+                - {{[[video-timestamp]]: 00:01:01}} Options are much less liquid than stocks
+                    - Good option liquidity is terrible stock liquidity
+                - {{[[video-timestamp]]: 00:01:45}} Stocks tend to be much more expensive than options
+                    - Options allow for trading in big name stocks
+                - {{[[video-timestamp]]: 00:02:29}} Versatility
+                    - Stocks give you Buy and Sell, that's it
+                    - Options give you endless options for every market movement
+                    - {{[[video-timestamp]]: 00:03:19}} You can earn 1 dollar per share of microsoft for every 1 dollar of appreciation, and shorting is likewise limiting
+                    - {{[[video-timestamp]]: 00:04:44}} Options have a fixed expiration data, but allow you to provide a break even amount within a range
+                    - {{[[video-timestamp]]: 00:05:54}} Options basically give you the ability to express a myriad of 
+        - Grokked::
+- [[Habits]]
+    - {{[[table]]}}
+        - Habit::
+            - Notes::
+        - [ ] Meditate
+        - [ ] Exercise
+        - [ ] Read a book
+        - [ ] Write
+- [[Reflection]]
+    - [[Do [[DSRP]] model on two distinct objects]]
+    - [[What did I learn]]
+    - [[What could be better?]]

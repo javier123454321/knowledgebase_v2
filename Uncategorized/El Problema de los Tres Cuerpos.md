@@ -1,0 +1,28 @@
+- Type:: [[Book]]
+- Author:: 
+- Subject::
+- Status:: [[In Progress]] 
+- Abstract::
+- Summary::
+    - Capitulo 1
+        - Una pareja de cientificos se encuantran en un juicio impuesto por estudiontes Maoistas.
+        - El esposo se mantiene con un punto de vista empirico, y quiere relatar la verdad a sus estudiantes, aunque esta esté en conflicto con los ideales marxistas de los estudiantes. Los estudiantes lo acusan de ser un reaccionario por enseñar sobre la relatividad, sobre el nacimiento del universo, sobre expresar agnosticismo ante la pregunta de Dios. 
+        - La esposa, también física, alienta a los estudiantes con interpretaciones de la ciencia adaptadas al anti capitalismo del estado. Remplazando el nombre de las constantes universales a frases no "reaccionistas"
+        - La  hija ve como el juicio lleva a los estudiantes poseidos por su ideología a condenar a su padre a un linchamiento publico. Su historia se desenrolla y ella termina también siendo cientifica teórica.
+    - Capitulo 2
+        - La hija, Ya Weixen parece que se exila y se alberga bajo la protección de un cuerpo de construccion. Labor manual que la deja pasar un poco más desapercibida. Hulle de algo, de su pasado quizás, o de la reputación que conlleva ser la hija de un "reaccionario". Ellos talan árboles, y hay una escena que expresa el desinterés que tiene el gobierno con un el ambientalismo. La historia introduce una base que puede controlar, o por lo menos como un efecto secundario, modificar el ambiente, una base secreta de la cual no se sabe nada.
+        - De hecho, un compañero en el mismo grupo le presenta un libro que introduce conceptos ambientales, que indica el daño que le hacemos al medio ambiente al modificarle según cualquier deseo que le venga al humano. Este libro, el trama indica, fue una gran influencia a Weixen en su vida. Ella le ayuda al compañero a escribir una carta que termina incriminandola a ella, y se revela que el gobierno quiere utilizar la cercanía que ella tenía con su padre para verificar la participación de el en un programa del desarollo de armas nucleares en China. 
+        - Ella se reusa a revelar o confirmar cualquier documento que le presentan, y su futuro se ve incierto.
+    - Capitulo 3
+        - Ya Weixen despierta en un helicoptero y aterriza en una base militar deconozida. Aquella extraña máquina que modifica el ambiente. Llegando allí, con un ex estudiante de su padre que se decide dedicar a la ciencia experiemental en ves de la teorica, se le presenta una opción. Dedicar el resto de su vida a el trabajo que se lleva a cabo dentro de esa base militar, o nunca enterarse de lo que sucede adentro.  Decide quedarse.
+    - Capitulo 4
+        - en la era contemporanea (2010) Se encuentra un cientifico experimental recibiendo una visita de mandatarios oficiales que lo escortan a un cuarto militar. En este se encuentra una discucion sobre una sociedad de cientificos que se dedican a encontrar el limite empirico de la ciencia. 
+        - Resulta que los mas prominentes intelectuales que forman parte de esta sociedad se han encontrado suicidados en sus casas, y sus apuntes denotan que es quizas que hayan encontrado el límite de la ciencia. Que no existe la ciencia. Le piden infiltrarse a este grupo para investigar que es lo que sucede con ellos y ver si puede encontrar algo sospechozo.
+- Grokked::
+    - Capitulo 1
+        - Hasta dónde hay una distinción de la ideología con la observación científica? La ciencia se propone como una disciplina completamente objetiva, y hay un argumento bastante válido sobre la utilidad de tratarla como tal. Sin embargo, yo he visto cómo se desenlaza un malentendido en el cual ambos lados del argumento vienen presentando sus hechos, objetivos, con la ciencia supuestamente respaldando dos visiones sobre una realidad que no pueden coexistir. Covid has shaken the foundations of modern epistemology
+
+Habiendo expresado tal escepticismo sobre la epistemología empírica, puedo decir que claramente veo un problema al intentar abandonarla por completo. La contraparte de tal, sería rendirse contra la ideología dominante, y dejarla definir cual evidencia se debería de considerar, cuales conclusiones son aceptables, y como se pueden diseminar ellas. Lastimosamente, en la actualidad, no parece que es una batalla entre el racionalismo y el empiricismo, sino de la ideología cual permite una libre expresión, y una que la remueve por la amenaza que esta presta ante la ideología dominante.
+    - Capitulo 4
+        - Hay dos elementos que existen en tensión a lo largo de esta obra, la teoría y la ciencia. La experimentacion, y la elaboracion de modelos que pueden formular nuevas hipotesis sobre la realidad. 
+        - Godel descubrió que la matematica era incompleta, y con ese descubrimiento, se delineo el limite de el conocimiento racional. Esta consequencia no se ha diseminado a el resto de las disciplinas, que la fisica teórica sería la mas afectada. https://iopscience.iop.org/article/10.1088/1742-6596/1391/1/012067/pdf

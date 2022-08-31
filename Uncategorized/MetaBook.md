@@ -1,0 +1,56 @@
+- [[Features]]
+    - Backend
+        - [x] Auth
+            - [x] Login 
+            - [x] Sign up
+            - [x] Logout
+            - [x] Reset Token
+            - [ ] Login with google https://laracasts.com/discuss/channels/laravel/how-would-one-use-jwt-json-web-tokens-with-laravel-socialite
+        - **Models**
+            - Users
+                - [x] have many books
+            - Books
+                - [x] Has one owner
+                - [x] Has Many Users
+                - [ ] has many spaced repetition cards
+                - [ ] Has many assignments
+                - [ ] Has many cohorts
+            - Cohorts
+                - [ ] Has many users
+                - [ ] Has one book
+            - Assignments
+                - [ ] Has one book
+                - [ ] Has many users
+            - Spaced Repetition Cards
+                - [ ] Has one book
+                - [ ] Has many users
+        - Functionality
+            - [ ] User can choose a book
+            - [ ] From that book, a user can sign up to a cohort that will work on the book
+            - [ ] A user can complete a section of the book
+            - [ ] A user can submit cards for review with spaced repetition
+            - [ ] A user can look at all of their spaced repetition cards
+            - [ ] A user can do an assignment 
+            - [ ] Other users get notified of other users doing an assignment
+            - [ ] Comments on assignments
+            - [ ] Assignment alerts
+    - Frontend
+        - Login Screen
+            - [x] Send Login request
+            - [ ] Display error if not
+            - [ ] Register
+        - Dashboard
+            - [ ] Load your books
+            - [ ] Add new books
+            - [ ] Search function
+            - [ ] Your Spaced Repetition Cards
+        - Profile
+        - Book Reading
+        - Spaced Repetition Screen
+        - Asignment Page
+        - Cohort Page - General Discussion/ threads/ assignments/ Your status
+- [[MVP]]
+    - Launch by [[January 31st, 2021 1]]
+    - I want to define the scope given by the deadline inspired by [[Michael Seibel]] - How to Plan an MVP 
+        - What is the minimum that I could roll out by the 31st Today being [[January 7th, 2021 1]]
+        - You can sign up with a group of people to take "any course" together.
